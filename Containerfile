@@ -16,6 +16,11 @@ FROM ghcr.io/ublue-os/silverblue-main:42
 # CentOS base images: quay.io/centos-bootc/centos-bootc:stream10
 
 ### MODIFICATIONS
+
+## this RUN directive is to enable group installs
+
+RUN mkdir /var/roothome
+
 ## make modifications desired in your image and install packages by modifying the build.sh script
 ## the following RUN directive does all the things required to run "build.sh" as recommended.
 
