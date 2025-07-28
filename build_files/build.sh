@@ -25,7 +25,7 @@ dnf5 -y group install admin-tools \
                       fonts \
                       gnome-deskotp \
                       gnome-games \
-                      guest-desktop-agents \ # for running in a VM
+                      guest-desktop-agents \
                       hardware-support \
                       libreoffice \
                       multimedia \
