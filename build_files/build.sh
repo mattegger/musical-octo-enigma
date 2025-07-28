@@ -19,6 +19,9 @@ set -ouex pipefail
 # Disable COPRs so they don't end up enabled on the final image:
 # dnf5 -y copr disable ublue-os/staging
 
+# this is necessary for group install to work
+mkdir /var/roothome
+
 dnf5 -y group install admin-tools \
                       container-management \
                       design-suite \
