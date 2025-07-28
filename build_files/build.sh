@@ -19,7 +19,21 @@ set -ouex pipefail
 # Disable COPRs so they don't end up enabled on the final image:
 # dnf5 -y copr disable ublue-os/staging
 
-dnf5 -y group install gnome-games
+dnf5 -y group install admin-tools \
+                      container-management \
+                      design-suite \
+                      fonts \
+                      gnome-deskotp \
+                      gnome-games \
+                      guest-desktop-agents \ # for running in a VM
+                      hardware-support \
+                      libreoffice \
+                      multimedia \
+                      network-manager-submodules \
+                      printing \
+                      virtualization \
+                      vlc
+
 
 #dnf5 -y install flatpak-builder \
 #                GraphicsMagick \
