@@ -22,11 +22,26 @@ set -ouex pipefail
 # this is necessary for group install to work
 mkdir /var/roothome
 
-dnf5 -y group install admin-tools \
+#dnf5 -y group install admin-tools \
+#                      container-management \
+#                      design-suite \
+#                      fonts \
+#                      gnome-desktop \
+#                      gnome-games \
+#                      guest-desktop-agents \
+#                      hardware-support \
+#                      libreoffice \
+#                      multimedia \
+#                      network-manager-submodules \
+#                      printing \
+#                      virtualization \
+#                      vlc
+
+dnf5 -y group install --skip-unavailable admin-tools \
                       container-management \
                       design-suite \
                       fonts \
-                      gnome-deskotp \
+                      gnome-desktop \
                       gnome-games \
                       guest-desktop-agents \
                       hardware-support \
@@ -36,7 +51,6 @@ dnf5 -y group install admin-tools \
                       printing \
                       virtualization \
                       vlc
-
 
 #dnf5 -y install flatpak-builder \
 #                GraphicsMagick \
