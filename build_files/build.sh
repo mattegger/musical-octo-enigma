@@ -5,10 +5,6 @@ set -ouex pipefail
 ### Install packages
 
 # Packages can be installed from any enabled yum repo on the image.
-# RPMfusion repos are available by default in ublue main images
-# List of rpmfusion packages can be found here:
-# https://mirrors.rpmfusion.org/mirrorlist?path=free/fedora/updates/39/x86_64/repoview/index.html&protocol=https&redirect=1
-
 # this installs a package from fedora repos
 # dnf5 install -y tmux
 
@@ -22,20 +18,9 @@ set -ouex pipefail
 # this is necessary for group install to work
 mkdir /var/roothome
 
-#dnf5 -y group install admin-tools \
-#                      container-management \
-#                      design-suite \
-#                      fonts \
-#                      gnome-desktop \
-#                      gnome-games \
-#                      guest-desktop-agents \
-#                      hardware-support \
-#                      libreoffice \
-#                      multimedia \
-#                      network-manager-submodules \
-#                      printing \
-#                      virtualization \
-#                      vlc
+# RPMfusion
+dnf5 -y install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+#dnf5 config-manager setopt fedora-cisco-openh264.enabled=1
 
 dnf5 -y group install --skip-unavailable admin-tools \
                       container-management \
