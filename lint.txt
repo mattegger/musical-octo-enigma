@@ -1,0 +1,86 @@
+Lint warning: sysusers: Found /etc/passwd entry without corresponding systemd sysusers.d:
+  abrt
+  nm-openconnect
+  nm-openvpn
+  wsdd
+Found /etc/group entry without corresponding systemd sysusers.d:
+  abrt
+  jackuser
+  libvirt
+  nm-openconnect
+  nm-openvpn
+  qat
+  wsdd
+
+Lint warning: var-tmpfiles: Found content in /var missing systemd tmpfiles.d entries:
+  L /var/lib/unbound/root.key - - - - ../../../etc/unbound/dnssec-root.key
+  d /var/lib/AccountsService 0775 root root - -
+  d /var/lib/AccountsService/icons 0775 root root - -
+  d /var/lib/AccountsService/users 0700 root root - -
+  d /var/lib/PackageKit 0755 root root - -
+  d /var/lib/abrt 0755 root root - -
+  d /var/lib/alsa 0755 root root - -
+  d /var/lib/color 0755 root root - -
+  d /var/lib/color/icc 0755 root root - -
+  d /var/lib/dnsmasq 0755 root dnsmasq - -
+  d /var/lib/flatpak 0755 root root - -
+  d /var/lib/fprint 0700 root root - -
+  d /var/lib/games/gnuchess 0755 root root - -
+  d /var/lib/gdm 1770 gdm gdm - -
+  d /var/lib/gdm/.config 0700 gdm gdm - -
+  d /var/lib/gdm/.config/pulse 0700 gdm gdm - -
+  d /var/lib/geoclue 0755 geoclue geoclue - -
+  d /var/lib/hp 0755 root root - -
+  d /var/lib/httpd 0700 apache apache - -
+  d /var/lib/hyperv 0755 root root - -
+  d /var/lib/iscsi 0755 root root - -
+  d /var/lib/iscsi/ifaces 0755 root root - -
+  d /var/lib/iscsi/isns 0755 root root - -
+  d /var/lib/iscsi/nodes 0755 root root - -
+  d /var/lib/iscsi/send_targets 0755 root root - -
+  d /var/lib/iscsi/slp 0755 root root - -
+  d /var/lib/iscsi/static 0755 root root - -
+  d /var/lib/lensfun-updates 0755 root root - -
+  d /var/lib/libvirt 0755 root root - -
+  d /var/lib/libvirt/boot 0711 root root - -
+  d /var/lib/libvirt/dnsmasq 0755 root root - -
+  d /var/lib/libvirt/filesystems 0711 root root - -
+  d /var/lib/libvirt/images 0711 root root - -
+  d /var/lib/libvirt/network 0700 root root - -
+  d /var/lib/libvirt/qemu 0751 qemu qemu - -
+  d /var/lib/libvirt/qemu/checkpoint 0751 qemu qemu - -
+  d /var/lib/libvirt/qemu/dump 0751 qemu qemu - -
+  d /var/lib/libvirt/qemu/nvram 0751 qemu qemu - -
+  d /var/lib/libvirt/qemu/ram 0751 qemu qemu - -
+  d /var/lib/libvirt/qemu/save 0751 qemu qemu - -
+  d /var/lib/libvirt/qemu/snapshot 0751 qemu qemu - -
+  d /var/lib/libvirt/swtpm 0711 root root - -
+  d /var/lib/net-snmp 0755 root root - -
+  d /var/lib/net-snmp/cert_indexes 0755 root root - -
+  d /var/lib/net-snmp/mib_indexes 0755 root root - -
+  d /var/lib/openvpn 0770 openvpn openvpn - -
+  d /var/lib/swtpm-localca 0750 root root - -
+  d /var/lib/unbound 0755 unbound unbound - -
+  d /var/roothome/.cache 0700 root root - -
+  d /var/spool/abrt 0751 root abrt - -
+  d /var/spool/abrt-upload 0700 abrt abrt - -
+  d /var/spool/cups 0710 root root - -
+  d /var/www 0755 root root - -
+  d /var/www/cgi-bin 0755 root root - -
+  d /var/www/html 0755 root root - -
+Found non-directory/non-symlink files in /var:
+  var/lib/gdm/.config/pulse/default.pa
+  var/lib/systemd/catalog/database
+  var/lib/games/gnuchess/book.dat
+
+Checks passed: 10
+Checks skipped: 1
+Warnings: 2
+
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group dbus does not exist - using root                                
+>>> [RPM] group games does not exist - using root                               
+>>> [RPM] group lock does not exist - using root                                
+>>> [RPM] user tss does not exist - using root                                  
+>>> [RPM] user lp does not exist - using root                                   
+>>> [RPM] group sys does not exist - using root                                 

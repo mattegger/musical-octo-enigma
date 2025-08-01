@@ -1,0 +1,1964 @@
+[   1/1568] Verify package files        100% |  70.0   B/s |   1.5 KiB |  00m22s
+[   2/1568] Prepare transaction         100% | 752.0   B/s |   1.5 KiB |  00m02s
+[   3/1568] Installing libjpeg-turbo-0: 100% |  56.1 MiB/s | 804.9 KiB |  00m00s
+[   4/1568] Installing libpng-2:1.6.44- 100% |  29.7 MiB/s | 242.9 KiB |  00m00s
+[   5/1568] Installing gdk-pixbuf2-0:2. 100% |  17.8 MiB/s |   2.5 MiB |  00m00s
+[   6/1568] Installing google-noto-font 100% |   6.0 MiB/s |  18.5 KiB |  00m00s
+[   7/1568] Installing lcms2-0:2.16-5.f 100% |  42.9 MiB/s | 439.3 KiB |  00m00s
+[   8/1568] Installing libwayland-clien 100% |  12.4 MiB/s |  63.3 KiB |  00m00s
+[   9/1568] Installing libwebp-0:1.5.0- 100% |  44.3 MiB/s | 951.8 KiB |  00m00s
+[  10/1568] Installing graphene-0:1.10. 100% |  17.8 MiB/s | 164.1 KiB |  00m00s
+[  11/1568] Installing google-noto-sans 100% |  81.8 MiB/s |   1.4 MiB |  00m00s
+[  12/1568] Installing abattis-cantarel 100% |  31.6 MiB/s | 194.4 KiB |  00m00s
+[  13/1568] Installing alsa-lib-0:1.2.1 100% |  21.9 MiB/s |   1.4 MiB |  00m00s
+[  14/1568] Installing libepoxy-0:1.5.1 100% |  83.2 MiB/s |   1.1 MiB |  00m00s
+[  15/1568] Installing librevenge-0:0.0 100% |  43.4 MiB/s | 755.6 KiB |  00m00s
+[  16/1568] Installing hicolor-icon-the 100% |   1.7 MiB/s | 179.5 KiB |  00m00s
+[  17/1568] Installing imath-0:3.1.12-2 100% |  26.9 MiB/s | 385.9 KiB |  00m00s
+[  18/1568] Installing gobject-introspe 100% |  22.8 MiB/s | 397.1 KiB |  00m00s
+[  19/1568] Installing fribidi-0:1.0.16 100% |   5.2 MiB/s | 196.8 KiB |  00m00s
+[  20/1568] Installing pixman-0:0.46.2- 100% |  63.2 MiB/s | 711.4 KiB |  00m00s
+[  21/1568] Installing opus-0:1.5.2-2.f 100% |  46.5 MiB/s | 428.6 KiB |  00m00s
+[  22/1568] Installing openjpeg-0:2.5.3 100% |  40.3 MiB/s | 453.8 KiB |  00m00s
+[  23/1568] Installing fftw-libs-double 100% |  85.6 MiB/s |   3.4 MiB |  00m00s
+[  24/1568] Installing vulkan-loader-0: 100% |  37.3 MiB/s | 535.0 KiB |  00m00s
+[  25/1568] Installing libxslt-0:1.1.43 100% |  10.4 MiB/s | 459.2 KiB |  00m00s
+[  26/1568] Installing libogg-2:1.3.5-1 100% |   6.5 MiB/s |  46.9 KiB |  00m00s
+[  27/1568] Installing libgee-0:0.20.8- 100% |  70.5 MiB/s | 938.8 KiB |  00m00s
+[  28/1568] Installing libvorbis-1:1.3. 100% |  54.4 MiB/s | 835.9 KiB |  00m00s
+[  29/1568] Installing libportal-0:0.9. 100% |  28.6 MiB/s | 234.4 KiB |  00m00s
+[  30/1568] Installing libwayland-serve 100% |   9.7 MiB/s |  79.8 KiB |  00m00s
+[  31/1568] Installing vlc-libs-1:3.0.2 100% | 108.2 MiB/s |  41.0 MiB |  00m00s
+[  32/1568] Installing urw-base35-fonts 100% |   9.4 MiB/s |  38.4 KiB |  00m00s
+[  33/1568] Installing gcr-libs-0:4.4.0 100% |  22.2 MiB/s |   1.8 MiB |  00m00s
+[  34/1568] Installing satyr-0:0.43-5.f 100% |   8.4 MiB/s | 345.6 KiB |  00m00s
+[  35/1568] Installing libICE-0:1.1.2-2 100% |  27.9 MiB/s | 199.8 KiB |  00m00s
+[  36/1568] Installing libSM-0:1.2.5-2. 100% |  14.8 MiB/s | 106.4 KiB |  00m00s
+[  37/1568] Installing gvfs-client-0:1. 100% |  44.3 MiB/s |   4.1 MiB |  00m00s
+[  38/1568] Installing libgfortran-0:15 100% | 104.5 MiB/s |   3.3 MiB |  00m00s
+[  39/1568] Installing libsigc++20-0:2. 100% |  11.2 MiB/s |  92.0 KiB |  00m00s
+[  40/1568] Installing glibmm2.4-0:2.66 100% |  84.0 MiB/s |   2.9 MiB |  00m00s
+[  41/1568] Installing libX11-xcb-0:1.8 100% |   2.9 MiB/s |  11.8 KiB |  00m00s
+[  42/1568] Installing tbb-0:2022.0.0-3 100% |  27.7 MiB/s | 453.1 KiB |  00m00s
+[  43/1568] Installing python3-gobject- 100% |  43.5 MiB/s |   1.5 MiB |  00m00s
+[  44/1568] Installing libnotify-0:0.8. 100% |   3.3 MiB/s | 124.6 KiB |  00m00s
+[  45/1568] Installing libwayland-egl-0 100% |   3.3 MiB/s |  13.6 KiB |  00m00s
+[  46/1568] Installing giflib-0:5.2.2-6 100% |  18.5 MiB/s | 113.8 KiB |  00m00s
+[  47/1568] Installing avahi-glib-0:0.9 100% |   6.0 MiB/s |  24.4 KiB |  00m00s
+[  48/1568] Installing libwayland-curso 100% |   6.3 MiB/s |  38.5 KiB |  00m00s
+[  49/1568] Installing libXau-0:1.0.12- 100% |  15.3 MiB/s |  78.5 KiB |  00m00s
+[  50/1568] Installing libxcb-0:1.17.0- 100% |  18.6 MiB/s |   1.1 MiB |  00m00s
+[  51/1568] Installing python3-dbus-0:1 100% |  24.0 MiB/s | 540.2 KiB |  00m00s
+[  52/1568] Installing geoclue2-libs-0: 100% |  23.5 MiB/s | 168.5 KiB |  00m00s
+[  53/1568] Installing libtinysparql-0: 100% |  58.9 MiB/s |   1.3 MiB |  00m00s
+[  54/1568] Installing flac-libs-0:1.4. 100% |  42.8 MiB/s | 700.8 KiB |  00m00s
+[  55/1568] Installing PackageKit-glib- 100% |  50.3 MiB/s | 515.5 KiB |  00m00s
+[  56/1568] Installing orc-0:0.4.41-1.f 100% |  16.6 MiB/s | 728.9 KiB |  00m00s
+[  57/1568] Installing libplist-0:2.6.0 100% |   5.9 MiB/s | 239.7 KiB |  00m00s
+[  58/1568] Installing dconf-0:0.40.0-1 100% |   2.8 MiB/s | 320.0 KiB |  00m00s
+[  59/1568] Installing libdav1d-0:1.5.1 100% |  80.6 MiB/s |   1.7 MiB |  00m00s
+[  60/1568] Installing xmlsec1-1:1.2.41 100% |  13.1 MiB/s | 549.2 KiB |  00m00s
+[  61/1568] Installing libpeas1-0:1.36. 100% |   5.9 MiB/s | 386.1 KiB |  00m00s
+[  62/1568] Installing upower-libs-0:1. 100% |  24.0 MiB/s | 171.9 KiB |  00m00s
+[  63/1568] Installing fdk-aac-0:2.0.3- 100% |  73.3 MiB/s |   1.5 MiB |  00m00s
+[  64/1568] Installing libreoffice-data 100% |  38.2 MiB/s |   3.3 MiB |  00m00s
+[  65/1568] Installing cups-filesystem- 100% | 445.3 KiB/s |   1.8 KiB |  00m00s
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+[  66/1568] Installing cups-libs-1:2.4. 100% |  46.6 MiB/s | 620.1 KiB |  00m00s
+[  67/1568] Installing mpg123-libs-0:1. 100% |  44.3 MiB/s | 816.6 KiB |  00m00s
+[  68/1568] Installing hyphen-0:2.8.8-2 100% |   8.0 MiB/s |  57.5 KiB |  00m00s
+[  69/1568] Installing libsamplerate-0: 100% |  75.6 MiB/s |   1.4 MiB |  00m00s
+[  70/1568] Installing liburing-0:2.9-1 100% |  15.2 MiB/s | 109.1 KiB |  00m00s
+[  71/1568] Installing libsigc++30-0:3. 100% |  13.2 MiB/s |  94.9 KiB |  00m00s
+[  72/1568] Installing twolame-libs-0:0 100% |  27.1 MiB/s | 166.6 KiB |  00m00s
+[  73/1568] Installing libunwind-0:1.8. 100% |  13.8 MiB/s | 197.4 KiB |  00m00s
+[  74/1568] Installing gstreamer1-0:1.2 100% |  36.6 MiB/s |   5.3 MiB |  00m00s
+[  75/1568] Installing gperftools-libs- 100% |  53.1 MiB/s |   1.4 MiB |  00m00s
+[  76/1568] Installing libgfrpc0-0:11.2 100% |  31.0 MiB/s | 222.1 KiB |  00m00s
+[  77/1568] Installing libgfxdr0-0:11.2 100% |  12.9 MiB/s |  52.9 KiB |  00m00s
+[  78/1568] Installing libglusterfs0-0: 100% |  61.7 MiB/s | 884.9 KiB |  00m00s
+[  79/1568] Installing lame-libs-0:3.10 100% |  75.2 MiB/s |   1.2 MiB |  00m00s
+[  80/1568] Installing gsm-0:1.0.22-8.f 100% |  11.5 MiB/s |  70.4 KiB |  00m00s
+[  81/1568] Installing libsndfile-0:1.2 100% |  49.0 MiB/s | 551.6 KiB |  00m00s
+[  82/1568] Installing gsl-0:2.8-1.fc42 100% |  50.2 MiB/s |   3.5 MiB |  00m00s
+[  83/1568] Installing boost-system-0:1 100% |   3.2 MiB/s |  13.2 KiB |  00m00s
+[  84/1568] Installing boost-thread-0:1 100% |  16.3 MiB/s | 133.7 KiB |  00m00s
+[  85/1568] Installing augeas-libs-0:1. 100% |  17.3 MiB/s |   1.2 MiB |  00m00s
+[  86/1568] Installing libreport-0:2.17 100% |  32.2 MiB/s |   2.6 MiB |  00m00s
+[  87/1568] Installing abrt-libs-0:2.17 100% |  11.7 MiB/s |  72.1 KiB |  00m00s
+[  88/1568] Installing libexif-0:0.6.25 100% |  53.4 MiB/s |   2.7 MiB |  00m00s
+[  89/1568] Installing geocode-glib-0:3 100% |  17.3 MiB/s | 230.8 KiB |  00m00s
+[  90/1568] Installing libgweather-0:4. 100% |  75.4 MiB/s |  22.8 MiB |  00m00s
+[  91/1568] Installing libdvdread-0:6.1 100% |  22.6 MiB/s | 161.8 KiB |  00m00s
+[  92/1568] Installing xcb-util-keysyms 100% |   4.3 MiB/s |  17.8 KiB |  00m00s
+[  93/1568] Installing libtheora-1:1.1. 100% |  36.3 MiB/s | 483.7 KiB |  00m00s
+[  94/1568] Installing python3-lxml-0:5 100% |  61.9 MiB/s |   5.0 MiB |  00m00s
+[  95/1568] Installing libmwaw-0:0.3.22 100% | 101.7 MiB/s |   7.2 MiB |  00m00s
+[  96/1568] Installing libodfgen-0:0.1. 100% |  57.1 MiB/s | 759.5 KiB |  00m00s
+[  97/1568] Installing libstaroffice-0: 100% |  80.0 MiB/s |   2.2 MiB |  00m00s
+[  98/1568] Installing babl-0:0.1.114-1 100% |  20.4 MiB/s |   2.0 MiB |  00m00s
+[  99/1568] Installing gvnc-0:1.5.0-3.f 100% |   5.2 MiB/s | 252.4 KiB |  00m00s
+[ 100/1568] Installing jasper-libs-0:4. 100% |  30.8 MiB/s | 347.3 KiB |  00m00s
+[ 101/1568] Installing LibRaw-0:0.21.4- 100% |  89.9 MiB/s |   2.3 MiB |  00m00s
+[ 102/1568] Installing libarrow-doc-0:1 100% |  37.9 MiB/s | 116.6 KiB |  00m00s
+[ 103/1568] Installing openh264-0:2.5.1 100% |  68.5 MiB/s |   1.1 MiB |  00m00s
+[ 104/1568] Installing sane-backends-li 100% |  15.1 MiB/s |  92.9 KiB |  00m00s
+[ 105/1568] Installing libatomic-0:15.1 100% |   9.2 MiB/s |  37.5 KiB |  00m00s
+[ 106/1568] Installing libzip-0:1.11.4- 100% |  22.3 MiB/s | 136.9 KiB |  00m00s
+[ 107/1568] Installing libaec-0:1.1.4-1 100% |  10.1 MiB/s |  92.8 KiB |  00m00s
+[ 108/1568] Installing hdf5-0:1.14.6-3. 100% |  50.2 MiB/s |   6.4 MiB |  00m00s
+[ 109/1568] Installing gssdp-0:1.6.4-1. 100% |  16.1 MiB/s | 148.4 KiB |  00m00s
+[ 110/1568] Installing gupnp-0:1.6.9-1. 100% |  27.5 MiB/s | 309.8 KiB |  00m00s
+[ 111/1568] Installing xdg-dbus-proxy-0 100% |   2.8 MiB/s |  96.1 KiB |  00m00s
+[ 112/1568] Installing x265-libs-0:4.1- 100% | 127.3 MiB/s |  16.7 MiB |  00m00s
+[ 113/1568] Installing speex-0:1.2.0-19 100% |  18.2 MiB/s | 130.4 KiB |  00m00s
+[ 114/1568] Installing libcdio-0:2.1.0- 100% |  10.3 MiB/s | 631.8 KiB |  00m00s
+[ 115/1568] Installing apr-0:1.7.5-2.fc 100% |  32.4 MiB/s | 298.2 KiB |  00m00s
+[ 116/1568] Installing malcontent-libs- 100% |  16.0 MiB/s | 114.4 KiB |  00m00s
+[ 117/1568] Installing woff2-0:1.0.2-22 100% |  13.8 MiB/s | 127.5 KiB |  00m00s
+[ 118/1568] Installing soxr-0:0.1.3-18. 100% |  18.9 MiB/s | 193.6 KiB |  00m00s
+[ 119/1568] Installing boost-iostreams- 100% |  14.9 MiB/s |  91.6 KiB |  00m00s
+[ 120/1568] Installing double-conversio 100% |  13.9 MiB/s |  99.4 KiB |  00m00s
+[ 121/1568] Installing pugixml-0:1.14-2 100% |  29.1 MiB/s | 268.1 KiB |  00m00s
+[ 122/1568] Installing kde-filesystem-0 100% | 695.1 KiB/s |  54.2 KiB |  00m00s
+[ 123/1568] Installing kf5-filesystem-0 100% | 660.9 KiB/s |   3.3 KiB |  00m00s
+[ 124/1568] Installing libglvnd-1:1.7.0 100% |  64.9 MiB/s | 531.6 KiB |  00m00s
+[ 125/1568] Installing libglvnd-opengl- 100% |  29.2 MiB/s | 149.6 KiB |  00m00s
+[ 126/1568] Installing libwmf-lite-0:0. 100% |  25.6 MiB/s | 157.1 KiB |  00m00s
+[ 127/1568] Installing libgusb-0:0.4.9- 100% |  17.8 MiB/s | 163.7 KiB |  00m00s
+[ 128/1568] Installing colord-libs-0:1. 100% |  43.9 MiB/s | 853.7 KiB |  00m00s
+[ 129/1568] Installing libical-0:3.0.20 100% |  58.7 MiB/s |   1.6 MiB |  00m00s
+[ 130/1568] Installing gcr3-base-0:3.41 100% |  55.6 MiB/s | 796.5 KiB |  00m00s
+[ 131/1568] Installing libical-glib-0:3 100% |  97.4 MiB/s |   1.8 MiB |  00m00s
+[ 132/1568] Installing mesa-libGLU-0:9. 100% |  44.3 MiB/s | 362.6 KiB |  00m00s
+[ 133/1568] Installing apr-util-0:1.6.3 100% |  26.6 MiB/s | 218.0 KiB |  00m00s
+[ 134/1568] Installing glibmm2.68-0:2.8 100% |  89.3 MiB/s |   3.2 MiB |  00m00s
+[ 135/1568] Installing libimobiledevice 100% |   3.6 MiB/s | 124.4 KiB |  00m00s
+[ 136/1568] Installing libxkbcommon-x11 100% |   8.9 MiB/s |  36.4 KiB |  00m00s
+[ 137/1568] Installing xcb-util-renderu 100% |   5.0 MiB/s |  25.8 KiB |  00m00s
+[ 138/1568] Installing opensubdiv-0:3.6 100% |  80.5 MiB/s |   1.8 MiB |  00m00s
+[ 139/1568] Installing libxml++-0:2.42. 100% |  36.9 MiB/s | 302.5 KiB |  00m00s
+[ 140/1568] Installing opusfile-0:0.12- 100% |  12.6 MiB/s | 103.5 KiB |  00m00s
+[ 141/1568] Installing raptor2-0:2.0.15 100% |  13.5 MiB/s | 566.2 KiB |  00m00s
+[ 142/1568] Installing ibus-libs-0:1.5. 100% |  69.8 MiB/s | 857.2 KiB |  00m00s
+[ 143/1568] Installing libcdr-0:0.1.8-2 100% |  56.8 MiB/s | 872.1 KiB |  00m00s
+[ 144/1568] Installing libvisio-0:0.1.8 100% |  50.7 MiB/s | 674.4 KiB |  00m00s
+[ 145/1568] Installing google-noto-sans 100% |  61.0 MiB/s | 562.2 KiB |  00m00s
+[ 146/1568] Installing google-noto-seri 100% |  88.3 MiB/s |   1.6 MiB |  00m00s
+[ 147/1568] Installing google-noto-sans 100% |  38.6 MiB/s | 276.8 KiB |  00m00s
+[ 148/1568] Installing fedora-logos-0:4 100% |  27.1 MiB/s |   1.7 MiB |  00m00s
+[ 149/1568] Installing daxctl-libs-0:82 100% |  12.3 MiB/s |  88.4 KiB |  00m00s
+[ 150/1568] Installing gnome-control-ce 100% | 277.3 KiB/s | 568.0   B |  00m00s
+[ 151/1568] Installing librdmacm-0:55.0 100% |  14.1 MiB/s | 144.0 KiB |  00m00s
+[ 152/1568] Installing spirv-tools-libs 100% |  98.0 MiB/s |   5.8 MiB |  00m00s
+[ 153/1568] Installing libshaderc-0:202 100% |  99.5 MiB/s |   3.6 MiB |  00m00s
+[ 154/1568] Installing libvpx-0:1.15.0- 100% |  93.0 MiB/s |   3.3 MiB |  00m00s
+[ 155/1568] Installing git-core-0:2.50. 100% |  88.1 MiB/s |  23.5 MiB |  00m00s
+[ 156/1568] Installing openblas-0:0.3.2 100% |  18.5 MiB/s | 113.5 KiB |  00m00s
+[ 157/1568] Installing geos-0:3.13.0-2. 100% |  54.6 MiB/s |   3.9 MiB |  00m00s
+[ 158/1568] Installing libvpl-1:2.15.0- 100% |  29.9 MiB/s | 428.5 KiB |  00m00s
+[ 159/1568] Installing libevdev-0:1.13. 100% |  13.5 MiB/s |  83.1 KiB |  00m00s
+[ 160/1568] Installing python3-libselin 100% |  37.3 MiB/s | 610.4 KiB |  00m00s
+[ 161/1568] Installing protobuf-0:3.19. 100% |  90.4 MiB/s |   3.3 MiB |  00m00s
+[ 162/1568] Installing blosc-0:1.21.6-6 100% |  14.0 MiB/s | 129.0 KiB |  00m00s
+[ 163/1568] Installing openvdb-libs-0:1 100% | 143.4 MiB/s |  30.4 MiB |  00m00s
+[ 164/1568] Installing libdeflate-0:1.2 100% |  24.3 MiB/s | 124.4 KiB |  00m00s
+[ 165/1568] Installing openexr-libs-0:3 100% | 103.7 MiB/s |   6.5 MiB |  00m00s
+[ 166/1568] Installing x264-libs-0:0.16 100% |  98.1 MiB/s |   2.7 MiB |  00m00s
+[ 167/1568] Installing liblc3-0:1.1.3-1 100% |  33.6 MiB/s | 171.8 KiB |  00m00s
+[ 168/1568] Installing rest-0:0.9.1-12. 100% |  17.5 MiB/s | 196.9 KiB |  00m00s
+[ 169/1568] Installing accountsservice- 100% |   3.9 MiB/s | 391.0 KiB |  00m00s
+>>> Running %post scriptlet: accountsservice-0:23.13.9-8.fc42.x86_64            
+>>> Finished %post scriptlet: accountsservice-0:23.13.9-8.fc42.x86_64           
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/graphical.target.wants/accounts-daemon.
+>>>                                                                             
+[ 170/1568] Installing accountsservice- 100% |  23.2 MiB/s | 213.4 KiB |  00m00s
+[ 171/1568] Installing libsoup-0:2.74.3 100% |  12.7 MiB/s |   1.2 MiB |  00m00s
+[ 172/1568] Installing serd-0:0.32.4-1. 100% |   2.1 MiB/s | 137.2 KiB |  00m00s
+[ 173/1568] Installing wavpack-0:5.8.1- 100% |   7.3 MiB/s | 582.1 KiB |  00m00s
+[ 174/1568] Installing openexr2-libs-0: 100% |  47.7 MiB/s |   4.3 MiB |  00m00s
+[ 175/1568] Installing rav1e-libs-0:0.7 100% |  52.9 MiB/s |   3.0 MiB |  00m00s
+[ 176/1568] Installing minizip-ng-compa 100% |  13.0 MiB/s | 159.3 KiB |  00m00s
+[ 177/1568] Installing potrace-0:1.16-1 100% |   3.9 MiB/s | 245.5 KiB |  00m00s
+[ 178/1568] Installing openal-soft-0:1. 100% |  21.1 MiB/s |   1.6 MiB |  00m00s
+[ 179/1568] Installing fftw-libs-single 100% | 100.5 MiB/s |   3.6 MiB |  00m00s
+[ 180/1568] Installing hyperv-daemons-l 100% |   9.1 MiB/s |  18.7 KiB |  00m00s
+[ 181/1568] Installing libdnf-0:0.74.0- 100% |  34.6 MiB/s |   2.2 MiB |  00m00s
+[ 182/1568] Installing xml-common-0:0.6 100% |   7.2 MiB/s |  81.1 KiB |  00m00s
+[ 183/1568] Installing iso-codes-0:4.17 100% |  37.6 MiB/s |  20.5 MiB |  00m01s
+[ 184/1568] Installing jbigkit-libs-0:2 100% |  20.1 MiB/s | 123.4 KiB |  00m00s
+[ 185/1568] Installing python3-systemd- 100% |  18.8 MiB/s | 347.2 KiB |  00m00s
+[ 186/1568] Installing python3-libdnf-0 100% | 100.7 MiB/s |   3.7 MiB |  00m00s
+[ 187/1568] Installing freexl-0:2.0.0-1 100% |  18.4 MiB/s |  94.5 KiB |  00m00s
+[ 188/1568] Installing libiscsi-0:1.20. 100% |   2.3 MiB/s | 229.8 KiB |  00m00s
+[ 189/1568] Installing liborcus-0:0.20. 100% |  79.0 MiB/s |   1.7 MiB |  00m00s
+[ 190/1568] Installing libcdio-paranoia 100% |   5.3 MiB/s | 194.0 KiB |  00m00s
+[ 191/1568] Installing libshout-0:2.4.6 100% |   5.6 MiB/s | 177.0 KiB |  00m00s
+[ 192/1568] Installing dleyna-0:0.8.3-6 100% |  15.0 MiB/s |  76.8 KiB |  00m00s
+[ 193/1568] Installing alembic-libs-0:1 100% |  99.3 MiB/s |   1.7 MiB |  00m00s
+[ 194/1568] Installing hdf-libs-0:4.3.0 100% |  67.2 MiB/s | 688.3 KiB |  00m00s
+[ 195/1568] Installing javascriptcoregt 100% | 146.2 MiB/s |  30.0 MiB |  00m00s
+[ 196/1568] Installing javascriptcoregt 100% | 149.1 MiB/s |  30.0 MiB |  00m00s
+[ 197/1568] Installing libdvdnav-0:6.1. 100% |  23.8 MiB/s | 121.7 KiB |  00m00s
+[ 198/1568] Installing boost-chrono-0:1 100% |   7.5 MiB/s |  38.5 KiB |  00m00s
+[ 199/1568] Installing glusterfs-client 100% | 112.0 MiB/s |   3.2 MiB |  00m00s
+[ 200/1568] Installing libgfapi0-0:11.2 100% |  27.2 MiB/s | 222.8 KiB |  00m00s
+[ 201/1568] Installing qemu-img-2:9.2.4 100% | 145.0 MiB/s |  23.2 MiB |  00m00s
+[ 202/1568] Installing rubberband-libs- 100% |  25.0 MiB/s | 460.2 KiB |  00m00s
+[ 203/1568] Installing cups-client-1:2. 100% |   3.2 MiB/s | 183.6 KiB |  00m00s
+[ 204/1568] Installing xcb-util-wm-0:0. 100% |  13.5 MiB/s |  83.2 KiB |  00m00s
+[ 205/1568] Installing xcb-util-0:0.4.1 100% |   6.8 MiB/s |  27.7 KiB |  00m00s
+[ 206/1568] Installing xcb-util-image-0 100% | 327.6 KiB/s |  23.6 KiB |  00m00s
+>>> Running sysusers scriptlet: geoclue2-0:2.7.2-2.fc42.x86_64                  
+>>> Finished sysusers scriptlet: geoclue2-0:2.7.2-2.fc42.x86_64                 
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'geoclue' with GID 978.                                      
+>>> Creating user 'geoclue' (User for geoclue) with UID 978 and GID 978.        
+>>>                                                                             
+[ 207/1568] Installing geoclue2-0:2.7.2 100% |   8.5 MiB/s | 399.6 KiB |  00m00s
+[ 208/1568] Installing python3-dasbus-0 100% |  15.0 MiB/s | 414.5 KiB |  00m00s
+[ 209/1568] Installing movit-data-0:1.7 100% |   3.6 MiB/s |  51.1 KiB |  00m00s
+[ 210/1568] Installing movit-0:1.7.1-6. 100% |  48.1 MiB/s | 640.9 KiB |  00m00s
+[ 211/1568] Installing libfreehand-0:0. 100% |  44.5 MiB/s | 455.2 KiB |  00m00s
+[ 212/1568] Installing libmspub-0:0.1.4 100% |  33.7 MiB/s | 414.2 KiB |  00m00s
+[ 213/1568] Installing libpagemaker-0:0 100% |  19.1 MiB/s | 156.4 KiB |  00m00s
+[ 214/1568] Installing libqxp-0:0.0.2-3 100% |  29.3 MiB/s | 330.1 KiB |  00m00s
+[ 215/1568] Installing libzmf-0:0.0.2-3 100% |  22.3 MiB/s | 182.6 KiB |  00m00s
+[ 216/1568] Installing libwps-0:0.4.14- 100% |  79.7 MiB/s |   2.1 MiB |  00m00s
+[ 217/1568] Installing libwpd-0:0.10.3- 100% |  56.3 MiB/s | 691.9 KiB |  00m00s
+[ 218/1568] Installing libwpg-0:0.3.4-5 100% |  20.9 MiB/s | 171.0 KiB |  00m00s
+[ 219/1568] Installing portmidi-0:217-6 100% |   1.4 MiB/s |  57.0 KiB |  00m00s
+[ 220/1568] Installing libmng-0:2.0.3-2 100% |  44.3 MiB/s | 544.3 KiB |  00m00s
+[ 221/1568] Installing google-noto-sans 100% |  60.7 MiB/s | 435.4 KiB |  00m00s
+[ 222/1568] Installing google-noto-sans 100% |   9.0 MiB/s |  27.6 KiB |  00m00s
+[ 223/1568] Installing gtk-update-icon- 100% |   1.8 MiB/s |  63.3 KiB |  00m00s
+[ 224/1568] Installing libmediaart-0:1. 100% |  11.9 MiB/s |  85.2 KiB |  00m00s
+[ 225/1568] Installing libvncserver-0:0 100% |  58.0 MiB/s |   1.0 MiB |  00m00s
+[ 226/1568] Installing aribb24-0:1.0.3^ 100% |  10.2 MiB/s |  83.2 KiB |  00m00s
+[ 227/1568] Installing zvbi-0:0.2.43-2. 100% |  13.8 MiB/s |   1.2 MiB |  00m00s
+[ 228/1568] Installing libv4l-0:1.28.1- 100% |  18.8 MiB/s | 366.2 KiB |  00m00s
+[ 229/1568] Installing qpdf-libs-0:11.1 100% |  83.6 MiB/s |   2.8 MiB |  00m00s
+[ 230/1568] Installing python3-matplotl 100% |  92.0 MiB/s |   7.9 MiB |  00m00s
+[ 231/1568] Installing python3-matplotl 100% |  23.9 MiB/s | 760.1 KiB |  00m00s
+[ 232/1568] Installing libraw1394-0:2.1 100% |   3.7 MiB/s | 162.2 KiB |  00m00s
+[ 233/1568] Installing lttng-ust-0:2.13 100% |  27.9 MiB/s |   1.1 MiB |  00m00s
+[ 234/1568] Installing libtpms-0:0.10.1 100% |  68.1 MiB/s |   1.0 MiB |  00m00s
+[ 235/1568] Installing thrift-0:0.20.0- 100% |  62.6 MiB/s |   4.8 MiB |  00m00s
+[ 236/1568] Installing librados2-2:19.2 100% |  36.2 MiB/s |  17.4 MiB |  00m00s
+[ 237/1568] Installing librbd1-2:19.2.2 100% |  38.0 MiB/s |  15.9 MiB |  00m00s
+[ 238/1568] Installing libei-0:1.4.1-1. 100% |  18.9 MiB/s | 116.4 KiB |  00m00s
+[ 239/1568] Installing gutenprint-libs- 100% |  40.9 MiB/s | 335.4 KiB |  00m00s
+[ 240/1568] Installing mythes-0:1.2.5-8 100% |   4.0 MiB/s |  24.8 KiB |  00m00s
+[ 241/1568] Installing clucene-core-0:2 100% |  73.6 MiB/s |   1.8 MiB |  00m00s
+[ 242/1568] Installing parted-0:3.6-11. 100% |  31.0 MiB/s |   2.5 MiB |  00m00s
+[ 243/1568] Installing bluez-libs-0:5.8 100% |  27.8 MiB/s | 199.4 KiB |  00m00s
+[ 244/1568] Installing faad2-libs-1:2.1 100% |  64.5 MiB/s | 594.5 KiB |  00m00s
+[ 245/1568] Installing libnfs-0:6.0.2-6 100% |  53.1 MiB/s | 544.0 KiB |  00m00s
+[ 246/1568] Installing mtdev-0:1.1.6-10 100% |   7.4 MiB/s |  30.4 KiB |  00m00s
+[ 247/1568] Installing libquadmath-0:15 100% |  31.2 MiB/s | 319.2 KiB |  00m00s
+[ 248/1568] Installing abseil-cpp-0:202 100% |  22.7 MiB/s |   2.3 MiB |  00m00s
+[ 249/1568] Installing libmspack-0:0.10 100% |  18.3 MiB/s | 149.5 KiB |  00m00s
+[ 250/1568] Installing adobe-mappings-c 100% |  91.5 MiB/s |  15.2 MiB |  00m00s
+[ 251/1568] Installing mesa-filesystem- 100% |   2.1 MiB/s |   4.3 KiB |  00m00s
+[ 252/1568] Installing glfw-1:3.4-4.fc4 100% |  37.5 MiB/s | 383.5 KiB |  00m00s
+[ 253/1568] Installing embree-0:4.4.0-1 100% | 116.1 MiB/s |  92.3 MiB |  00m01s
+[ 254/1568] Installing rocm-llvm-filesy 100% | 421.8 KiB/s |  13.9 KiB |  00m00s
+[ 255/1568] Installing rocm-libc++-0:18 100% |  20.9 MiB/s |   1.5 MiB |  00m00s
+[ 256/1568] Installing rocm-llvm-libs-0 100% |  44.5 MiB/s |  93.8 MiB |  00m02s
+[ 257/1568] Installing rocm-clang-libs- 100% |  49.8 MiB/s | 113.9 MiB |  00m02s
+[ 258/1568] Installing uriparser-0:0.9. 100% |   4.4 MiB/s | 139.8 KiB |  00m00s
+[ 259/1568] Installing libwinpr-2:3.16. 100% |  67.9 MiB/s |   1.2 MiB |  00m00s
+[ 260/1568] Installing libqhull_r-1:8.0 100% |  59.1 MiB/s | 484.1 KiB |  00m00s
+[ 261/1568] Installing dejavu-sans-font 100% | 128.1 MiB/s |   5.5 MiB |  00m00s
+[ 262/1568] Installing gpgmepp-0:1.24.3 100% |  46.7 MiB/s | 430.4 KiB |  00m00s
+[ 263/1568] Installing gupnp-av-0:0.14. 100% |  35.2 MiB/s | 360.6 KiB |  00m00s
+[ 264/1568] Installing pcre2-utf16-0:10 100% |  76.6 MiB/s | 627.1 KiB |  00m00s
+[ 265/1568] Installing tcl8-1:8.6.15-10 100% |  25.4 MiB/s |   4.3 MiB |  00m00s
+[ 266/1568] Installing python3-audit-0: 100% |  46.9 MiB/s | 288.2 KiB |  00m00s
+[ 267/1568] Installing vid.stab-0:1.1.1 100% |  18.2 MiB/s |  93.4 KiB |  00m00s
+[ 268/1568] Installing liblqr-1-0:0.4.2 100% |  25.0 MiB/s | 102.6 KiB |  00m00s
+[ 269/1568] Installing liblerc-0:4.0.0- 100% |  69.2 MiB/s | 637.6 KiB |  00m00s
+[ 270/1568] Installing libtiff-0:4.7.0- 100% |  50.6 MiB/s | 621.3 KiB |  00m00s
+[ 271/1568] Installing vigra-0:1.12.1-1 100% |  52.1 MiB/s | 533.1 KiB |  00m00s
+[ 272/1568] Installing gdk-pixbuf2-modu 100% |  15.8 MiB/s |  64.6 KiB |  00m00s
+[ 273/1568] Installing python3-argcompl 100% |   7.9 MiB/s | 330.6 KiB |  00m00s
+[ 274/1568] Installing libsbc-0:2.0-6.f 100% |  23.1 MiB/s |  94.5 KiB |  00m00s
+[ 275/1568] Installing libebur128-0:1.2 100% |   9.9 MiB/s |  40.7 KiB |  00m00s
+[ 276/1568] Installing libde265-0:1.0.1 100% |  56.5 MiB/s | 578.9 KiB |  00m00s
+[ 277/1568] Installing intel-gmmlib-0:2 100% |  87.8 MiB/s | 809.1 KiB |  00m00s
+[ 278/1568] Installing libmysofa-0:1.3. 100% |  13.0 MiB/s |  80.1 KiB |  00m00s
+[ 279/1568] Installing libunibreak-0:6. 100% |  27.5 MiB/s | 140.8 KiB |  00m00s
+[ 280/1568] Installing srt-libs-0:1.5.4 100% |  75.0 MiB/s | 998.9 KiB |  00m00s
+[ 281/1568] Installing libssh2-0:1.11.1 100% |  45.3 MiB/s | 324.4 KiB |  00m00s
+[ 282/1568] Installing libmodplug-1:0.8 100% |  38.7 MiB/s | 357.0 KiB |  00m00s
+[ 283/1568] Installing libmad-0:0.16.4- 100% |  29.5 MiB/s | 181.0 KiB |  00m00s
+[ 284/1568] Installing libkate-0:0.4.1- 100% |  15.8 MiB/s | 129.2 KiB |  00m00s
+[ 285/1568] Installing libebml-0:1.4.5- 100% |  31.2 MiB/s | 192.0 KiB |  00m00s
+[ 286/1568] Installing game-music-emu-0 100% |  46.4 MiB/s | 332.8 KiB |  00m00s
+[ 287/1568] Installing taglib-0:1.13.1- 100% |  73.7 MiB/s |   1.1 MiB |  00m00s
+[ 288/1568] Installing opencore-amr-0:0 100% |  34.3 MiB/s | 351.2 KiB |  00m00s
+[ 289/1568] Installing webrtc-audio-pro 100% |  65.2 MiB/s |   1.4 MiB |  00m00s
+[ 290/1568] Installing libmpeg2-0:0.5.1 100% |  19.2 MiB/s | 177.3 KiB |  00m00s
+[ 291/1568] Installing liba52-0:0.7.4-5 100% |  10.7 MiB/s |  87.2 KiB |  00m00s
+[ 292/1568] Installing vlc-plugins-base 100% |  20.0 MiB/s |   7.1 MiB |  00m00s
+[ 293/1568] Installing net-snmp-libs-1: 100% |  57.8 MiB/s |   3.1 MiB |  00m00s
+[ 294/1568] Installing liboauth-0:1.0.3 100% |   8.9 MiB/s |  45.7 KiB |  00m00s
+[ 295/1568] Installing libxshmfence-0:1 100% |   3.3 MiB/s |  13.6 KiB |  00m00s
+[ 296/1568] Installing libmtp-0:1.1.19- 100% |  49.5 MiB/s | 507.2 KiB |  00m00s
+[ 297/1568] Installing libgtop2-0:2.41. 100% |   9.5 MiB/s | 525.6 KiB |  00m00s
+[ 298/1568] Installing libieee1284-0:0. 100% |   3.2 MiB/s |  96.0 KiB |  00m00s
+[ 299/1568] Installing python3-pyqt5-si 100% |  22.5 MiB/s | 160.9 KiB |  00m00s
+[ 300/1568] Installing libimagequant-0: 100% |  68.9 MiB/s | 705.9 KiB |  00m00s
+[ 301/1568] Installing zix-0:0.6.2-1.fc 100% |   9.8 MiB/s |  60.1 KiB |  00m00s
+[ 302/1568] Installing sord-0:0.16.18-1 100% |   2.9 MiB/s |  88.0 KiB |  00m00s
+[ 303/1568] Installing soundtouch-0:2.3 100% |   7.9 MiB/s | 243.5 KiB |  00m00s
+[ 304/1568] Installing libid3tag-0:0.16 100% |  19.3 MiB/s | 118.5 KiB |  00m00s
+[ 305/1568] Installing python3-pyparsin 100% |  54.5 MiB/s |   1.0 MiB |  00m00s
+[ 306/1568] Installing libmypaint-0:1.6 100% |  19.1 MiB/s | 921.6 KiB |  00m00s
+[ 307/1568] Installing cfitsio-0:4.6.0- 100% |  93.0 MiB/s |   1.9 MiB |  00m00s
+[ 308/1568] Installing libvmaf-0:3.0.0- 100% |  73.5 MiB/s | 828.4 KiB |  00m00s
+[ 309/1568] Installing libaom-0:3.12.0- 100% | 124.9 MiB/s |   5.0 MiB |  00m00s
+[ 310/1568] Installing ptex-libs-0:2.4. 100% |  56.8 MiB/s | 523.1 KiB |  00m00s
+[ 311/1568] Installing libfontenc-0:1.1 100% |   4.4 MiB/s |  72.3 KiB |  00m00s
+[ 312/1568] Installing appstream-data-0 100% |  26.8 MiB/s |  15.5 MiB |  00m01s
+[ 313/1568] Installing xmlrpc-c-0:1.60. 100% |  26.0 MiB/s | 505.9 KiB |  00m00s
+[ 314/1568] Installing dbus-tools-1:1.1 100% |   3.5 MiB/s | 114.2 KiB |  00m00s
+[ 315/1568] Installing vpnc-script-0:20 100% |  18.8 MiB/s |  38.6 KiB |  00m00s
+[ 316/1568] Installing mobile-broadband 100% |  82.3 MiB/s | 505.4 KiB |  00m00s
+[ 317/1568] Installing usbredir-0:0.15. 100% |  17.6 MiB/s | 107.8 KiB |  00m00s
+[ 318/1568] Installing libphodav-0:3.0- 100% |   7.1 MiB/s | 145.7 KiB |  00m00s
+[ 319/1568] Installing libcacard-3:2.8. 100% |  23.6 MiB/s | 120.6 KiB |  00m00s
+[ 320/1568] Installing hunspell-filesys 100% | 378.9 KiB/s | 388.0   B |  00m00s
+[ 321/1568] Installing hunspell-en-US-0 100% |  77.9 MiB/s | 558.1 KiB |  00m00s
+[ 322/1568] Installing hunspell-0:1.7.2 100% |  19.3 MiB/s |   1.4 MiB |  00m00s
+[ 323/1568] Installing enchant2-0:2.8.2 100% |   5.6 MiB/s | 200.1 KiB |  00m00s
+[ 324/1568] Installing graphite2-0:1.3. 100% |   6.4 MiB/s | 197.9 KiB |  00m00s
+[ 325/1568] Installing harfbuzz-0:10.4. 100% | 101.8 MiB/s |   2.7 MiB |  00m00s
+[ 326/1568] Installing freetype-0:2.13. 100% |  64.6 MiB/s | 859.9 KiB |  00m00s
+[ 327/1568] Installing harfbuzz-icu-0:1 100% |   5.3 MiB/s |  16.3 KiB |  00m00s
+[ 328/1568] Installing libraqm-0:0.10.1 100% |   7.3 MiB/s |  29.7 KiB |  00m00s
+[ 329/1568] Installing libgta-0:1.2.1-1 100% |  17.4 MiB/s |  71.5 KiB |  00m00s
+[ 330/1568] Installing python3-libxml2- 100% |  85.8 MiB/s |   1.2 MiB |  00m00s
+[ 331/1568] Installing initscripts-serv 100% | 254.7 KiB/s |   6.4 KiB |  00m00s
+[ 332/1568] Installing emacs-filesystem 100% | 265.6 KiB/s | 544.0   B |  00m00s
+[ 333/1568] Installing desktop-file-uti 100% |   6.6 MiB/s | 222.2 KiB |  00m00s
+[ 334/1568] Installing xdg-utils-0:1.2. 100% |  10.7 MiB/s | 349.5 KiB |  00m00s
+[ 335/1568] Installing libcloudprovider 100% |  15.4 MiB/s | 126.2 KiB |  00m00s
+[ 336/1568] Installing xdg-user-dirs-0: 100% |   2.0 MiB/s | 181.6 KiB |  00m00s
+>>> Running %post scriptlet: xdg-user-dirs-0:0.18-9.fc42.x86_64                 
+>>> Finished %post scriptlet: xdg-user-dirs-0:0.18-9.fc42.x86_64                
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/user/graphical-session-pre.target.wants/xdg-us
+>>>                                                                             
+[ 337/1568] Installing libvirt-gconfig- 100% |  41.6 MiB/s | 383.3 KiB |  00m00s
+[ 338/1568] Installing OpenThreads-0:3. 100% |  25.6 MiB/s | 209.5 KiB |  00m00s
+[ 339/1568] Installing libidn-0:1.42-5. 100% |  11.0 MiB/s | 652.0 KiB |  00m00s
+[ 340/1568] Installing mkfontscale-0:1. 100% |   1.3 MiB/s |  46.4 KiB |  00m00s
+[ 341/1568] Installing urw-base35-fonts 100% |  25.1 MiB/s |   4.3 MiB |  00m00s
+[ 342/1568] Installing libXfont2-0:2.0. 100% |  13.3 MiB/s | 340.2 KiB |  00m00s
+[ 343/1568] Installing dbus-daemon-1:1. 100% |   5.1 MiB/s | 457.0 KiB |  00m00s
+>>> [RPM] group dbus does not exist - using root                                
+[ 344/1568] Installing xmlrpc-c-client- 100% |   8.6 MiB/s |  52.6 KiB |  00m00s
+[ 345/1568] Installing libreport-web-0: 100% |   7.4 MiB/s |  53.3 KiB |  00m00s
+[ 346/1568] Installing libreport-plugin 100% |   2.1 MiB/s |  77.8 KiB |  00m00s
+[ 347/1568] Installing libreport-plugin 100% |   1.1 MiB/s |  40.8 KiB |  00m00s
+[ 348/1568] Installing libreport-plugin 100% |   2.5 MiB/s | 100.6 KiB |  00m00s
+[ 349/1568] Installing sratom-0:0.6.18- 100% |   7.5 MiB/s |  46.0 KiB |  00m00s
+[ 350/1568] Installing lilv-libs-0:0.24 100% |  12.7 MiB/s | 117.0 KiB |  00m00s
+[ 351/1568] Installing vlc-cli-1:3.0.21 100% | 842.3 KiB/s |  31.2 KiB |  00m00s
+[ 352/1568] Installing vlc-plugin-lua-1 100% |  20.6 MiB/s | 886.7 KiB |  00m00s
+[ 353/1568] Installing libmatroska-0:1. 100% |  53.5 MiB/s | 657.1 KiB |  00m00s
+[ 354/1568] Installing libspatialaudio- 100% |  60.6 MiB/s |   1.3 MiB |  00m00s
+[ 355/1568] Installing enblend-0:4.2-33 100% |  63.8 MiB/s |   5.1 MiB |  00m00s
+[ 356/1568] Installing dcmtk-0:3.6.9-2. 100% |  83.1 MiB/s |  40.4 MiB |  00m00s
+[ 357/1568] Installing libsane-airscan- 100% |  23.2 MiB/s | 285.7 KiB |  00m00s
+[ 358/1568] Installing sane-airscan-0:0 100% |   4.8 MiB/s | 175.8 KiB |  00m00s
+[ 359/1568] Installing sane-backends-0: 100% |   3.1 MiB/s |   3.2 MiB |  00m01s
+[ 360/1568] Installing leptonica-0:1.85 100% |  88.8 MiB/s |   3.0 MiB |  00m00s
+[ 361/1568] Installing tesseract-libs-0 100% |  94.3 MiB/s |   3.3 MiB |  00m00s
+[ 362/1568] Installing libkml-0:1.3.0-5 100% |  48.5 MiB/s |   1.2 MiB |  00m00s
+[ 363/1568] Installing rocm-lld-0:18-37 100% |  38.6 MiB/s |   6.5 MiB |  00m00s
+[ 364/1568] Installing rocm-llvm-0:18-3 100% |  40.0 MiB/s |  79.3 MiB |  00m02s
+[ 365/1568] Installing rocm-llvm-devel- 100% |  27.6 MiB/s |  24.7 MiB |  00m01s
+[ 366/1568] Installing rocm-llvm-static 100% |  49.0 MiB/s | 233.9 MiB |  00m05s
+[ 367/1568] Installing rocm-libc++-deve 100% |  20.4 MiB/s |   7.2 MiB |  00m00s
+[ 368/1568] Installing adobe-mappings-c 100% |  47.6 MiB/s | 585.2 KiB |  00m00s
+[ 369/1568] Installing libphonenumber-0 100% | 108.2 MiB/s |   6.5 MiB |  00m00s
+[ 370/1568] Installing re2-1:20240702-2 100% |  42.6 MiB/s | 567.4 KiB |  00m00s
+[ 371/1568] Installing bluez-obexd-0:5. 100% |  11.1 MiB/s | 351.9 KiB |  00m00s
+>>> Running %post scriptlet: bluez-obexd-0:5.83-2.fc42.x86_64                   
+>>> Finished %post scriptlet: bluez-obexd-0:5.83-2.fc42.x86_64                  
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/user/dbus-org.bluez.obex.service' 
+>>>                                                                             
+[ 372/1568] Installing clucene-contribs 100% |  39.8 MiB/s | 325.8 KiB |  00m00s
+[ 373/1568] Installing mythes-en-0:3.0- 100% | 132.1 MiB/s |  20.7 MiB |  00m00s
+[ 374/1568] Installing gutenprint-0:5.3 100% |  87.2 MiB/s |  29.1 MiB |  00m00s
+[ 375/1568] Installing swtpm-libs-0:0.1 100% |  13.1 MiB/s | 133.8 KiB |  00m00s
+[ 376/1568] Installing libiec61883-0:1. 100% |  14.9 MiB/s |  91.5 KiB |  00m00s
+[ 377/1568] Installing default-fonts-he 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 378/1568] Installing default-fonts-yi 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 379/1568] Installing default-fonts-as 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 380/1568] Installing default-fonts-bn 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 381/1568] Installing xcb-util-cursor- 100% |   4.0 MiB/s |  24.6 KiB |  00m00s
+[ 382/1568] Installing boost-locale-0:1 100% |  50.0 MiB/s | 614.8 KiB |  00m00s
+[ 383/1568] Installing netcdf-0:4.9.2-1 100% |  33.1 MiB/s |   2.4 MiB |  00m00s
+[ 384/1568] Installing dleyna-connector 100% | 196.8 KiB/s |  21.4 KiB |  00m00s
+[ 385/1568] Installing python3-hawkey-0 100% |  29.0 MiB/s | 297.0 KiB |  00m00s
+[ 386/1568] Installing libpskc-0:2.6.12 100% |  12.3 MiB/s |  88.5 KiB |  00m00s
+[ 387/1568] Installing hypervfcopyd-0:6 100% | 492.1 KiB/s |  21.2 KiB |  00m00s
+[ 388/1568] Installing hypervkvpd-0:6.1 100% | 824.4 KiB/s |  37.9 KiB |  00m00s
+[ 389/1568] Installing hypervvssd-0:6.1 100% | 475.7 KiB/s |  20.9 KiB |  00m00s
+[ 390/1568] Installing bcd-0:1.1-16.201 100% |  26.2 MiB/s | 348.6 KiB |  00m00s
+[ 391/1568] Installing liborc2-0:2.0.5- 100% |  75.6 MiB/s |   1.7 MiB |  00m00s
+[ 392/1568] Installing python3-libseman 100% |  46.8 MiB/s | 383.6 KiB |  00m00s
+[ 393/1568] Installing librttopo-0:1.1. 100% |  49.5 MiB/s | 506.5 KiB |  00m00s
+[ 394/1568] Installing openblas-openmp- 100% | 148.7 MiB/s |  43.7 MiB |  00m00s
+[ 395/1568] Installing flexiblas-0:3.4. 100% |  16.8 MiB/s |  51.6 KiB |  00m00s
+[ 396/1568] Installing flexiblas-openbl 100% |   9.8 MiB/s |  40.1 KiB |  00m00s
+[ 397/1568] Installing flexiblas-netlib 100% |  82.2 MiB/s |  10.9 MiB |  00m00s
+[ 398/1568] Installing python3-numpy-f2 100% |  17.5 MiB/s |   2.1 MiB |  00m00s
+[ 399/1568] Installing python3-numpy-1: 100% |  55.9 MiB/s |  40.6 MiB |  00m01s
+[ 400/1568] Installing python3-contourp 100% |  36.2 MiB/s | 851.6 KiB |  00m00s
+[ 401/1568] Installing suitesparse-0:7. 100% | 134.6 MiB/s |  45.5 MiB |  00m00s
+[ 402/1568] Installing libpano13-0:2.9. 100% |  51.0 MiB/s | 731.2 KiB |  00m00s
+[ 403/1568] Installing openblas-serial- 100% | 176.8 MiB/s |  41.5 MiB |  00m00s
+[ 404/1568] Installing openblas-openmp6 100% | 182.7 MiB/s |  43.9 MiB |  00m00s
+[ 405/1568] Installing flexiblas-netlib 100% |  99.3 MiB/s |  11.0 MiB |  00m00s
+[ 406/1568] Installing flexiblas-openbl 100% |   9.8 MiB/s |  40.1 KiB |  00m00s
+[ 407/1568] Installing arpack-0:3.9.1-6 100% |  52.7 MiB/s | 648.1 KiB |  00m00s
+[ 408/1568] Installing armadillo-0:12.8 100% |  16.4 MiB/s |  83.8 KiB |  00m00s
+[ 409/1568] Installing git-lfs-0:3.6.1- 100% |  65.8 MiB/s |  12.0 MiB |  00m00s
+>>> Running %post scriptlet: git-lfs-0:3.6.1-1.fc42.x86_64                      
+>>> Finished %post scriptlet: git-lfs-0:3.6.1-1.fc42.x86_64                     
+>>> Scriptlet output:                                                           
+>>> Git LFS initialized.                                                        
+>>>                                                                             
+[ 410/1568] Installing git-core-doc-0:2 100% |  50.2 MiB/s |  17.9 MiB |  00m00s
+[ 411/1568] Installing ndctl-libs-0:82- 100% |  15.3 MiB/s | 219.2 KiB |  00m00s
+[ 412/1568] Installing libpmem-0:2.1.0- 100% |   3.2 MiB/s | 419.4 KiB |  00m00s
+[ 413/1568] Installing breeze-icon-them 100% |   5.5 MiB/s |  33.8 MiB |  00m06s
+[ 414/1568] Installing kde-settings-0:4 100% |   3.5 MiB/s |  79.3 KiB |  00m00s
+[ 415/1568] Installing default-fonts-hi 100% | 210.9 KiB/s | 648.0   B |  00m00s
+[ 416/1568] Installing default-fonts-ma 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[ 417/1568] Installing default-fonts-mr 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 418/1568] Installing rasqal-0:0.9.33- 100% |  18.4 MiB/s | 865.6 KiB |  00m00s
+[ 419/1568] Installing redland-0:1.0.17 100% |  10.6 MiB/s | 511.4 KiB |  00m00s
+[ 420/1568] Installing libusbmuxd-0:2.1 100% |  10.7 MiB/s |  76.8 KiB |  00m00s
+[ 421/1568] Installing libimobiledevice 100% |  24.9 MiB/s | 306.3 KiB |  00m00s
+[ 422/1568] Installing upower-0:1.90.9- 100% |   2.2 MiB/s | 281.0 KiB |  00m00s
+>>> Running %post scriptlet: upower-0:1.90.9-4.fc42.x86_64                      
+>>> Finished %post scriptlet: upower-0:1.90.9-4.fc42.x86_64                     
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/graphical.target.wants/upower.service' 
+>>>                                                                             
+>>> Running sysusers scriptlet: usbmuxd-0:1.1.1^20240915git0b1b233-4.fc42.x86_64
+>>> Finished sysusers scriptlet: usbmuxd-0:1.1.1^20240915git0b1b233-4.fc42.x86_6
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'usbmuxd' with GID 113.                                      
+>>> Creating user 'usbmuxd' (usbmuxd user) with UID 113 and GID 113.            
+>>>                                                                             
+[ 423/1568] Installing usbmuxd-0:1.1.1^ 100% |   2.3 MiB/s | 151.5 KiB |  00m00s
+[ 424/1568] Installing apr-util-lmdb-0: 100% |   3.7 MiB/s |  15.0 KiB |  00m00s
+[ 425/1568] Installing httpd-tools-0:2. 100% |   4.4 MiB/s | 202.6 KiB |  00m00s
+[ 426/1568] Installing libfprint-0:1.94 100% |  41.1 MiB/s | 841.5 KiB |  00m00s
+[ 427/1568] Installing fprintd-0:1.94.5 100% |   9.1 MiB/s | 845.3 KiB |  00m00s
+[ 428/1568] Installing flatpak-libs-0:1 100% |  57.7 MiB/s |   1.0 MiB |  00m00s
+[ 429/1568] Installing libcddb-0:1.3.2- 100% |   5.9 MiB/s | 217.3 KiB |  00m00s
+[ 430/1568] Installing gupnp-igd-0:1.6. 100% |   8.9 MiB/s |  72.5 KiB |  00m00s
+[ 431/1568] Installing libnice-0:0.1.22 100% |  11.6 MiB/s | 500.5 KiB |  00m00s
+[ 432/1568] Installing javascriptcoregt 100% | 125.2 MiB/s |  28.8 MiB |  00m00s
+[ 433/1568] Installing libreport-fedora 100% |  10.8 MiB/s |  55.4 KiB |  00m00s
+[ 434/1568] Installing libreport-plugin 100% |   1.4 MiB/s |  49.9 KiB |  00m00s
+[ 435/1568] Installing libreport-plugin 100% | 687.3 KiB/s |  22.0 KiB |  00m00s
+[ 436/1568] Installing libbs2b-0:3.1.0- 100% |   2.0 MiB/s |  74.4 KiB |  00m00s
+[ 437/1568] Installing glusterfs-cli-0: 100% |   5.0 MiB/s | 462.6 KiB |  00m00s
+>>> Running sysusers scriptlet: glusterfs-0:11.2-1.fc42.x86_64                  
+>>> Finished sysusers scriptlet: glusterfs-0:11.2-1.fc42.x86_64                 
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'gluster' with GID 977.                                      
+>>> Creating user 'gluster' (GlusterFS daemons) with UID 977 and GID 977.       
+>>>                                                                             
+[ 438/1568] Installing glusterfs-0:11.2 100% |  36.5 MiB/s |   2.5 MiB |  00m00s
+[ 439/1568] Installing glusterfs-fuse-0 100% |  12.1 MiB/s | 521.0 KiB |  00m00s
+[ 440/1568] Installing hyphen-en-0:2.8. 100% |  17.5 MiB/s | 107.3 KiB |  00m00s
+[ 441/1568] Installing libopenmpt-0:0.7 100% |  71.7 MiB/s |   1.6 MiB |  00m00s
+[ 442/1568] Installing cups-pk-helper-0 100% |  10.2 MiB/s | 388.1 KiB |  00m00s
+[ 443/1568] Installing python3-cups-0:2 100% |  22.1 MiB/s | 226.2 KiB |  00m00s
+[ 444/1568] Installing xmlsec1-openssl- 100% |  33.9 MiB/s | 278.0 KiB |  00m00s
+[ 445/1568] Installing xmlsec1-nss-1:1. 100% |  28.1 MiB/s | 201.6 KiB |  00m00s
+[ 446/1568] Installing schroedinger-0:1 100% |  60.9 MiB/s | 935.8 KiB |  00m00s
+[ 447/1568] Installing avahi-gobject-0: 100% |   8.6 MiB/s |  53.0 KiB |  00m00s
+[ 448/1568] Installing embree3-0:3.13.5 100% | 116.0 MiB/s |  34.8 MiB |  00m00s
+[ 449/1568] Installing openpgl-0:0.7.0- 100% |  78.7 MiB/s |   1.4 MiB |  00m00s
+[ 450/1568] Installing openspecfun-0:0. 100% |  23.9 MiB/s | 171.6 KiB |  00m00s
+[ 451/1568] Installing python3-satyr-0: 100% |  16.7 MiB/s | 119.5 KiB |  00m00s
+[ 452/1568] Installing urw-base35-bookm 100% |  35.9 MiB/s |   1.4 MiB |  00m00s
+[ 453/1568] Installing urw-base35-c059- 100% |  49.8 MiB/s |   1.4 MiB |  00m00s
+[ 454/1568] Installing urw-base35-d0500 100% |   5.6 MiB/s |  85.4 KiB |  00m00s
+[ 455/1568] Installing urw-base35-gothi 100% |  44.7 MiB/s |   1.2 MiB |  00m00s
+[ 456/1568] Installing urw-base35-nimbu 100% |  43.8 MiB/s |   1.1 MiB |  00m00s
+[ 457/1568] Installing urw-base35-nimbu 100% |  48.8 MiB/s |   1.4 MiB |  00m00s
+[ 458/1568] Installing urw-base35-nimbu 100% |  63.0 MiB/s |   2.4 MiB |  00m00s
+[ 459/1568] Installing urw-base35-p052- 100% |  30.4 MiB/s |   1.5 MiB |  00m00s
+[ 460/1568] Installing urw-base35-stand 100% |   2.8 MiB/s |  66.0 KiB |  00m00s
+[ 461/1568] Installing urw-base35-z003- 100% |  14.2 MiB/s | 391.8 KiB |  00m00s
+[ 462/1568] Installing urw-base35-fonts 100% |   1.4 MiB/s |   5.6 KiB |  00m00s
+[ 463/1568] Installing libopusenc-0:0.2 100% |   5.0 MiB/s |  46.2 KiB |  00m00s
+[ 464/1568] Installing opus-tools-0:0.2 100% |   2.4 MiB/s | 169.1 KiB |  00m00s
+[ 465/1568] Installing libabw-0:0.1.3-1 100% |  14.1 MiB/s | 275.1 KiB |  00m00s
+[ 466/1568] Installing libepubgen-0:0.1 100% |  14.3 MiB/s | 381.9 KiB |  00m00s
+[ 467/1568] Installing alsa-ucm-0:1.2.1 100% |   2.9 MiB/s | 735.3 KiB |  00m00s
+[ 468/1568] Installing default-fonts-co 100% |   1.1 MiB/s |  18.2 KiB |  00m00s
+[ 469/1568] Installing fontconfig-0:2.1 100% | 502.5 KiB/s | 783.9 KiB |  00m02s
+[ 470/1568] Installing libass-0:0.17.3- 100% |  31.6 MiB/s | 291.5 KiB |  00m00s
+[ 471/1568] Installing podofo0.9-libs-0 100% |  12.6 MiB/s |   1.7 MiB |  00m00s
+[ 472/1568] Installing libaribcaption-0 100% |  27.1 MiB/s | 249.9 KiB |  00m00s
+[ 473/1568] Installing default-fonts-as 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[ 474/1568] Installing default-fonts-be 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[ 475/1568] Installing default-fonts-bg 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[ 476/1568] Installing default-fonts-br 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 477/1568] Installing default-fonts-dz 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[ 478/1568] Installing default-fonts-el 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 479/1568] Installing default-fonts-eo 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[ 480/1568] Installing default-fonts-eu 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 481/1568] Installing default-fonts-ia 100% | 322.3 KiB/s | 660.0   B |  00m00s
+[ 482/1568] Installing default-fonts-ka 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 483/1568] Installing default-fonts-ku 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 484/1568] Installing default-fonts-nb 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[ 485/1568] Installing default-fonts-nn 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 486/1568] Installing default-fonts-nr 100% | 326.2 KiB/s | 668.0   B |  00m00s
+[ 487/1568] Installing default-fonts-ns 100% | 326.2 KiB/s | 668.0   B |  00m00s
+[ 488/1568] Installing default-fonts-ru 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 489/1568] Installing default-fonts-ss 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 490/1568] Installing default-fonts-tn 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 491/1568] Installing default-fonts-ts 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 492/1568] Installing default-fonts-uk 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[ 493/1568] Installing default-fonts-ve 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 494/1568] Installing default-fonts-vi 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[ 495/1568] Installing default-fonts-xh 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 496/1568] Installing default-fonts-zu 100% | 314.5 KiB/s | 644.0   B |  00m00s
+[ 497/1568] Installing google-noto-sans 100% |  79.0 MiB/s | 970.1 KiB |  00m00s
+[ 498/1568] Installing google-noto-sans 100% |  80.3 MiB/s | 658.2 KiB |  00m00s
+[ 499/1568] Installing google-noto-sans 100% |  46.3 MiB/s | 237.1 KiB |  00m00s
+[ 500/1568] Installing google-noto-nask 100% |  40.8 MiB/s | 250.7 KiB |  00m00s
+[ 501/1568] Installing google-noto-seri 100% |  11.3 MiB/s |  34.8 KiB |  00m00s
+[ 502/1568] Installing google-noto-seri 100% |  75.8 MiB/s | 698.5 KiB |  00m00s
+[ 503/1568] Installing google-noto-seri 100% |  48.0 MiB/s | 294.9 KiB |  00m00s
+[ 504/1568] Installing google-noto-seri 100% |  68.8 MiB/s | 422.8 KiB |  00m00s
+[ 505/1568] Installing google-noto-seri 100% |  18.7 MiB/s |  76.5 KiB |  00m00s
+[ 506/1568] Installing google-noto-seri 100% |  41.8 MiB/s | 171.3 KiB |  00m00s
+[ 507/1568] Installing google-noto-seri 100% |  17.9 MiB/s |  55.0 KiB |  00m00s
+[ 508/1568] Installing google-noto-seri 100% |  10.7 MiB/s |  32.9 KiB |  00m00s
+[ 509/1568] Installing google-noto-seri 100% |  45.6 MiB/s | 233.3 KiB |  00m00s
+[ 510/1568] Installing google-noto-seri 100% |  41.3 MiB/s | 169.0 KiB |  00m00s
+[ 511/1568] Installing google-noto-seri 100% |  14.8 MiB/s |  45.5 KiB |  00m00s
+[ 512/1568] Installing google-noto-seri 100% |  46.4 MiB/s | 190.0 KiB |  00m00s
+[ 513/1568] Installing google-noto-seri 100% |  55.8 MiB/s | 342.6 KiB |  00m00s
+[ 514/1568] Installing google-noto-seri 100% |  43.3 MiB/s | 177.4 KiB |  00m00s
+[ 515/1568] Installing google-noto-seri 100% |  53.7 MiB/s | 329.9 KiB |  00m00s
+[ 516/1568] Installing google-noto-seri 100% |  14.1 MiB/s |  43.2 KiB |  00m00s
+[ 517/1568] Installing google-noto-sans 100% |  61.9 MiB/s | 507.2 KiB |  00m00s
+[ 518/1568] Installing default-fonts-am 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 519/1568] Installing google-noto-sans 100% |  45.3 MiB/s | 231.9 KiB |  00m00s
+[ 520/1568] Installing default-fonts-ar 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 521/1568] Installing google-noto-sans 100% |  32.7 MiB/s | 134.0 KiB |  00m00s
+[ 522/1568] Installing default-fonts-ch 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[ 523/1568] Installing google-noto-sans 100% |  10.0 MiB/s |  30.6 KiB |  00m00s
+[ 524/1568] Installing default-fonts-dv 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 525/1568] Installing google-noto-sans 100% |   4.6 MiB/s |  14.0 KiB |  00m00s
+[ 526/1568] Installing default-fonts-go 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 527/1568] Installing google-noto-sans 100% |  38.8 MiB/s | 198.5 KiB |  00m00s
+[ 528/1568] Installing default-fonts-gu 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 529/1568] Installing google-noto-sans 100% |   6.8 MiB/s |  34.7 KiB |  00m00s
+[ 530/1568] Installing default-fonts-hy 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 531/1568] Installing google-noto-sans 100% |  30.7 MiB/s | 157.3 KiB |  00m00s
+[ 532/1568] Installing default-fonts-iu 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[ 533/1568] Installing google-noto-sans 100% |  18.9 MiB/s |  58.1 KiB |  00m00s
+[ 534/1568] Installing default-fonts-ka 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 535/1568] Installing google-noto-sans 100% |  29.1 MiB/s | 119.3 KiB |  00m00s
+[ 536/1568] Installing default-fonts-km 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 537/1568] Installing google-noto-sans 100% |  44.4 MiB/s | 181.8 KiB |  00m00s
+[ 538/1568] Installing default-fonts-kn 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 539/1568] Installing google-noto-sans 100% |   8.7 MiB/s |  35.8 KiB |  00m00s
+[ 540/1568] Installing default-fonts-lo 100% | 314.5 KiB/s | 644.0   B |  00m00s
+[ 541/1568] Installing google-noto-sans 100% |  10.0 MiB/s |  30.8 KiB |  00m00s
+[ 542/1568] Installing default-fonts-mn 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[ 543/1568] Installing google-noto-sans 100% |  13.4 MiB/s |  41.1 KiB |  00m00s
+[ 544/1568] Installing default-fonts-nq 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 545/1568] Installing google-noto-sans 100% |  39.1 MiB/s | 200.2 KiB |  00m00s
+[ 546/1568] Installing default-fonts-or 100% | 314.5 KiB/s | 644.0   B |  00m00s
+[ 547/1568] Installing google-noto-sans 100% |  16.1 MiB/s |  49.4 KiB |  00m00s
+[ 548/1568] Installing default-fonts-pa 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 549/1568] Installing google-noto-sans 100% |   8.9 MiB/s |  27.3 KiB |  00m00s
+[ 550/1568] Installing default-fonts-sa 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 551/1568] Installing google-noto-sans 100% |  69.5 MiB/s | 356.0 KiB |  00m00s
+[ 552/1568] Installing default-fonts-si 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 553/1568] Installing google-noto-sans 100% |  21.0 MiB/s |  86.1 KiB |  00m00s
+[ 554/1568] Installing default-fonts-sy 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[ 555/1568] Installing google-noto-sans 100% |  25.8 MiB/s |  79.3 KiB |  00m00s
+[ 556/1568] Installing default-fonts-ta 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 557/1568] Installing google-noto-sans 100% |  45.0 MiB/s | 230.6 KiB |  00m00s
+[ 558/1568] Installing default-fonts-te 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[ 559/1568] Installing google-noto-sans 100% |  11.0 MiB/s |  33.8 KiB |  00m00s
+[ 560/1568] Installing default-fonts-th 100% | 314.5 KiB/s | 644.0   B |  00m00s
+[ 561/1568] Installing libgsf-0:1.14.53 100% |  13.1 MiB/s | 979.8 KiB |  00m00s
+[ 562/1568] Installing libappstream-gli 100% |  19.9 MiB/s |   1.4 MiB |  00m00s
+[ 563/1568] Installing libharu-0:2.4.3- 100% |  38.3 MiB/s |   1.7 MiB |  00m00s
+[ 564/1568] Installing libyuv-0:0-0.56. 100% |  51.5 MiB/s | 685.3 KiB |  00m00s
+[ 565/1568] Installing djvulibre-libs-0 100% |  78.1 MiB/s |   1.8 MiB |  00m00s
+[ 566/1568] Installing qt6-filesystem-0 100% | 498.3 KiB/s |   3.5 KiB |  00m00s
+[ 567/1568] Installing qt6-qtbase-commo 100% | 114.6 KiB/s | 352.0   B |  00m00s
+[ 568/1568] Installing qt6-qtbase-0:6.9 100% |  66.6 MiB/s |  12.9 MiB |  00m00s
+[ 569/1568] Installing libcerf-0:2.4-1. 100% |  11.7 MiB/s |  59.9 KiB |  00m00s
+[ 570/1568] Installing fedora-logos-htt 100% |   3.2 MiB/s |  13.1 KiB |  00m00s
+[ 571/1568] Installing OpenCL-ICD-Loade 100% |  11.7 MiB/s |  71.8 KiB |  00m00s
+[ 572/1568] Installing libfreeaptx-0:0. 100% |  13.3 MiB/s |  54.4 KiB |  00m00s
+[ 573/1568] Installing openpgm-0:5.3.12 100% |  34.5 MiB/s | 317.7 KiB |  00m00s
+[ 574/1568] Installing libsodium-0:1.0. 100% |  47.6 MiB/s | 390.2 KiB |  00m00s
+[ 575/1568] Installing zeromq-0:4.3.5-2 100% |  14.0 MiB/s | 902.7 KiB |  00m00s
+[ 576/1568] Installing libdovi-0:3.3.1- 100% |  52.9 MiB/s | 595.4 KiB |  00m00s
+[ 577/1568] Installing libplacebo-0:7.3 100% |  70.8 MiB/s |   1.1 MiB |  00m00s
+[ 578/1568] Installing lpcnetfreedv-0:0 100% | 142.5 MiB/s |  14.8 MiB |  00m00s
+[ 579/1568] Installing codec2-0:1.2.0-6 100% |  80.5 MiB/s |   1.4 MiB |  00m00s
+[ 580/1568] Installing vvenc-libs-0:1.1 100% |  93.3 MiB/s |   3.3 MiB |  00m00s
+[ 581/1568] Installing zimg-0:3.0.5-3.f 100% |  57.4 MiB/s | 822.9 KiB |  00m00s
+[ 582/1568] Installing xvidcore-0:1.3.7 100% |  66.1 MiB/s | 880.1 KiB |  00m00s
+[ 583/1568] Installing vo-amrwbenc-0:0. 100% |  25.3 MiB/s | 155.4 KiB |  00m00s
+[ 584/1568] Installing ilbc-0:3.0.4-13. 100% |  13.5 MiB/s |  96.9 KiB |  00m00s
+[ 585/1568] Installing libconfig-0:1.7. 100% |  18.5 MiB/s | 227.6 KiB |  00m00s
+[ 586/1568] Installing libffado-0:2.4.9 100% |  82.0 MiB/s |   2.5 MiB |  00m00s
+[ 587/1568] Installing libdb-0:5.3.28-6 100% |  43.5 MiB/s |   1.9 MiB |  00m00s
+[ 588/1568] Installing jack-audio-conne 100% |  26.6 MiB/s |   1.9 MiB |  00m00s
+[ 589/1568] Installing portaudio-0:19.7 100% |  21.1 MiB/s | 259.4 KiB |  00m00s
+[ 590/1568] Installing xen-licenses-0:4 100% |  13.3 MiB/s | 353.3 KiB |  00m00s
+[ 591/1568] Installing xen-libs-0:4.19. 100% |  37.9 MiB/s |   1.8 MiB |  00m00s
+[ 592/1568] Installing seavgabios-bin-0 100% |  60.0 MiB/s | 368.5 KiB |  00m00s
+[ 593/1568] Installing seabios-bin-0:1. 100% |  37.3 MiB/s |   1.1 MiB |  00m00s
+[ 594/1568] Installing qatlib-0:24.09.0 100% |  32.9 MiB/s | 606.7 KiB |  00m00s
+[ 595/1568] Installing qatzip-libs-0:1. 100% |  19.8 MiB/s | 142.2 KiB |  00m00s
+[ 596/1568] Installing libxdp-0:1.5.5-1 100% |  20.0 MiB/s | 163.8 KiB |  00m00s
+[ 597/1568] Installing edk2-ovmf-0:2025 100% | 168.5 MiB/s |  35.7 MiB |  00m00s
+[ 598/1568] Installing hiredis-0:1.2.0- 100% |   2.0 MiB/s | 107.6 KiB |  00m00s
+>>> Running sysusers scriptlet: unbound-libs-0:1.23.1-1.fc42.x86_64             
+>>> Finished sysusers scriptlet: unbound-libs-0:1.23.1-1.fc42.x86_64            
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'unbound' with GID 974.                                      
+>>> Creating user 'unbound' (Unbound DNS resolver) with UID 974 and GID 974.    
+>>>                                                                             
+[ 599/1568] Installing unbound-libs-0:1 100% |  60.3 MiB/s |   1.4 MiB |  00m00s
+[ 600/1568] Installing gnutls-dane-0:3. 100% |  12.1 MiB/s |  61.7 KiB |  00m00s
+[ 601/1568] Installing gnutls-utils-0:3 100% |  23.3 MiB/s |   1.3 MiB |  00m00s
+[ 602/1568] Installing autocorr-en-1:25 100% |  40.6 MiB/s | 291.1 KiB |  00m00s
+[ 603/1568] Installing isns-utils-libs- 100% |  61.6 MiB/s | 504.4 KiB |  00m00s
+[ 604/1568] Installing iscsi-initiator- 100% |   2.6 MiB/s | 164.7 KiB |  00m00s
+>>> Running %post scriptlet: iscsi-initiator-utils-iscsiuio-0:6.2.1.11-0.git4b3e
+>>> Finished %post scriptlet: iscsi-initiator-utils-iscsiuio-0:6.2.1.11-0.git4b3
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/iscsiuio.socket' 
+>>>                                                                             
+[ 605/1568] Installing iscsi-initiator- 100% |  13.8 MiB/s |   1.4 MiB |  00m00s
+>>> Running %post scriptlet: iscsi-initiator-utils-0:6.2.1.11-0.git4b3e853.fc42.
+>>> Finished %post scriptlet: iscsi-initiator-utils-0:6.2.1.11-0.git4b3e853.fc42
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sysinit.target.wants/iscsi-starter.serv
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/iscsid.socket' 
+>>> Created symlink '/etc/systemd/system/sysinit.target.wants/iscsi-onboot.servi
+>>>                                                                             
+[ 606/1568] Installing libwacom-data-0: 100% |   8.9 MiB/s |   1.5 MiB |  00m00s
+[ 607/1568] Installing libwacom-0:2.16. 100% |   2.7 MiB/s | 108.1 KiB |  00m00s
+[ 608/1568] Installing libinput-0:1.28. 100% |   9.1 MiB/s | 650.9 KiB |  00m00s
+[ 609/1568] Installing mariadb-connecto 100% | 329.4 KiB/s |   1.0 KiB |  00m00s
+[ 610/1568] Installing mariadb-connecto 100% |  26.6 MiB/s | 517.9 KiB |  00m00s
+[ 611/1568] Installing mutter-common-0: 100% |   7.5 MiB/s |  38.2 KiB |  00m00s
+[ 612/1568] Installing libeis-0:1.4.1-1 100% |  18.9 MiB/s | 116.3 KiB |  00m00s
+[ 613/1568] Installing boost-program-op 100% |  33.9 MiB/s | 277.8 KiB |  00m00s
+[ 614/1568] Installing python-qt5-rpm-m 100% | 205.1 KiB/s | 420.0   B |  00m00s
+[ 615/1568] Installing ipxe-roms-qemu-0 100% |  42.9 MiB/s |   2.7 MiB |  00m00s
+>>> Running sysusers scriptlet: qemu-common-2:9.2.4-1.fc42.x86_64               
+>>> Finished sysusers scriptlet: qemu-common-2:9.2.4-1.fc42.x86_64              
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'qemu' with GID 107.                                         
+>>> Creating user 'qemu' (qemu user) with UID 107 and GID 107.                  
+>>>                                                                             
+[ 616/1568] Installing qemu-common-2:9. 100% |  49.4 MiB/s |   2.6 MiB |  00m00s
+[ 617/1568] Installing qemu-device-disp 100% |  23.4 MiB/s |  71.8 KiB |  00m00s
+[ 618/1568] Installing qemu-device-disp 100% |   5.3 MiB/s |  16.2 KiB |  00m00s
+[ 619/1568] Installing qemu-device-disp 100% |   9.9 MiB/s |  20.3 KiB |  00m00s
+[ 620/1568] Installing qemu-device-disp 100% |   5.8 MiB/s |  11.8 KiB |  00m00s
+[ 621/1568] Installing qemu-device-disp 100% |   3.9 MiB/s |  12.0 KiB |  00m00s
+[ 622/1568] Installing qemu-device-disp 100% |   3.9 MiB/s |  11.9 KiB |  00m00s
+[ 623/1568] Installing qemu-device-disp 100% |   5.9 MiB/s |  12.1 KiB |  00m00s
+[ 624/1568] Installing qemu-audio-alsa- 100% |   7.1 MiB/s |  29.2 KiB |  00m00s
+[ 625/1568] Installing qemu-audio-dbus- 100% |  52.5 MiB/s | 268.7 KiB |  00m00s
+[ 626/1568] Installing qemu-audio-jack- 100% |   5.0 MiB/s |  20.6 KiB |  00m00s
+[ 627/1568] Installing qemu-audio-oss-2 100% |   6.7 MiB/s |  20.4 KiB |  00m00s
+[ 628/1568] Installing qemu-block-curl- 100% |  10.7 MiB/s |  32.8 KiB |  00m00s
+[ 629/1568] Installing qemu-block-dmg-2 100% |   5.7 MiB/s |  11.8 KiB |  00m00s
+[ 630/1568] Installing qemu-block-glust 100% |  10.5 MiB/s |  32.2 KiB |  00m00s
+[ 631/1568] Installing qemu-block-iscsi 100% |  12.5 MiB/s |  51.2 KiB |  00m00s
+[ 632/1568] Installing qemu-block-nfs-2 100% |   9.6 MiB/s |  29.5 KiB |  00m00s
+[ 633/1568] Installing qemu-block-rbd-2 100% |  13.5 MiB/s |  41.6 KiB |  00m00s
+[ 634/1568] Installing qemu-block-ssh-2 100% |  10.5 MiB/s |  43.1 KiB |  00m00s
+[ 635/1568] Installing qemu-device-usb- 100% |  16.1 MiB/s |  49.5 KiB |  00m00s
+[ 636/1568] Installing qemu-device-usb- 100% |  16.9 MiB/s |  69.4 KiB |  00m00s
+[ 637/1568] Installing qemu-device-usb- 100% |   8.1 MiB/s |  33.3 KiB |  00m00s
+[ 638/1568] Installing qemu-ui-curses-2 100% |   9.8 MiB/s |  40.3 KiB |  00m00s
+[ 639/1568] Installing virtiofsd-0:1.13 100% |  81.6 MiB/s |   2.5 MiB |  00m00s
+[ 640/1568] Installing libslirp-0:4.8.0 100% |  18.7 MiB/s | 152.9 KiB |  00m00s
+[ 641/1568] Installing libfdt-0:1.7.2-3 100% |  16.4 MiB/s |  67.1 KiB |  00m00s
+[ 642/1568] Installing capstone-0:5.0.1 100% | 108.2 MiB/s |  14.1 MiB |  00m00s
+[ 643/1568] Installing qemu-system-x86- 100% | 109.8 MiB/s |  54.9 MiB |  00m01s
+[ 644/1568] Installing device-mapper-mu 100% |  12.9 MiB/s | 887.1 KiB |  00m00s
+[ 645/1568] Installing qemu-pr-helper-2 100% |  15.6 MiB/s | 974.4 KiB |  00m00s
+[ 646/1568] Installing rutabaga-gfx-ffi 100% |  54.0 MiB/s | 608.6 KiB |  00m00s
+[ 647/1568] Installing qemu-device-disp 100% | 950.7 KiB/s |  39.0 KiB |  00m00s
+[ 648/1568] Installing libblkio-0:1.5.0 100% |  54.2 MiB/s | 666.0 KiB |  00m00s
+[ 649/1568] Installing qemu-block-blkio 100% |  18.0 MiB/s |  36.8 KiB |  00m00s
+[ 650/1568] Installing liboeffis-0:1.4. 100% |   5.6 MiB/s |  34.1 KiB |  00m00s
+[ 651/1568] Installing chkconfig-0:1.33 100% |   9.2 MiB/s | 772.2 KiB |  00m00s
+[ 652/1568] Installing graphviz-libs-0: 100% |  50.3 MiB/s |   1.2 MiB |  00m00s
+[ 653/1568] Installing sshpass-0:1.09-1 100% |   1.3 MiB/s |  44.1 KiB |  00m00s
+[ 654/1568] Installing libuser-0:0.64-1 100% |  19.1 MiB/s |   1.9 MiB |  00m00s
+[ 655/1568] Installing usermode-0:1.114 100% |  11.0 MiB/s | 843.6 KiB |  00m00s
+[ 656/1568] Installing vpnc-0:0.5.3^202 100% |   3.3 MiB/s | 230.6 KiB |  00m00s
+[ 657/1568] Installing NetworkManager-v 100% |  10.0 MiB/s | 562.3 KiB |  00m00s
+[ 658/1568] Installing python3-cython-0 100% |  57.3 MiB/s |  18.3 MiB |  00m00s
+[ 659/1568] Installing jsoncpp-0:1.9.6- 100% |  32.1 MiB/s | 263.1 KiB |  00m00s
+[ 660/1568] Installing openxr-libs-0:1. 100% |  32.9 MiB/s | 269.3 KiB |  00m00s
+[ 661/1568] Installing clang19-resource 100% |   4.0 MiB/s |  16.2 KiB |  00m00s
+[ 662/1568] Installing utf8proc-0:2.10. 100% |  52.1 MiB/s | 373.4 KiB |  00m00s
+[ 663/1568] Installing libarrow-0:18.0. 100% | 132.3 MiB/s |  24.7 MiB |  00m00s
+[ 664/1568] Installing parquet-libs-0:1 100% | 105.2 MiB/s |   3.3 MiB |  00m00s
+[ 665/1568] Installing libarrow-acero-l 100% |  80.4 MiB/s |   1.4 MiB |  00m00s
+[ 666/1568] Installing libarrow-dataset 100% |  86.5 MiB/s |   1.5 MiB |  00m00s
+[ 667/1568] Installing luajit-0:2.1.174 100% |  27.3 MiB/s |   1.4 MiB |  00m00s
+[ 668/1568] Installing mozjs128-0:128.1 100% |  97.0 MiB/s |  19.1 MiB |  00m00s
+[ 669/1568] Installing libxcvt-0:0.1.2- 100% |   2.5 MiB/s |  15.6 KiB |  00m00s
+[ 670/1568] Installing libXdmcp-0:1.1.5 100% |  11.7 MiB/s |  83.7 KiB |  00m00s
+[ 671/1568] Installing libdisplay-info- 100% |  38.0 MiB/s | 233.3 KiB |  00m00s
+[ 672/1568] Installing gnome-shell-comm 100% |   7.6 MiB/s |  15.6 KiB |  00m00s
+[ 673/1568] Installing hplip-common-0:3 100% |  82.5 MiB/s |   1.5 MiB |  00m00s
+[ 674/1568] Installing hplip-libs-0:3.2 100% |   5.5 MiB/s | 429.2 KiB |  00m00s
+>>> Running sysusers scriptlet: httpd-filesystem-0:2.4.64-2.fc42.noarch         
+>>> Finished sysusers scriptlet: httpd-filesystem-0:2.4.64-2.fc42.noarch        
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'apache' with GID 48.                                        
+>>> Creating user 'apache' (Apache) with UID 48 and GID 48.                     
+>>>                                                                             
+[ 675/1568] Installing httpd-filesystem 100% | 360.7 KiB/s |   2.2 KiB |  00m00s
+[ 676/1568] Installing gc-0:8.2.6-4.fc4 100% |  20.2 MiB/s | 268.8 KiB |  00m00s
+[ 677/1568] Installing libopenjph-0:0.2 100% |  44.9 MiB/s | 459.4 KiB |  00m00s
+[ 678/1568] Installing hidapi-0:0.15.0- 100% |  11.0 MiB/s | 112.8 KiB |  00m00s
+[ 679/1568] Installing libmanette-0:0.2 100% |  34.5 MiB/s | 352.9 KiB |  00m00s
+[ 680/1568] Installing libreoffice-open 100% |  71.5 MiB/s | 439.5 KiB |  00m00s
+[ 681/1568] Installing libreoffice-ure- 100% | 110.9 MiB/s |   2.3 MiB |  00m00s
+[ 682/1568] Installing tzdata-java-0:20 100% |  32.7 MiB/s | 100.5 KiB |  00m00s
+[ 683/1568] Installing lksctp-tools-0:1 100% |   5.5 MiB/s | 254.7 KiB |  00m00s
+[ 684/1568] Installing javapackages-fil 100% | 615.5 KiB/s |   5.5 KiB |  00m00s
+[ 685/1568] Installing java-21-openjdk- 100% | 119.3 MiB/s | 197.8 MiB |  00m02s
+[ 686/1568] Installing unzip-0:6.0-66.f 100% |   8.7 MiB/s | 393.8 KiB |  00m00s
+[ 687/1568] Installing boost-date-time- 100% |   3.2 MiB/s |  13.2 KiB |  00m00s
+[ 688/1568] Installing libcmis-0:0.6.2- 100% |  56.6 MiB/s |   1.1 MiB |  00m00s
+[ 689/1568] Installing zxing-cpp-0:2.2. 100% |  71.1 MiB/s |   1.3 MiB |  00m00s
+[ 690/1568] Installing zxcvbn-c-0:2.5-5 100% |  52.5 MiB/s |   3.3 MiB |  00m00s
+[ 691/1568] Installing libexttextcat-0: 100% |   9.3 MiB/s | 485.1 KiB |  00m00s
+[ 692/1568] Installing liberation-serif 100% |  70.3 MiB/s |   1.5 MiB |  00m00s
+[ 693/1568] Installing liberation-sans- 100% |  80.2 MiB/s |   1.6 MiB |  00m00s
+[ 694/1568] Installing liberation-mono- 100% |  38.9 MiB/s |   1.2 MiB |  00m00s
+[ 695/1568] Installing libeot-0:0.01-33 100% |   9.6 MiB/s |  78.6 KiB |  00m00s
+[ 696/1568] Installing libargon2-0:2019 100% |   7.3 MiB/s |  52.7 KiB |  00m00s
+[ 697/1568] Installing google-crosextra 100% |  20.6 MiB/s | 253.6 KiB |  00m00s
+[ 698/1568] Installing google-carlito-f 100% |  63.0 MiB/s |   2.6 MiB |  00m00s
+[ 699/1568] Installing Box2D-0:2.4.2-3. 100% |   2.4 MiB/s | 252.7 KiB |  00m00s
+>>> Running sysusers scriptlet: dnsmasq-0:2.90-6.fc42.x86_64                    
+>>> Finished sysusers scriptlet: dnsmasq-0:2.90-6.fc42.x86_64                   
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'dnsmasq' with GID 973.                                      
+>>> Creating user 'dnsmasq' (Dnsmasq DHCP and DNS server) with UID 973 and GID 9
+>>>                                                                             
+[ 700/1568] Installing dnsmasq-0:2.90-6 100% |   6.2 MiB/s | 767.4 KiB |  00m00s
+[ 701/1568] Installing systemd-containe 100% |  22.1 MiB/s |   2.2 MiB |  00m00s
+[ 702/1568] Installing libnbd-0:1.22.3- 100% |  10.7 MiB/s | 449.4 KiB |  00m00s
+[ 703/1568] Installing initscripts-rena 100% |   4.0 MiB/s |  20.5 KiB |  00m00s
+[ 704/1568] Installing initscripts-0:10 100% |   9.9 MiB/s |   1.1 MiB |  00m00s
+>>> Running %post scriptlet: initscripts-0:10.26-3.fc42.x86_64                  
+>>> Finished %post scriptlet: initscripts-0:10.26-3.fc42.x86_64                 
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sysinit.target.wants/import-state.servi
+>>>                                                                             
+[ 705/1568] Installing fuse-libs-0:2.9. 100% |  30.0 MiB/s | 306.8 KiB |  00m00s
+[ 706/1568] Installing fuse-0:2.9.9-23. 100% |   5.4 MiB/s | 225.6 KiB |  00m00s
+[ 707/1568] Installing scrub-0:2.6.1-10 100% |   3.8 MiB/s | 128.0 KiB |  00m00s
+[ 708/1568] Installing numad-0:0.5-46.2 100% | 984.0 KiB/s |  57.1 KiB |  00m00s
+[ 709/1568] Installing lzop-0:1.04-16.f 100% |   2.6 MiB/s | 100.4 KiB |  00m00s
+[ 710/1568] Installing mdevctl-0:1.4.0- 100% |  41.1 MiB/s |   2.5 MiB |  00m00s
+[ 711/1568] Installing llvm-filesystem- 100% | 354.2 KiB/s |   1.1 KiB |  00m00s
+[ 712/1568] Installing llvm-libs-0:20.1 100% | 115.1 MiB/s | 137.1 MiB |  00m01s
+[ 713/1568] Installing llvm19-filesyste 100% | 352.9 KiB/s |   1.1 KiB |  00m00s
+[ 714/1568] Installing llvm19-libs-0:19 100% | 127.5 MiB/s | 124.0 MiB |  00m01s
+[ 715/1568] Installing clang19-libs-0:1 100% | 127.8 MiB/s | 124.2 MiB |  00m01s
+[ 716/1568] Installing nautilus-extensi 100% |  10.3 MiB/s |  84.1 KiB |  00m00s
+[ 717/1568] Installing pciutils-0:3.14. 100% |   6.4 MiB/s | 286.9 KiB |  00m00s
+[ 718/1568] Installing open-vm-tools-0: 100% |  21.3 MiB/s |   3.0 MiB |  00m00s
+>>> Running %post scriptlet: open-vm-tools-0:13.0.0-1.fc42.x86_64               
+>>> Finished %post scriptlet: open-vm-tools-0:13.0.0-1.fc42.x86_64              
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/vmtoolsd.service.requires/vgauthd.servi
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/vmtoolsd.servic
+>>>                                                                             
+[ 719/1568] Installing partio-libs-0:1. 100% |  42.6 MiB/s | 566.9 KiB |  00m00s
+[ 720/1568] Installing python3-wrapt-0: 100% |  15.3 MiB/s | 204.1 KiB |  00m00s
+[ 721/1568] Installing python3-deprecat 100% | 806.5 KiB/s |  56.5 KiB |  00m00s
+>>> Running sysusers scriptlet: rtkit-0:0.11-66.fc42.x86_64                     
+>>> Finished sysusers scriptlet: rtkit-0:0.11-66.fc42.x86_64                    
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'rtkit' with GID 172.                                        
+>>> Creating user 'rtkit' (RealtimeKit) with UID 172 and GID 172.               
+>>>                                                                             
+[ 722/1568] Installing rtkit-0:0.11-66. 100% |   2.0 MiB/s | 141.2 KiB |  00m00s
+>>> Running %post scriptlet: rtkit-0:0.11-66.fc42.x86_64                        
+>>> Finished %post scriptlet: rtkit-0:0.11-66.fc42.x86_64                       
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/graphical.target.wants/rtkit-daemon.ser
+>>>                                                                             
+[ 723/1568] Installing proj-data-0:9.6. 100% | 112.9 MiB/s |   9.3 MiB |  00m00s
+[ 724/1568] Installing proj-0:9.6.2-1.f 100% |  54.0 MiB/s |   4.5 MiB |  00m00s
+[ 725/1568] Installing libgeotiff-0:1.7 100% |   7.5 MiB/s | 322.8 KiB |  00m00s
+[ 726/1568] Installing libspatialite-0: 100% | 124.4 MiB/s |  15.3 MiB |  00m00s
+[ 727/1568] Installing python3-soupsiev 100% |  16.5 MiB/s | 304.3 KiB |  00m00s
+[ 728/1568] Installing python3-setuptoo 100% |  31.5 MiB/s |   8.6 MiB |  00m00s
+[ 729/1568] Installing python3-setools- 100% |  38.0 MiB/s |   2.9 MiB |  00m00s
+[ 730/1568] Installing qt5-filesystem-0 100% | 498.3 KiB/s |   3.5 KiB |  00m00s
+[ 731/1568] Installing live555-0:2025.0 100% |  61.5 MiB/s |   1.4 MiB |  00m00s
+[ 732/1568] Installing libusb-compat-0. 100% |   8.9 MiB/s |  54.8 KiB |  00m00s
+[ 733/1568] Installing lirc-libs-0:0.10 100% |  23.4 MiB/s | 335.4 KiB |  00m00s
+[ 734/1568] Installing libupnp-0:1.14.2 100% |  25.7 MiB/s | 262.8 KiB |  00m00s
+[ 735/1568] Installing daala-libs-0:0-3 100% |  35.3 MiB/s | 469.8 KiB |  00m00s
+[ 736/1568] Installing vte-profile-0:0. 100% |  10.3 MiB/s |  52.9 KiB |  00m00s
+[ 737/1568] Installing wxGTK-i18n-0:3.2 100% |  72.6 MiB/s |   5.7 MiB |  00m00s
+[ 738/1568] Installing xournalpp-ui-0:1 100% |  21.9 MiB/s |   1.5 MiB |  00m00s
+[ 739/1568] Installing xournalpp-plugin 100% |   4.0 MiB/s |  36.6 KiB |  00m00s
+[ 740/1568] Installing yelp-xsl-0:42.4- 100% |  44.0 MiB/s |   1.4 MiB |  00m00s
+[ 741/1568] Installing pkcs11-helper-0: 100% |   3.1 MiB/s | 166.7 KiB |  00m00s
+>>> Running sysusers scriptlet: openvpn-0:2.6.14-1.fc42.x86_64                  
+>>> Finished sysusers scriptlet: openvpn-0:2.6.14-1.fc42.x86_64                 
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'openvpn' with GID 972.                                      
+>>> Creating user 'openvpn' (OpenVPN) with UID 972 and GID 972.                 
+>>>                                                                             
+[ 742/1568] Installing openvpn-0:2.6.14 100% |  13.0 MiB/s |   1.8 MiB |  00m00s
+>>> Running %post scriptlet: openvpn-0:2.6.14-1.fc42.x86_64                     
+>>> Finished %post scriptlet: openvpn-0:2.6.14-1.fc42.x86_64                    
+>>> Scriptlet output:                                                           
+>>> System has not been booted with systemd as init system (PID 1). Can't operat
+>>> Failed to connect to system scope bus via local transport: Host is down     
+>>>                                                                             
+[ 743/1568] Installing NetworkManager-o 100% |  22.1 MiB/s |   1.3 MiB |  00m00s
+[ 744/1568] Installing elfutils-0:0.193 100% |  37.0 MiB/s |   2.9 MiB |  00m00s
+[ 745/1568] Installing python3-ply-0:3. 100% |  39.8 MiB/s | 570.3 KiB |  00m00s
+[ 746/1568] Installing python3-pycparse 100% |  34.5 MiB/s | 812.0 KiB |  00m00s
+[ 747/1568] Installing python3-cffi-0:1 100% |  44.2 MiB/s |   1.3 MiB |  00m00s
+[ 748/1568] Installing python3-augeas-0 100% |  15.6 MiB/s | 176.0 KiB |  00m00s
+[ 749/1568] Installing ctags-0:6.1.0-2. 100% |  31.3 MiB/s |   2.1 MiB |  00m00s
+[ 750/1568] Installing boost-regex-0:1. 100% |  25.6 MiB/s | 288.3 KiB |  00m00s
+[ 751/1568] Installing source-highlight 100% |  23.7 MiB/s |   3.1 MiB |  00m00s
+[ 752/1568] Installing xxhash-libs-0:0. 100% |  14.9 MiB/s |  91.6 KiB |  00m00s
+[ 753/1568] Installing libipt-0:2.1.2-1 100% |  18.7 MiB/s | 114.6 KiB |  00m00s
+[ 754/1568] Installing libbabeltrace-0: 100% |  26.2 MiB/s | 536.3 KiB |  00m00s
+[ 755/1568] Installing gdb-headless-0:1 100% |  63.0 MiB/s |  15.7 MiB |  00m00s
+[ 756/1568] Installing python3-typing-e 100% |  50.0 MiB/s | 460.6 KiB |  00m00s
+[ 757/1568] Installing python3-beautifu 100% |  42.0 MiB/s |   1.9 MiB |  00m00s
+[ 758/1568] Installing mtools-0:4.0.49- 100% |   5.7 MiB/s | 360.6 KiB |  00m00s
+[ 759/1568] Installing gnuchess-0:6.2.1 100% |  51.8 MiB/s |   4.4 MiB |  00m00s
+>>> [RPM] group games does not exist - using root                               
+>>> [RPM] group games does not exist - using root                               
+[ 760/1568] Installing pcre2-utf32-0:10 100% |  58.5 MiB/s | 599.1 KiB |  00m00s
+[ 761/1568] Installing wxBase-0:3.2.8-1 100% |  62.5 MiB/s |   2.9 MiB |  00m00s
+[ 762/1568] Installing libpaper-1:2.1.1 100% |   4.5 MiB/s |  50.4 KiB |  00m00s
+[ 763/1568] Installing libijs-0:0.35-24 100% |  10.8 MiB/s |  66.5 KiB |  00m00s
+[ 764/1568] Installing jbig2dec-libs-0: 100% |  15.1 MiB/s | 170.5 KiB |  00m00s
+[ 765/1568] Installing google-droid-san 100% |  74.5 MiB/s |   6.3 MiB |  00m00s
+[ 766/1568] Installing adobe-mappings-p 100% |  66.6 MiB/s |   4.4 MiB |  00m00s
+[ 767/1568] Installing compat-lua-libs- 100% |  23.5 MiB/s | 505.2 KiB |  00m00s
+[ 768/1568] Installing lua-lgi-compat-0 100% |  10.9 MiB/s | 301.1 KiB |  00m00s
+[ 769/1568] Installing mailcap-0:2.1.54 100% |   7.1 MiB/s |  87.1 KiB |  00m00s
+[ 770/1568] Installing httpd-core-0:2.4 100% |  14.8 MiB/s |   4.6 MiB |  00m00s
+[ 771/1568] Installing mod_dnssd-0:0.6- 100% |   8.2 MiB/s |  59.0 KiB |  00m00s
+[ 772/1568] Installing httpd-0:2.4.64-2 100% |   1.6 MiB/s |  60.3 KiB |  00m00s
+[ 773/1568] Installing rocm-clang-runti 100% |  49.7 MiB/s |   6.9 MiB |  00m00s
+[ 774/1568] Installing cmake-filesystem 100% | 632.5 KiB/s |   7.6 KiB |  00m00s
+[ 775/1568] Installing rocm-runtime-0:6 100% | 104.1 MiB/s |   2.9 MiB |  00m00s
+[ 776/1568] Installing rocm-comgr-0:18- 100% |  47.6 MiB/s | 137.1 MiB |  00m03s
+[ 777/1568] Installing xerces-c-0:3.3.0 100% | 121.7 MiB/s |   3.8 MiB |  00m00s
+[ 778/1568] Installing unixODBC-0:2.3.1 100% |  16.4 MiB/s |   1.0 MiB |  00m00s
+[ 779/1568] Installing ogdi-0:4.1.1-5.f 100% |  18.2 MiB/s | 781.8 KiB |  00m00s
+[ 780/1568] Installing libpq-0:16.4-2.f 100% |  39.5 MiB/s | 969.5 KiB |  00m00s
+[ 781/1568] Installing libgdither-0:0.6 100% |   9.0 MiB/s |  46.3 KiB |  00m00s
+[ 782/1568] Installing gavl-0:1.4.0-38. 100% | 125.1 MiB/s |   4.4 MiB |  00m00s
+[ 783/1568] Installing python3-kiwisolv 100% |  11.5 MiB/s | 153.6 KiB |  00m00s
+[ 784/1568] Installing python3-fonttool 100% |  66.8 MiB/s |  18.2 MiB |  00m00s
+[ 785/1568] Installing python3-cycler-0 100% |   9.6 MiB/s |  39.5 KiB |  00m00s
+[ 786/1568] Installing opencv-data-0:4. 100% | 161.9 MiB/s |  10.2 MiB |  00m00s
+[ 787/1568] Installing linux-atm-libs-0 100% |   1.7 MiB/s |  69.9 KiB |  00m00s
+>>> Running sysusers scriptlet: ppp-0:2.5.1-5.fc42.x86_64                       
+>>> Finished sysusers scriptlet: ppp-0:2.5.1-5.fc42.x86_64                      
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>>                                                                             
+[ 788/1568] Installing ppp-0:2.5.1-5.fc 100% |   9.3 MiB/s | 957.1 KiB |  00m00s
+[ 789/1568] Installing pptp-0:1.10.0-22 100% |   3.7 MiB/s | 151.2 KiB |  00m00s
+[ 790/1568] Installing NetworkManager-p 100% |  10.0 MiB/s | 520.8 KiB |  00m00s
+[ 791/1568] Installing python3-olefile- 100% |  27.9 MiB/s | 342.7 KiB |  00m00s
+[ 792/1568] Installing python3-pillow-0 100% |  40.7 MiB/s |   4.0 MiB |  00m00s
+[ 793/1568] Installing python3-pikepdf- 100% |  55.2 MiB/s |   2.5 MiB |  00m00s
+[ 794/1568] Installing qt-settings-0:42 100% | 559.9 KiB/s |   1.7 KiB |  00m00s
+[ 795/1568] Installing qt5-qtbase-commo 100% |  24.8 KiB/s | 356.0   B |  00m00s
+[ 796/1568] Installing qt5-qtbase-0:5.1 100% |  61.8 MiB/s |  10.0 MiB |  00m00s
+[ 797/1568] Installing kf5-kcoreaddons- 100% |  16.0 MiB/s |   1.8 MiB |  00m00s
+[ 798/1568] Installing quazip-qt5-0:1.4 100% |  25.0 MiB/s | 255.7 KiB |  00m00s
+[ 799/1568] Installing audit-rules-0:4. 100% |   1.1 MiB/s | 118.1 KiB |  00m00s
+>>> Running %post scriptlet: audit-rules-0:4.1.1-1.fc42.x86_64                  
+>>> Finished %post scriptlet: audit-rules-0:4.1.1-1.fc42.x86_64                 
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/audit-rules.ser
+>>> No rules detected, adding default                                           
+>>> You must be root to run this program.                                       
+>>> You must be root to run this program.                                       
+>>>                                                                             
+[ 800/1568] Installing audit-0:4.1.1-1. 100% |   2.7 MiB/s | 504.6 KiB |  00m00s
+>>> Running %post scriptlet: audit-0:4.1.1-1.fc42.x86_64                        
+>>> Finished %post scriptlet: audit-0:4.1.1-1.fc42.x86_64                       
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/auditd.service'
+>>> System has not been booted with systemd as init system (PID 1). Can't operat
+>>> Failed to connect to system scope bus via local transport: Host is down     
+>>>                                                                             
+[ 801/1568] Installing wsdd-0:0.8-3.fc4 100% | 768.1 KiB/s |  98.3 KiB |  00m00s
+[ 802/1568] Installing groff-base-0:1.2 100% |  25.3 MiB/s |   3.9 MiB |  00m00s
+[ 803/1568] Installing perl-Digest-0:1. 100% |   7.2 MiB/s |  37.1 KiB |  00m00s
+[ 804/1568] Installing perl-Digest-MD5- 100% |  12.0 MiB/s |  61.6 KiB |  00m00s
+[ 805/1568] Installing perl-FileHandle- 100% |   4.8 MiB/s |   9.8 KiB |  00m00s
+[ 806/1568] Installing perl-B-0:1.89-51 100% |  44.5 MiB/s | 501.3 KiB |  00m00s
+[ 807/1568] Installing perl-MIME-Base32 100% |   7.9 MiB/s |  32.2 KiB |  00m00s
+[ 808/1568] Installing perl-Data-Dumper 100% |  16.4 MiB/s | 117.5 KiB |  00m00s
+[ 809/1568] Installing perl-libnet-0:3. 100% |  24.0 MiB/s | 294.7 KiB |  00m00s
+[ 810/1568] Installing perl-AutoLoader- 100% |  10.2 MiB/s |  20.9 KiB |  00m00s
+[ 811/1568] Installing perl-IO-Socket-I 100% |  20.0 MiB/s | 102.2 KiB |  00m00s
+[ 812/1568] Installing perl-URI-0:5.31- 100% |  11.0 MiB/s | 269.6 KiB |  00m00s
+[ 813/1568] Installing perl-Time-Local- 100% |  13.8 MiB/s |  70.6 KiB |  00m00s
+[ 814/1568] Installing perl-Text-Tabs+W 100% |   7.8 MiB/s |  23.9 KiB |  00m00s
+[ 815/1568] Installing perl-File-Path-0 100% |  21.0 MiB/s |  64.5 KiB |  00m00s
+[ 816/1568] Installing perl-Pod-Escapes 100% |   8.4 MiB/s |  25.9 KiB |  00m00s
+[ 817/1568] Installing perl-if-0:0.61.0 100% |   2.0 MiB/s |   6.2 KiB |  00m00s
+[ 818/1568] Installing perl-Net-SSLeay- 100% |  38.8 MiB/s |   1.4 MiB |  00m00s
+[ 819/1568] Installing perl-IO-Socket-S 100% |  57.6 MiB/s | 707.4 KiB |  00m00s
+[ 820/1568] Installing perl-locale-0:1. 100% |   3.4 MiB/s |   6.9 KiB |  00m00s
+[ 821/1568] Installing perl-Term-ANSICo 100% |  24.2 MiB/s |  99.2 KiB |  00m00s
+[ 822/1568] Installing perl-Term-Cap-0: 100% |   7.5 MiB/s |  30.6 KiB |  00m00s
+[ 823/1568] Installing perl-Pod-Simple- 100% |  29.3 MiB/s | 570.4 KiB |  00m00s
+[ 824/1568] Installing perl-File-Temp-1 100% |  32.0 MiB/s | 164.1 KiB |  00m00s
+[ 825/1568] Installing perl-HTTP-Tiny-0 100% |  30.6 MiB/s | 156.4 KiB |  00m00s
+[ 826/1568] Installing perl-POSIX-0:2.2 100% |  37.8 MiB/s | 232.3 KiB |  00m00s
+[ 827/1568] Installing perl-IPC-Open3-0 100% |   7.6 MiB/s |  23.3 KiB |  00m00s
+[ 828/1568] Installing perl-Class-Struc 100% |  12.6 MiB/s |  25.9 KiB |  00m00s
+[ 829/1568] Installing perl-Socket-4:2. 100% |  19.9 MiB/s | 122.0 KiB |  00m00s
+[ 830/1568] Installing perl-Symbol-0:1. 100% |   3.5 MiB/s |   7.2 KiB |  00m00s
+[ 831/1568] Installing perl-SelectSaver 100% |   1.3 MiB/s |   2.6 KiB |  00m00s
+[ 832/1568] Installing perl-podlators-1 100% |   9.2 MiB/s | 321.4 KiB |  00m00s
+[ 833/1568] Installing perl-Pod-Perldoc 100% |   5.0 MiB/s | 169.2 KiB |  00m00s
+[ 834/1568] Installing perl-File-stat-0 100% |   6.4 MiB/s |  13.1 KiB |  00m00s
+[ 835/1568] Installing perl-Text-ParseW 100% |   4.7 MiB/s |  14.6 KiB |  00m00s
+[ 836/1568] Installing perl-Fcntl-0:1.1 100% |  16.3 MiB/s |  50.0 KiB |  00m00s
+[ 837/1568] Installing perl-base-0:2.27 100% |   6.3 MiB/s |  12.9 KiB |  00m00s
+[ 838/1568] Installing perl-mro-0:1.29- 100% |  10.4 MiB/s |  42.6 KiB |  00m00s
+[ 839/1568] Installing perl-overloading 100% |   1.8 MiB/s |   5.5 KiB |  00m00s
+[ 840/1568] Installing perl-Pod-Usage-4 100% |   3.1 MiB/s |  87.9 KiB |  00m00s
+[ 841/1568] Installing perl-IO-0:1.55-5 100% |  14.8 MiB/s | 151.3 KiB |  00m00s
+[ 842/1568] Installing perl-constant-0: 100% |   6.7 MiB/s |  27.4 KiB |  00m00s
+[ 843/1568] Installing perl-parent-1:0. 100% |   5.4 MiB/s |  11.0 KiB |  00m00s
+[ 844/1568] Installing perl-MIME-Base64 100% |   7.2 MiB/s |  44.3 KiB |  00m00s
+[ 845/1568] Installing perl-File-Basena 100% |   7.1 MiB/s |  14.6 KiB |  00m00s
+[ 846/1568] Installing perl-Errno-0:1.3 100% |   4.3 MiB/s |   8.7 KiB |  00m00s
+[ 847/1568] Installing perl-Storable-1: 100% |  38.1 MiB/s | 233.9 KiB |  00m00s
+[ 848/1568] Installing perl-Scalar-List 100% |  16.1 MiB/s | 148.6 KiB |  00m00s
+[ 849/1568] Installing perl-vars-0:1.05 100% |   2.1 MiB/s |   4.3 KiB |  00m00s
+[ 850/1568] Installing perl-Getopt-Std- 100% |   5.7 MiB/s |  11.7 KiB |  00m00s
+[ 851/1568] Installing perl-overload-0: 100% |  35.1 MiB/s |  71.9 KiB |  00m00s
+[ 852/1568] Installing perl-Getopt-Long 100% |  20.5 MiB/s | 147.2 KiB |  00m00s
+[ 853/1568] Installing perl-Carp-0:1.54 100% |  11.6 MiB/s |  47.7 KiB |  00m00s
+[ 854/1568] Installing perl-PathTools-0 100% |  16.4 MiB/s | 184.5 KiB |  00m00s
+[ 855/1568] Installing perl-DynaLoader- 100% |  10.6 MiB/s |  32.5 KiB |  00m00s
+[ 856/1568] Installing perl-Encode-4:3. 100% |  61.8 MiB/s |   4.7 MiB |  00m00s
+[ 857/1568] Installing perl-Exporter-0: 100% |   9.1 MiB/s |  55.6 KiB |  00m00s
+[ 858/1568] Installing perl-libs-4:5.40 100% |  50.2 MiB/s |   9.9 MiB |  00m00s
+[ 859/1568] Installing perl-interpreter 100% |   3.5 MiB/s | 119.9 KiB |  00m00s
+[ 860/1568] Installing perl-Image-ExifT 100% |  84.0 MiB/s |  19.5 MiB |  00m00s
+[ 861/1568] Installing zfs-fuse-0:0.7.2 100% |  58.5 MiB/s |   6.8 MiB |  00m00s
+[ 862/1568] Installing perl-TermReadKey 100% |   8.1 MiB/s |  66.2 KiB |  00m00s
+[ 863/1568] Installing perl-File-Find-0 100% |  13.8 MiB/s |  42.5 KiB |  00m00s
+[ 864/1568] Installing perl-Error-1:0.1 100% |  11.2 MiB/s |  80.0 KiB |  00m00s
+[ 865/1568] Installing perl-lib-0:0.65- 100% |   4.3 MiB/s |   8.9 KiB |  00m00s
+[ 866/1568] Installing git-0:2.50.1-1.f 100% |  12.2 MiB/s |  87.2 KiB |  00m00s
+[ 867/1568] Installing perl-Git-0:2.50. 100% |  15.9 MiB/s |  65.0 KiB |  00m00s
+[ 868/1568] Installing rocm-clang-0:18- 100% |  51.3 MiB/s | 117.6 MiB |  00m02s
+[ 869/1568] Installing rocm-clang-devel 100% |  48.1 MiB/s |  21.9 MiB |  00m00s
+[ 870/1568] Installing rocm-device-libs 100% |  43.7 MiB/s |   3.2 MiB |  00m00s
+[ 871/1568] Installing hipcc-0:18-37.ro 100% |  14.9 MiB/s | 762.6 KiB |  00m00s
+[ 872/1568] Installing rocm-hip-0:6.3.1 100% | 114.2 MiB/s |  23.3 MiB |  00m00s
+[ 873/1568] Installing oidn-libs-0:2.3. 100% | 124.4 MiB/s |  73.3 MiB |  00m01s
+[ 874/1568] Installing texlive-lib-11:2 100% |  21.5 MiB/s |   1.1 MiB |  00m00s
+[ 875/1568] Installing cpuinfo-0:24.09. 100% |   1.2 MiB/s | 109.7 KiB |  00m00s
+[ 876/1568] Installing svt-av1-libs-0:2 100% |  55.7 MiB/s |   5.6 MiB |  00m00s
+[ 877/1568] Installing libavif-0:1.1.1- 100% |  23.4 MiB/s | 215.2 KiB |  00m00s
+[ 878/1568] Installing libheif-0:1.19.8 100% |  63.2 MiB/s |   1.3 MiB |  00m00s
+[ 879/1568] Installing libtommath-0:1.3 100% |   1.0 MiB/s | 131.5 KiB |  00m00s
+[ 880/1568] Installing tcl-1:9.0.0-7.fc 100% |  41.3 MiB/s |   4.3 MiB |  00m00s
+[ 881/1568] Installing usb_modeswitch-d 100% |   2.2 MiB/s | 210.7 KiB |  00m00s
+[ 882/1568] Installing usb_modeswitch-0 100% |   6.1 MiB/s | 219.6 KiB |  00m00s
+[ 883/1568] Installing tbb2020.3-0:2020 100% |  37.5 MiB/s | 268.6 KiB |  00m00s
+[ 884/1568] Installing libdatrie-0:0.2. 100% |  14.4 MiB/s |  58.9 KiB |  00m00s
+[ 885/1568] Installing libthai-0:0.1.29 100% |  69.7 MiB/s | 785.2 KiB |  00m00s
+[ 886/1568] Installing libwsman1-0:2.7. 100% |  29.1 MiB/s | 357.9 KiB |  00m00s
+[ 887/1568] Installing libvirt-libs-0:1 100% | 105.7 MiB/s |  27.3 MiB |  00m00s
+[ 888/1568] Installing libvirt-daemon-c 100% |   5.5 MiB/s | 332.6 KiB |  00m00s
+[ 889/1568] Installing libvirt-daemon-d 100% |  20.2 MiB/s | 911.2 KiB |  00m00s
+[ 890/1568] Installing libvirt-glib-0:5 100% |   7.5 MiB/s | 137.8 KiB |  00m00s
+[ 891/1568] Installing libvirt-client-0 100% |  15.8 MiB/s | 969.4 KiB |  00m00s
+[ 892/1568] Installing libvirt-daemon-d 100% |  11.7 MiB/s | 884.9 KiB |  00m00s
+[ 893/1568] Installing libvirt-daemon-l 100% |   2.0 MiB/s | 101.7 KiB |  00m00s
+[ 894/1568] Installing libvirt-daemon-l 100% |   3.1 MiB/s | 108.1 KiB |  00m00s
+[ 895/1568] Installing libvirt-daemon-p 100% |   1.7 MiB/s |  28.4 KiB |  00m00s
+[ 896/1568] Installing libvirt-daemon-c 100% |  21.0 KiB/s | 644.0   B |  00m00s
+[ 897/1568] Installing libvirt-gobject- 100% |  31.3 MiB/s | 224.1 KiB |  00m00s
+[ 898/1568] Installing libvirt-daemon-d 100% |   9.3 MiB/s |  28.6 KiB |  00m00s
+[ 899/1568] Installing libvirt-daemon-d 100% |   8.9 MiB/s |  36.3 KiB |  00m00s
+[ 900/1568] Installing libvirt-daemon-d 100% |   6.7 MiB/s |  20.4 KiB |  00m00s
+[ 901/1568] Installing libvirt-daemon-d 100% |   9.3 MiB/s |  28.6 KiB |  00m00s
+[ 902/1568] Installing libvirt-daemon-d 100% |   9.3 MiB/s |  28.7 KiB |  00m00s
+[ 903/1568] Installing libvirt-daemon-d 100% |   5.3 MiB/s |  16.3 KiB |  00m00s
+[ 904/1568] Installing libvirt-daemon-d 100% |   9.9 MiB/s |  40.7 KiB |  00m00s
+[ 905/1568] Installing libvirt-daemon-d 100% |   6.7 MiB/s |  20.5 KiB |  00m00s
+[ 906/1568] Installing libvirt-daemon-d 100% |   4.0 MiB/s |  20.4 KiB |  00m00s
+[ 907/1568] Installing libvirt-daemon-d 100% |   6.7 KiB/s | 124.0   B |  00m00s
+[ 908/1568] Installing libvirt-daemon-d 100% |  12.5 MiB/s | 752.6 KiB |  00m00s
+[ 909/1568] Installing libvirt-daemon-d 100% |  14.3 MiB/s | 817.4 KiB |  00m00s
+[ 910/1568] Installing libvirt-daemon-d 100% |  13.9 MiB/s | 842.6 KiB |  00m00s
+[ 911/1568] Installing libvirt-daemon-d 100% |  18.6 MiB/s | 744.6 KiB |  00m00s
+[ 912/1568] Installing python3-libvirt- 100% |  42.0 MiB/s |   2.1 MiB |  00m00s
+[ 913/1568] Installing libvirt-daemon-p 100% |  16.1 MiB/s | 726.4 KiB |  00m00s
+[ 914/1568] Installing libvirt-ssh-prox 100% |   4.0 MiB/s |  20.7 KiB |  00m00s
+[ 915/1568] Installing libldac-0:2.0.2. 100% |  13.7 MiB/s |  84.2 KiB |  00m00s
+[ 916/1568] Installing cdparanoia-libs- 100% |  19.4 MiB/s | 118.9 KiB |  00m00s
+[ 917/1568] Installing libudfread-0:1.1 100% |  13.2 MiB/s |  67.3 KiB |  00m00s
+[ 918/1568] Installing libbluray-0:1.3. 100% |  43.3 MiB/s | 399.2 KiB |  00m00s
+[ 919/1568] Installing gvfs-0:1.57.2-1. 100% |  21.9 MiB/s |   1.2 MiB |  00m00s
+[ 920/1568] Installing gvfs-fuse-0:1.57 100% |   8.3 MiB/s |  50.9 KiB |  00m00s
+[ 921/1568] Installing speexdsp-0:1.2.1 100% |  50.7 MiB/s | 519.0 KiB |  00m00s
+[ 922/1568] Installing protobuf-lite-0: 100% |  64.8 MiB/s | 862.2 KiB |  00m00s
+[ 923/1568] Installing libmpcdec-0:1.3. 100% |  16.0 MiB/s |  81.8 KiB |  00m00s
+[ 924/1568] Installing libmicrodns-0:0. 100% |  12.2 MiB/s |  62.7 KiB |  00m00s
+[ 925/1568] Installing libdvbpsi-0:1.3. 100% |  35.4 MiB/s | 289.7 KiB |  00m00s
+[ 926/1568] Installing libdca-0:0.0.7-1 100% |  31.1 MiB/s | 222.8 KiB |  00m00s
+[ 927/1568] Installing aribb25-0:0.2.7- 100% |  13.9 MiB/s |  71.3 KiB |  00m00s
+[ 928/1568] Installing usbutils-0:018-3 100% |   7.3 MiB/s | 321.1 KiB |  00m00s
+[ 929/1568] Installing svt-hevc-libs-0: 100% | 103.1 MiB/s |   2.2 MiB |  00m00s
+[ 930/1568] Installing mjpegtools-libs- 100% |  31.2 MiB/s | 415.7 KiB |  00m00s
+[ 931/1568] Installing librtmp-0:2.6-1. 100% |  27.2 MiB/s | 166.8 KiB |  00m00s
+[ 932/1568] Installing libsrtp-0:2.6.0- 100% |  20.6 MiB/s | 126.7 KiB |  00m00s
+[ 933/1568] Installing liblangtag-data- 100% | 105.8 MiB/s |   2.1 MiB |  00m00s
+[ 934/1568] Installing liblangtag-0:0.6 100% |  21.1 MiB/s | 216.1 KiB |  00m00s
+[ 935/1568] Installing libreoffice-ure- 100% |  73.4 MiB/s |   6.5 MiB |  00m00s
+[ 936/1568] Installing libetonyek-0:0.1 100% |  91.8 MiB/s |   2.4 MiB |  00m00s
+[ 937/1568] Installing libe-book-0:0.1. 100% |  40.1 MiB/s | 451.9 KiB |  00m00s
+[ 938/1568] Installing lpsolve-0:5.5.2. 100% |  17.4 MiB/s | 713.8 KiB |  00m00s
+[ 939/1568] Installing libnumbertext-0: 100% |  14.0 MiB/s | 774.1 KiB |  00m00s
+[ 940/1568] Installing qqwing-libs-0:1. 100% |  10.2 MiB/s |  62.6 KiB |  00m00s
+[ 941/1568] Installing gom-0:0.5.3-2.fc 100% |  23.0 MiB/s | 188.0 KiB |  00m00s
+[ 942/1568] Installing libqmi-utils-0:1 100% |  18.8 MiB/s | 826.7 KiB |  00m00s
+[ 943/1568] Installing libmbim-utils-0: 100% |   7.7 MiB/s | 306.4 KiB |  00m00s
+[ 944/1568] Installing ModemManager-0:1 100% |  28.5 MiB/s |   4.3 MiB |  00m00s
+>>> Running %post scriptlet: ModemManager-0:1.22.0-5.fc42.x86_64                
+>>> Finished %post scriptlet: ModemManager-0:1.22.0-5.fc42.x86_64               
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/dbus-org.freedesktop.ModemManager1.serv
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/ModemManager.se
+>>>                                                                             
+[ 945/1568] Installing lm_sensors-libs- 100% |  14.1 MiB/s |  86.9 KiB |  00m00s
+[ 946/1568] Installing mesa-libgbm-0:25 100% |   4.0 MiB/s |  20.5 KiB |  00m00s
+[ 947/1568] Installing mesa-dri-drivers 100% | 122.2 MiB/s |  46.6 MiB |  00m00s
+[ 948/1568] Installing libglvnd-egl-1:1 100% |  11.4 MiB/s |  70.3 KiB |  00m00s
+[ 949/1568] Installing mesa-libEGL-0:25 100% |  41.0 MiB/s | 336.0 KiB |  00m00s
+[ 950/1568] Installing libglvnd-gles-1: 100% |  17.5 MiB/s | 107.3 KiB |  00m00s
+[ 951/1568] Installing libmpc-0:1.3.1-7 100% |  23.2 MiB/s | 166.1 KiB |  00m00s
+[ 952/1568] Installing editorconfig-lib 100% |   5.6 MiB/s |  40.2 KiB |  00m00s
+[ 953/1568] Installing switcheroo-contr 100% |   1.6 MiB/s | 104.5 KiB |  00m00s
+>>> Running %post scriptlet: switcheroo-control-0:2.6-8.fc42.x86_64             
+>>> Finished %post scriptlet: switcheroo-control-0:2.6-8.fc42.x86_64            
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/graphical.target.wants/switcheroo-contr
+>>>                                                                             
+[ 954/1568] Installing gettext-0:0.23.1 100% |  38.8 MiB/s |   5.2 MiB |  00m00s
+[ 955/1568] Installing iio-sensor-proxy 100% |   2.4 MiB/s | 163.2 KiB |  00m00s
+[ 956/1568] Installing python3-pam-0:2. 100% |   6.1 MiB/s |  62.4 KiB |  00m00s
+[ 957/1568] Installing malcontent-0:0.1 100% |   9.0 MiB/s | 583.7 KiB |  00m00s
+[ 958/1568] Installing redhat-menus-0:1 100% |  12.5 MiB/s | 689.6 KiB |  00m00s
+[ 959/1568] Installing gnome-menus-0:3. 100% |   8.9 MiB/s | 650.3 KiB |  00m00s
+[ 960/1568] Installing gnome-app-list-0 100% |  24.6 MiB/s |  75.5 KiB |  00m00s
+[ 961/1568] Installing turbojpeg-0:3.1. 100% |  75.1 MiB/s | 922.8 KiB |  00m00s
+[ 962/1568] Installing python3-legacy-c 100% |  18.8 MiB/s | 134.7 KiB |  00m00s
+[ 963/1568] Installing libspiro-0:20240 100% |  12.0 MiB/s |  98.0 KiB |  00m00s
+[ 964/1568] Installing lensfun-0:0.3.4- 100% |  74.1 MiB/s |   4.4 MiB |  00m00s
+[ 965/1568] Installing lockdev-0:1.0.4- 100% |   1.2 MiB/s |  72.5 KiB |  00m00s
+>>> [RPM] group lock does not exist - using root                                
+[ 966/1568] Installing vamp-plugin-sdk- 100% |  34.9 MiB/s | 536.5 KiB |  00m00s
+[ 967/1568] Installing suil-0:0.10.20-3 100% |  11.4 MiB/s | 105.4 KiB |  00m00s
+[ 968/1568] Installing python3-webencod 100% |   8.8 MiB/s |  90.5 KiB |  00m00s
+[ 969/1568] Installing python3-tinycss2 100% |  19.3 MiB/s | 257.5 KiB |  00m00s
+[ 970/1568] Installing python3-scour-0: 100% |  10.0 MiB/s | 409.1 KiB |  00m00s
+[ 971/1568] Installing python3-pyserial 100% |  14.2 MiB/s | 886.1 KiB |  00m00s
+[ 972/1568] Installing python3-cssselec 100% |  21.9 MiB/s | 246.8 KiB |  00m00s
+[ 973/1568] Installing python3-inkex-0: 100% |  29.6 MiB/s |   1.8 MiB |  00m00s
+[ 974/1568] Installing python3-svg2tikz 100% |   3.6 MiB/s | 133.1 KiB |  00m00s
+[ 975/1568] Installing python3-appdirs- 100% |  13.7 MiB/s |  70.0 KiB |  00m00s
+[ 976/1568] Installing CharLS-0:2.4.2-8 100% |  32.8 MiB/s | 335.7 KiB |  00m00s
+[ 977/1568] Installing gdcm-0:3.0.24-8. 100% |  96.9 MiB/s |   8.0 MiB |  00m00s
+[ 978/1568] Installing gpm-libs-0:1.20. 100% |  10.6 MiB/s |  32.4 KiB |  00m00s
+[ 979/1568] Installing boost-serializat 100% |  43.3 MiB/s | 443.0 KiB |  00m00s
+[ 980/1568] Installing draco-0:1.5.7-4. 100% |  34.2 MiB/s |   1.8 MiB |  00m00s
+[ 981/1568] Installing yaml-cpp-0:0.8.0 100% |  36.4 MiB/s | 335.6 KiB |  00m00s
+[ 982/1568] Installing pystring-0:1.1.4 100% |  14.3 MiB/s |  88.0 KiB |  00m00s
+[ 983/1568] Installing OpenColorIO-0:2. 100% | 106.2 MiB/s |   7.1 MiB |  00m00s
+[ 984/1568] Installing python3-zstandar 100% |  81.4 MiB/s |   2.0 MiB |  00m00s
+[ 985/1568] Installing jemalloc-0:5.3.0 100% |  20.5 MiB/s | 819.0 KiB |  00m00s
+[ 986/1568] Installing python3-newt-0:0 100% |  20.7 MiB/s | 127.0 KiB |  00m00s
+[ 987/1568] Installing libisofs-0:1.5.6 100% |  49.8 MiB/s | 510.0 KiB |  00m00s
+[ 988/1568] Installing libburn-0:1.5.6- 100% |  39.0 MiB/s | 359.1 KiB |  00m00s
+[ 989/1568] Installing libisoburn-0:1.5 100% |  67.8 MiB/s |   1.1 MiB |  00m00s
+[ 990/1568] Installing xorriso-0:1.5.6- 100% |   6.2 MiB/s | 344.3 KiB |  00m00s
+[ 991/1568] Installing python3-distro-0 100% |   5.2 MiB/s | 200.9 KiB |  00m00s
+[ 992/1568] Installing checkpolicy-0:3. 100% |  30.9 MiB/s |   1.5 MiB |  00m00s
+[ 993/1568] Installing python3-policyco 100% |  44.1 MiB/s |   5.9 MiB |  00m00s
+[ 994/1568] Installing policycoreutils- 100% |   2.4 MiB/s |  97.8 KiB |  00m00s
+[ 995/1568] Installing setroubleshoot-p 100% |  17.0 MiB/s |   2.6 MiB |  00m00s
+>>> Running sysusers scriptlet: setroubleshoot-server-0:3.3.35-4.fc42.x86_64    
+>>> Finished sysusers scriptlet: setroubleshoot-server-0:3.3.35-4.fc42.x86_64   
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'setroubleshoot' with GID 968.                               
+>>> Creating user 'setroubleshoot' (SELinux troubleshoot server) with UID 968 an
+>>>                                                                             
+[ 996/1568] Installing setroubleshoot-s 100% |  11.5 MiB/s |   1.5 MiB |  00m00s
+[ 997/1568] Installing swtpm-0:0.10.1-1 100% |   1.2 MiB/s |  54.6 KiB |  00m00s
+[ 998/1568] Installing swtpm-selinux-0: 100% |  23.8 KiB/s | 252.9 KiB |  00m11s
+>>> Running %post scriptlet: swtpm-selinux-0:0.10.1-1.fc42.noarch               
+>>> Finished %post scriptlet: swtpm-selinux-0:0.10.1-1.fc42.noarch              
+>>> Scriptlet output:                                                           
+>>> libsemanage.semanage_rename: WARNING: rename(/etc/selinux/targeted/active, /
+>>>                                                                             
+[ 999/1568] Installing swtpm-tools-0:0. 100% |   2.4 MiB/s | 279.2 KiB |  00m00s
+>>> [RPM] user tss does not exist - using root                                  
+>>> Running sysusers scriptlet: libvirt-daemon-driver-qemu-0:11.0.0-3.fc42.x86_6
+>>> Finished sysusers scriptlet: libvirt-daemon-driver-qemu-0:11.0.0-3.fc42.x86_
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>>                                                                             
+[1000/1568] Installing libvirt-daemon-d 100% |  36.3 MiB/s |   2.8 MiB |  00m00s
+>>> [RPM] user tss does not exist - using root                                  
+[1001/1568] Installing flatpak-selinux- 100% |   1.3 KiB/s |  13.2 KiB |  00m10s
+[1002/1568] Installing NetworkManager-s 100% |   1.9 KiB/s |  19.2 KiB |  00m10s
+[1003/1568] Installing libcomps-0:0.1.2 100% |  17.1 MiB/s | 210.6 KiB |  00m00s
+[1004/1568] Installing python3-libcomps 100% |  17.8 MiB/s | 145.8 KiB |  00m00s
+[1005/1568] Installing libasyncns-0:0.8 100% |   9.9 MiB/s |  60.8 KiB |  00m00s
+[1006/1568] Installing pulseaudio-libs- 100% |  42.9 MiB/s |   3.4 MiB |  00m00s
+[1007/1568] Installing pipewire-libs-0: 100% |  43.1 MiB/s |   8.6 MiB |  00m00s
+[1008/1568] Installing pulseaudio-libs- 100% |   5.0 MiB/s |  20.6 KiB |  00m00s
+[1009/1568] Installing flite-0:2.2-11.f 100% |  93.0 MiB/s |  21.6 MiB |  00m00s
+[1010/1568] Installing vlc-plugin-pipew 100% |  11.3 MiB/s |  81.1 KiB |  00m00s
+[1011/1568] Installing pipewire-pulseau 100% |   5.1 MiB/s | 444.0 KiB |  00m00s
+>>> Running %post scriptlet: pipewire-pulseaudio-0:1.4.7-1.fc42.x86_64          
+>>> Finished %post scriptlet: pipewire-pulseaudio-0:1.4.7-1.fc42.x86_64         
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/user/sockets.target.wants/pipewire-pulse.socke
+>>>                                                                             
+[1012/1568] Installing wireplumber-libs 100% |  19.4 MiB/s |   1.2 MiB |  00m00s
+[1013/1568] Installing wireplumber-0:0. 100% |   3.7 MiB/s | 397.8 KiB |  00m00s
+>>> Running sysusers scriptlet: pipewire-0:1.4.7-1.fc42.x86_64                  
+>>> Finished sysusers scriptlet: pipewire-0:1.4.7-1.fc42.x86_64                 
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'pipewire' with GID 967.                                     
+>>> Creating user 'pipewire' (PipeWire System Daemon) with UID 967 and GID 967. 
+>>>                                                                             
+[1014/1568] Installing pipewire-0:1.4.7 100% |   5.1 MiB/s | 434.7 KiB |  00m00s
+>>> Running %post scriptlet: pipewire-0:1.4.7-1.fc42.x86_64                     
+>>> Finished %post scriptlet: pipewire-0:1.4.7-1.fc42.x86_64                    
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/user/sockets.target.wants/pipewire.socket' 
+>>>                                                                             
+[1015/1568] Installing qemu-audio-pipew 100% |  11.1 MiB/s |  45.3 KiB |  00m00s
+[1016/1568] Installing libao-0:1.2.0-29 100% |  12.4 MiB/s | 139.6 KiB |  00m00s
+[1017/1568] Installing sox-0:14.4.2.0-4 100% |  15.9 MiB/s |   1.1 MiB |  00m00s
+[1018/1568] Installing gvncpulse-0:1.5. 100% |   4.5 MiB/s |  55.3 KiB |  00m00s
+[1019/1568] Installing vlc-plugin-pulse 100% |  11.6 MiB/s |  83.4 KiB |  00m00s
+[1020/1568] Installing qemu-audio-pa-2: 100% |   9.3 MiB/s |  28.5 KiB |  00m00s
+[1021/1568] Installing libstemmer-0:2.2 100% |  59.9 MiB/s | 613.3 KiB |  00m00s
+[1022/1568] Installing appstream-0:1.0. 100% |  40.5 MiB/s |   4.3 MiB |  00m00s
+[1023/1568] Installing PackageKit-0:1.2 100% |  19.9 MiB/s |   2.9 MiB |  00m00s
+[1024/1568] Installing python3-platform 100% |  12.7 MiB/s | 168.4 KiB |  00m00s
+[1025/1568] Installing python3-pooch-0: 100% |  16.8 MiB/s | 635.8 KiB |  00m00s
+[1026/1568] Installing python3-scipy-0: 100% |  72.8 MiB/s |  67.6 MiB |  00m01s
+[1027/1568] Installing boost-atomic-0:1 100% |   3.6 MiB/s |  21.9 KiB |  00m00s
+[1028/1568] Installing boost-filesystem 100% |  17.7 MiB/s | 144.6 KiB |  00m00s
+[1029/1568] Installing laszip-0:3.4.4-4 100% |  37.9 MiB/s | 466.0 KiB |  00m00s
+[1030/1568] Installing highway-0:1.2.0- 100% | 111.6 MiB/s |   4.4 MiB |  00m00s
+[1031/1568] Installing libjxl-1:0.11.1- 100% |  84.6 MiB/s |   3.0 MiB |  00m00s
+[1032/1568] Installing jxl-pixbuf-loade 100% |   7.4 MiB/s |  30.2 KiB |  00m00s
+[1033/1568] Installing dnf-data-0:4.23. 100% |   4.5 MiB/s |  41.4 KiB |  00m00s
+[1034/1568] Installing python3-dnf-0:4. 100% |  25.3 MiB/s |   2.7 MiB |  00m00s
+[1035/1568] Installing python3-librepor 100% |  19.3 MiB/s | 493.2 KiB |  00m00s
+[1036/1568] Installing python3-abrt-0:2 100% |   2.0 MiB/s |  77.9 KiB |  00m00s
+[1037/1568] Installing abrt-0:2.17.6-4. 100% |  19.7 MiB/s |   2.7 MiB |  00m00s
+>>> Running %post scriptlet: abrt-0:2.17.6-4.fc42.x86_64                        
+>>> Finished %post scriptlet: abrt-0:2.17.6-4.fc42.x86_64                       
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/abrtd.service' 
+>>>                                                                             
+[1038/1568] Installing abrt-dbus-0:2.17 100% |   3.8 MiB/s | 165.3 KiB |  00m00s
+[1039/1568] Installing abrt-addon-kerne 100% |   1.5 MiB/s |  94.6 KiB |  00m00s
+>>> Running %post scriptlet: abrt-addon-kerneloops-0:2.17.6-4.fc42.x86_64       
+>>> Finished %post scriptlet: abrt-addon-kerneloops-0:2.17.6-4.fc42.x86_64      
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/abrt-oops.servi
+>>>                                                                             
+[1040/1568] Installing abrt-addon-pstor 100% | 300.7 KiB/s |  18.9 KiB |  00m00s
+[1041/1568] Installing abrt-addon-vmcor 100% | 649.6 KiB/s |  39.6 KiB |  00m00s
+>>> Running %post scriptlet: abrt-addon-vmcore-0:2.17.6-4.fc42.x86_64           
+>>> Finished %post scriptlet: abrt-addon-vmcore-0:2.17.6-4.fc42.x86_64          
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/abrt-vmcore.ser
+>>>                                                                             
+[1042/1568] Installing abrt-addon-ccpp- 100% |   3.9 MiB/s | 301.0 KiB |  00m00s
+>>> Running %post scriptlet: abrt-addon-ccpp-0:2.17.6-4.fc42.x86_64             
+>>> Finished %post scriptlet: abrt-addon-ccpp-0:2.17.6-4.fc42.x86_64            
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/abrt-journal-co
+>>>                                                                             
+[1043/1568] Installing abrt-addon-xorg- 100% |   1.1 MiB/s |  69.5 KiB |  00m00s
+>>> Running %post scriptlet: abrt-addon-xorg-0:2.17.6-4.fc42.x86_64             
+>>> Finished %post scriptlet: abrt-addon-xorg-0:2.17.6-4.fc42.x86_64            
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/abrt-xorg.servi
+>>>                                                                             
+[1044/1568] Installing abrt-plugin-bodh 100% |   1.1 MiB/s |  43.8 KiB |  00m00s
+[1045/1568] Installing python3-abrt-add 100% |   1.1 MiB/s |  19.9 KiB |  00m00s
+[1046/1568] Installing libreport-plugin 100% |   3.0 MiB/s | 131.7 KiB |  00m00s
+[1047/1568] Installing sound-theme-free 100% |  16.9 MiB/s | 467.2 KiB |  00m00s
+[1048/1568] Installing libcanberra-0:0. 100% |   3.5 MiB/s | 291.3 KiB |  00m00s
+[1049/1568] Installing gsound-0:1.0.3-1 100% |   2.2 MiB/s |  83.6 KiB |  00m00s
+[1050/1568] Installing uchardet-0:0.0.8 100% |   7.1 MiB/s | 277.7 KiB |  00m00s
+[1051/1568] Installing totem-pl-parser- 100% |   5.0 MiB/s | 326.9 KiB |  00m00s
+[1052/1568] Installing stoken-libs-0:0. 100% |  11.1 MiB/s |  91.0 KiB |  00m00s
+[1053/1568] Installing openconnect-0:9. 100% |  29.2 MiB/s |   3.9 MiB |  00m00s
+[1054/1568] Installing NetworkManager-o 100% |  40.9 MiB/s |   3.0 MiB |  00m00s
+[1055/1568] Installing osinfo-db-tools- 100% |   3.2 MiB/s | 197.2 KiB |  00m00s
+[1056/1568] Installing osinfo-db-0:2025 100% |  15.1 MiB/s |   4.1 MiB |  00m00s
+[1057/1568] Installing libosinfo-0:1.12 100% |  19.1 MiB/s |   1.2 MiB |  00m00s
+[1058/1568] Installing virt-manager-com 100% |  49.2 MiB/s |   6.3 MiB |  00m00s
+[1059/1568] Installing libusal-0:1.1.11 100% |  40.4 MiB/s | 454.8 KiB |  00m00s
+[1060/1568] Installing genisoimage-0:1. 100% |  13.8 MiB/s |   1.1 MiB |  00m00s
+[1061/1568] Installing adwaita-icon-the 100% |   6.1 MiB/s |   2.4 MiB |  00m00s
+[1062/1568] Installing adwaita-cursor-t 100% | 131.4 MiB/s |  11.4 MiB |  00m00s
+[1063/1568] Installing adwaita-icon-the 100% |   7.2 MiB/s |   1.3 MiB |  00m00s
+[1064/1568] Installing paktype-naskh-ba 100% | 122.4 MiB/s |   3.8 MiB |  00m00s
+[1065/1568] Installing default-fonts-ur 100% | 314.5 KiB/s | 644.0   B |  00m00s
+[1066/1568] Installing madan-fonts-0:2. 100% |  40.3 MiB/s | 247.7 KiB |  00m00s
+[1067/1568] Installing default-fonts-ne 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[1068/1568] Installing sil-padauk-fonts 100% |  87.4 MiB/s |   1.6 MiB |  00m00s
+[1069/1568] Installing default-fonts-my 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[1070/1568] Installing rit-meera-new-fo 100% |  32.6 MiB/s | 200.3 KiB |  00m00s
+[1071/1568] Installing default-fonts-ml 100% | 320.3 KiB/s | 656.0   B |  00m00s
+[1072/1568] Installing vazirmatn-vf-fon 100% |  35.1 MiB/s | 287.5 KiB |  00m00s
+[1073/1568] Installing default-fonts-fa 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[1074/1568] Installing jomolhari-fonts- 100% |  87.7 MiB/s |   2.2 MiB |  00m00s
+[1075/1568] Installing default-fonts-bo 100% |  49.0 KiB/s | 652.0   B |  00m00s
+[1076/1568] Installing libX11-common-0: 100% |  13.2 MiB/s |   1.2 MiB |  00m00s
+[1077/1568] Installing libX11-0:1.8.11- 100% |  67.7 MiB/s |   1.3 MiB |  00m00s
+[1078/1568] Installing libXext-0:1.3.6- 100% |  14.8 MiB/s |  91.2 KiB |  00m00s
+[1079/1568] Installing libXfixes-0:6.0. 100% |   3.4 MiB/s |  31.6 KiB |  00m00s
+[1080/1568] Installing libXi-0:1.8.2-2. 100% |   9.3 MiB/s |  85.7 KiB |  00m00s
+[1081/1568] Installing libXdamage-0:1.1 100% |   5.5 MiB/s |  45.2 KiB |  00m00s
+[1082/1568] Installing libXinerama-0:1. 100% |   3.9 MiB/s |  20.1 KiB |  00m00s
+[1083/1568] Installing libXtst-0:1.2.5- 100% |   4.2 MiB/s |  34.6 KiB |  00m00s
+[1084/1568] Installing libXcomposite-0: 100% |   5.0 MiB/s |  46.0 KiB |  00m00s
+[1085/1568] Installing libXrender-0:0.9 100% |   5.0 MiB/s |  51.3 KiB |  00m00s
+[1086/1568] Installing cairo-0:1.18.2-3 100% |  41.5 MiB/s |   1.8 MiB |  00m00s
+[1087/1568] Installing cairo-gobject-0: 100% |   4.4 MiB/s |  36.0 KiB |  00m00s
+[1088/1568] Installing libXrandr-0:1.5. 100% |   6.2 MiB/s |  57.0 KiB |  00m00s
+[1089/1568] Installing gjs-0:1.84.2-2.f 100% |  11.6 MiB/s |   2.0 MiB |  00m00s
+[1090/1568] Installing cairomm-0:1.14.5 100% |  25.3 MiB/s | 207.2 KiB |  00m00s
+[1091/1568] Installing python3-cairo-0: 100% |  34.6 MiB/s | 496.6 KiB |  00m00s
+[1092/1568] Installing python3-gobject- 100% |   6.7 MiB/s |  20.5 KiB |  00m00s
+[1093/1568] Installing libXcursor-0:1.2 100% |  11.5 MiB/s |  59.1 KiB |  00m00s
+[1094/1568] Installing libXt-0:1.3.1-2. 100% |  46.8 MiB/s | 430.9 KiB |  00m00s
+[1095/1568] Installing libXmu-0:1.2.1-3 100% |  17.9 MiB/s | 201.3 KiB |  00m00s
+[1096/1568] Installing libgs-0:10.05.1- 100% |  94.0 MiB/s |  23.6 MiB |  00m00s
+[1097/1568] Installing ghostscript-tool 100% | 106.8 KiB/s |   3.4 KiB |  00m00s
+[1098/1568] Installing ghostscript-tool 100% | 148.9 KiB/s |   5.1 KiB |  00m00s
+[1099/1568] Installing ghostscript-0:10 100% | 801.6 KiB/s |  35.3 KiB |  00m00s
+[1100/1568] Installing libxkbfile-0:1.1 100% |  21.6 MiB/s | 199.1 KiB |  00m00s
+[1101/1568] Installing GraphicsMagick-0 100% |  30.5 MiB/s |   5.1 MiB |  00m00s
+[1102/1568] Installing freerdp-libs-2:3 100% |  66.6 MiB/s |   3.5 MiB |  00m00s
+[1103/1568] Installing libpeas1-loader- 100% |   3.9 MiB/s |  36.4 KiB |  00m00s
+[1104/1568] Installing python3-matplotl 100% |  60.2 MiB/s |  22.5 MiB |  00m00s
+[1105/1568] Installing libgxps-0:0.3.2- 100% |  21.1 MiB/s | 194.3 KiB |  00m00s
+[1106/1568] Installing cairomm1.16-0:1. 100% |  31.9 MiB/s | 228.4 KiB |  00m00s
+[1107/1568] Installing libXft-0:2.3.8-8 100% |  23.7 MiB/s | 169.9 KiB |  00m00s
+[1108/1568] Installing pango-0:1.56.4-1 100% |  19.0 MiB/s |   1.0 MiB |  00m00s
+[1109/1568] Installing rsvg-pixbuf-load 100% |  42.2 MiB/s | 346.0 KiB |  00m00s
+[1110/1568] Installing librsvg2-0:2.60. 100% |  92.9 MiB/s |   5.0 MiB |  00m00s
+[1111/1568] Installing ImageMagick-libs 100% |  45.2 MiB/s |   8.8 MiB |  00m00s
+[1112/1568] Installing pangomm-0:2.46.4 100% |  27.4 MiB/s | 252.2 KiB |  00m00s
+[1113/1568] Installing ImageMagick-c++- 100% |  51.9 MiB/s | 690.6 KiB |  00m00s
+[1114/1568] Installing glycin-loaders-0 100% | 121.5 MiB/s |  10.7 MiB |  00m00s
+[1115/1568] Installing cogl-0:1.22.8-14 100% |  26.6 MiB/s |   1.6 MiB |  00m00s
+[1116/1568] Installing aalib-libs-0:1.4 100% |  21.3 MiB/s | 152.9 KiB |  00m00s
+[1117/1568] Installing libXpm-0:3.5.17- 100% |  25.0 MiB/s | 153.7 KiB |  00m00s
+[1118/1568] Installing gd-0:2.3.3-18.fc 100% |  39.5 MiB/s | 404.7 KiB |  00m00s
+[1119/1568] Installing libgphoto2-0:2.5 100% |  59.8 MiB/s |   5.9 MiB |  00m00s
+[1120/1568] Installing gmic-libs-0:3.5. 100% | 135.6 MiB/s |  14.5 MiB |  00m00s
+[1121/1568] Installing ImageMagick-1:7. 100% | 913.5 KiB/s |  93.2 KiB |  00m00s
+>>> Running sysusers scriptlet: flatpak-0:1.16.1-1.fc42.x86_64                  
+>>> Finished sysusers scriptlet: flatpak-0:1.16.1-1.fc42.x86_64                 
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'flatpak' with GID 965.                                      
+>>> Creating user 'flatpak' (Flatpak system helper) with UID 965 and GID 965.   
+>>>                                                                             
+[1122/1568] Installing flatpak-0:1.16.1 100% |  38.5 MiB/s |   6.5 MiB |  00m00s
+>>> Running %post scriptlet: flatpak-0:1.16.1-1.fc42.x86_64                     
+>>> Finished %post scriptlet: flatpak-0:1.16.1-1.fc42.x86_64                    
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/flatpak-add-fed
+>>>                                                                             
+[1123/1568] Installing pangomm2.48-0:2. 100% |  30.7 MiB/s | 314.0 KiB |  00m00s
+[1124/1568] Installing libtiger-0:0.3.4 100% |   5.0 MiB/s |  86.7 KiB |  00m00s
+[1125/1568] Installing tk8-1:8.6.15-5.f 100% |  30.3 MiB/s |   3.2 MiB |  00m00s
+[1126/1568] Installing python3-tkinter- 100% |  41.2 MiB/s |   1.9 MiB |  00m00s
+[1127/1568] Installing GraphicsMagick-c 100% |  31.0 MiB/s | 507.3 KiB |  00m00s
+[1128/1568] Installing setxkbmap-0:1.3. 100% | 608.9 KiB/s |  32.3 KiB |  00m00s
+[1129/1568] Installing xkbcomp-0:1.4.7- 100% |   3.8 MiB/s | 218.2 KiB |  00m00s
+[1130/1568] Installing libspectre-0:0.2 100% |   8.9 MiB/s |  91.6 KiB |  00m00s
+[1131/1568] Installing xhost-0:1.0.9-9. 100% | 734.6 KiB/s |  26.4 KiB |  00m00s
+[1132/1568] Installing xorg-x11-xauth-1 100% |   1.6 MiB/s |  53.3 KiB |  00m00s
+[1133/1568] Installing xrdb-0:1.2.2-5.f 100% |   1.3 MiB/s |  43.7 KiB |  00m00s
+[1134/1568] Installing frei0r-plugins-0 100% |  43.4 MiB/s |   6.0 MiB |  00m00s
+[1135/1568] Installing libgdiplus-0:6.1 100% |  41.0 MiB/s | 545.2 KiB |  00m00s
+[1136/1568] Installing mono-extras-0:6. 100% |  28.3 MiB/s |   1.5 MiB |  00m00s
+[1137/1568] Installing mono-winforms-0: 100% |  94.5 MiB/s |   5.1 MiB |  00m00s
+[1138/1568] Installing mono-data-0:6.12 100% |  88.7 MiB/s |  16.9 MiB |  00m00s
+[1139/1568] Installing mono-wcf-0:6.12. 100% |  83.6 MiB/s |   3.0 MiB |  00m00s
+[1140/1568] Installing mono-mvc-0:6.12. 100% |  79.0 MiB/s |   1.6 MiB |  00m00s
+[1141/1568] Installing mono-web-0:6.12. 100% |  61.1 MiB/s |   8.6 MiB |  00m00s
+[1142/1568] Installing mono-core-0:6.12 100% |  50.1 MiB/s |  56.4 MiB |  00m01s
+[1143/1568] Installing mono-data-sqlite 100% |  33.8 MiB/s | 207.8 KiB |  00m00s
+[1144/1568] Installing gtk-sharp3-0:3.2 100% | 110.7 MiB/s |   7.5 MiB |  00m00s
+[1145/1568] Installing dbus-sharp-2:0.8 100% |  31.5 MiB/s | 193.3 KiB |  00m00s
+[1146/1568] Installing dbus-sharp-glib- 100% |   3.2 MiB/s |  13.2 KiB |  00m00s
+[1147/1568] Installing notify-sharp3-0: 100% |   3.4 MiB/s |  17.6 KiB |  00m00s
+[1148/1568] Installing lib2geom-0:1.4-4 100% |  14.2 MiB/s |   1.0 MiB |  00m00s
+>>> Running sysusers scriptlet: brlapi-0:0.8.6-8.fc42.x86_64                    
+>>> Finished sysusers scriptlet: brlapi-0:0.8.6-8.fc42.x86_64                   
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'brlapi' with GID 964.                                       
+>>>                                                                             
+[1149/1568] Installing brlapi-0:0.8.6-8 100% |   8.0 MiB/s | 601.3 KiB |  00m00s
+[1150/1568] Installing qemu-char-baum-2 100% |   4.9 MiB/s |  20.2 KiB |  00m00s
+[1151/1568] Installing libXv-0:1.0.13-2 100% |   5.1 MiB/s |  31.2 KiB |  00m00s
+[1152/1568] Installing libXxf86vm-0:1.1 100% |   6.0 MiB/s |  30.5 KiB |  00m00s
+[1153/1568] Installing libglvnd-glx-1:1 100% |  54.2 MiB/s | 610.6 KiB |  00m00s
+[1154/1568] Installing mesa-libGL-0:25. 100% |  33.3 MiB/s | 307.2 KiB |  00m00s
+[1155/1568] Installing opencv-core-0:4. 100% |  89.1 MiB/s |   4.0 MiB |  00m00s
+[1156/1568] Installing opencv-imgproc-0 100% | 103.3 MiB/s |   5.2 MiB |  00m00s
+[1157/1568] Installing libva-0:2.22.0-4 100% |  23.3 MiB/s | 333.4 KiB |  00m00s
+[1158/1568] Installing qemu-ui-opengl-2 100% |   9.0 MiB/s |  36.9 KiB |  00m00s
+[1159/1568] Installing vlc-plugins-vide 100% |  21.6 MiB/s | 662.3 KiB |  00m00s
+[1160/1568] Installing virglrenderer-0: 100% |  70.2 MiB/s |   1.1 MiB |  00m00s
+[1161/1568] Installing qemu-device-disp 100% |  11.5 MiB/s |  47.0 KiB |  00m00s
+[1162/1568] Installing opencv-dnn-0:4.1 100% |  62.0 MiB/s |   6.0 MiB |  00m00s
+[1163/1568] Installing opencv-flann-0:4 100% |  28.1 MiB/s | 488.6 KiB |  00m00s
+[1164/1568] Installing opencv-features2 100% |  36.7 MiB/s | 865.5 KiB |  00m00s
+[1165/1568] Installing opencv-calib3d-0 100% |  51.1 MiB/s |   2.5 MiB |  00m00s
+[1166/1568] Installing opencv-video-0:4 100% |  30.9 MiB/s | 569.6 KiB |  00m00s
+[1167/1568] Installing opencv-tracking- 100% |  43.8 MiB/s |   2.0 MiB |  00m00s
+[1168/1568] Installing libGLEW-0:2.2.0- 100% |  40.7 MiB/s | 749.4 KiB |  00m00s
+[1169/1568] Installing glx-utils-0:9.0. 100% |   6.1 MiB/s | 419.7 KiB |  00m00s
+[1170/1568] Installing qt5-qtbase-gui-0 100% |  90.6 MiB/s |  20.2 MiB |  00m00s
+[1171/1568] Installing qt5-qtx11extras- 100% |  16.3 MiB/s | 116.6 KiB |  00m00s
+[1172/1568] Installing qt5-qtdeclarativ 100% |  84.8 MiB/s |  14.5 MiB |  00m00s
+[1173/1568] Installing kf5-kconfig-core 100% |  12.6 MiB/s |   1.2 MiB |  00m00s
+[1174/1568] Installing qt5-qtsvg-0:5.15 100% |  36.2 MiB/s | 630.9 KiB |  00m00s
+[1175/1568] Installing kf5-kwidgetsaddo 100% |  59.9 MiB/s |   6.6 MiB |  00m00s
+[1176/1568] Installing kf5-kconfig-gui- 100% |  20.4 MiB/s | 146.3 KiB |  00m00s
+[1177/1568] Installing kf5-kcompletion- 100% |   5.7 MiB/s | 353.6 KiB |  00m00s
+[1178/1568] Installing kf5-ki18n-0:5.11 100% |  92.4 MiB/s |  17.0 MiB |  00m00s
+[1179/1568] Installing qt5-qtwayland-0: 100% |  67.3 MiB/s |   4.6 MiB |  00m00s
+[1180/1568] Installing vlc-gui-qt-1:3.0 100% |  53.2 MiB/s |   3.0 MiB |  00m00s
+[1181/1568] Installing kf5-kguiaddons-0 100% |  28.6 MiB/s | 380.7 KiB |  00m00s
+[1182/1568] Installing python3-qt5-base 100% |  82.4 MiB/s |  15.5 MiB |  00m00s
+[1183/1568] Installing kf5-kcrash-0:5.1 100% |   9.9 MiB/s |  81.5 KiB |  00m00s
+[1184/1568] Installing kf5-kwindowsyste 100% |   5.3 MiB/s | 566.3 KiB |  00m00s
+[1185/1568] Installing kf5-libkdcraw-0: 100% |  14.3 MiB/s | 116.8 KiB |  00m00s
+[1186/1568] Installing kseexpr-0:4.0.4. 100% |  61.1 MiB/s |   1.0 MiB |  00m00s
+[1187/1568] Installing kf5-kitemviews-0 100% |   5.9 MiB/s | 348.6 KiB |  00m00s
+[1188/1568] Installing opencv-bgsegm-0: 100% |  18.1 MiB/s | 111.2 KiB |  00m00s
+[1189/1568] Installing opencv-objdetect 100% |  72.9 MiB/s |   1.2 MiB |  00m00s
+[1190/1568] Installing qemu-device-disp 100% |   2.9 MiB/s |  11.8 KiB |  00m00s
+[1191/1568] Installing qemu-device-disp 100% |  48.6 MiB/s | 746.8 KiB |  00m00s
+[1192/1568] Installing qemu-ui-egl-head 100% |   5.3 MiB/s |  16.2 KiB |  00m00s
+[1193/1568] Installing freeglut-0:3.6.0 100% |  42.4 MiB/s | 477.4 KiB |  00m00s
+[1194/1568] Installing libcaca-0:0.99-0 100% |  65.8 MiB/s | 875.7 KiB |  00m00s
+[1195/1568] Installing libvdpau-0:1.5-9 100% |   3.6 MiB/s |  22.4 KiB |  00m00s
+[1196/1568] Installing libchromaprint-0 100% |   9.2 MiB/s |  66.1 KiB |  00m00s
+[1197/1568] Installing ffmpeg-libs-0:7. 100% | 103.8 MiB/s |  21.2 MiB |  00m00s
+[1198/1568] Installing libspnav-0:1.1-8 100% |   9.2 MiB/s |  37.6 KiB |  00m00s
+[1199/1568] Installing libwmf-0:0.2.13- 100% |   9.4 MiB/s | 413.7 KiB |  00m00s
+[1200/1568] Installing xmodmap-0:1.0.11 100% |   1.5 MiB/s |  48.3 KiB |  00m00s
+[1201/1568] Installing xorg-x11-xinit-0 100% |   3.8 MiB/s | 145.2 KiB |  00m00s
+[1202/1568] Installing startup-notifica 100% |  13.4 MiB/s |  96.1 KiB |  00m00s
+[1203/1568] Installing xprop-0:1.2.8-3. 100% |   1.7 MiB/s |  56.1 KiB |  00m00s
+[1204/1568] Installing at-spi2-core-0:2 100% |  20.2 MiB/s |   1.5 MiB |  00m00s
+[1205/1568] Installing atk-0:2.56.3-1.f 100% |  40.7 MiB/s | 250.0 KiB |  00m00s
+[1206/1568] Installing atkmm-0:2.28.4-3 100% |  44.2 MiB/s | 361.9 KiB |  00m00s
+[1207/1568] Installing at-spi2-atk-0:2. 100% |  27.1 MiB/s | 277.7 KiB |  00m00s
+[1208/1568] Installing gtk3-0:3.24.49-2 100% |  77.9 MiB/s |  23.1 MiB |  00m00s
+[1209/1568] Installing libhandy-0:1.8.3 100% |  37.0 MiB/s |   1.4 MiB |  00m00s
+[1210/1568] Installing gnome-desktop3-0 100% |  23.7 MiB/s |   3.0 MiB |  00m00s
+[1211/1568] Installing libnma-0:1.10.6- 100% |  18.9 MiB/s |   1.1 MiB |  00m00s
+[1212/1568] Installing vte291-0:0.80.3- 100% |  14.7 MiB/s |   1.0 MiB |  00m00s
+[1213/1568] Installing libportal-gtk3-0 100% |   5.6 MiB/s |  28.9 KiB |  00m00s
+[1214/1568] Installing libcanberra-gtk3 100% |   2.1 MiB/s |  82.0 KiB |  00m00s
+[1215/1568] Installing gcr3-0:3.41.1-10 100% |  16.3 MiB/s |   1.7 MiB |  00m00s
+[1216/1568] Installing libgnome-games-s 100% |   4.8 MiB/s | 181.1 KiB |  00m00s
+[1217/1568] Installing libreport-gtk-0: 100% |   5.5 MiB/s | 201.4 KiB |  00m00s
+[1218/1568] Installing gtkmm3.0-0:3.24. 100% | 108.4 MiB/s |   5.1 MiB |  00m00s
+[1219/1568] Installing gtksourceview4-0 100% |  36.7 MiB/s |   4.5 MiB |  00m00s
+[1220/1568] Installing gtk-vnc2-0:1.5.0 100% |  28.0 MiB/s | 229.3 KiB |  00m00s
+[1221/1568] Installing gnome-keyring-0: 100% |  24.3 MiB/s |   3.4 MiB |  00m00s
+[1222/1568] Installing gnome-session-0: 100% |  12.6 MiB/s |   1.5 MiB |  00m00s
+[1223/1568] Installing clutter-0:1.26.4 100% |  58.5 MiB/s |   4.9 MiB |  00m00s
+[1224/1568] Installing libpeas1-gtk-0:1 100% |  10.4 MiB/s |  63.8 KiB |  00m00s
+[1225/1568] Installing gnome-autoar-0:0 100% |  15.8 MiB/s | 161.5 KiB |  00m00s
+[1226/1568] Installing gspell-0:1.14.0- 100% |   8.1 MiB/s | 356.0 KiB |  00m00s
+[1227/1568] Installing grilo-0:0.3.19-1 100% |   9.9 MiB/s | 833.0 KiB |  00m00s
+[1228/1568] Installing libdecor-0:0.2.3 100% |  13.7 MiB/s | 167.8 KiB |  00m00s
+[1229/1568] Installing xorg-x11-server- 100% |  41.7 MiB/s |   2.3 MiB |  00m00s
+[1230/1568] Installing SDL3-0:3.2.16-1. 100% |  89.3 MiB/s |   2.7 MiB |  00m00s
+[1231/1568] Installing sdl2-compat-0:2. 100% |  43.6 MiB/s | 401.4 KiB |  00m00s
+[1232/1568] Installing sdl12-compat-0:1 100% |  27.5 MiB/s | 197.2 KiB |  00m00s
+[1233/1568] Installing wxGTK-0:3.2.8-1. 100% | 105.9 MiB/s |  16.4 MiB |  00m00s
+[1234/1568] Installing gegl04-0:0.4.62- 100% |  77.7 MiB/s |  13.0 MiB |  00m00s
+[1235/1568] Installing libavdevice-0:7. 100% |  22.7 MiB/s | 163.0 KiB |  00m00s
+[1236/1568] Installing wxGTK-gl-0:3.2.8 100% |  20.2 MiB/s | 103.3 KiB |  00m00s
+[1237/1568] Installing SDL_image-0:1.2. 100% |   2.5 MiB/s |  88.5 KiB |  00m00s
+[1238/1568] Installing libvisual-1:0.4. 100% |  11.3 MiB/s | 497.1 KiB |  00m00s
+[1239/1568] Installing gstreamer1-plugi 100% |  53.1 MiB/s |   7.3 MiB |  00m00s
+[1240/1568] Installing gstreamer1-plugi 100% |  46.8 MiB/s |   3.1 MiB |  00m00s
+[1241/1568] Installing gtk4-0:4.18.6-1. 100% |  82.4 MiB/s |  26.2 MiB |  00m00s
+[1242/1568] Installing libadwaita-0:1.7 100% |  35.7 MiB/s |   3.1 MiB |  00m00s
+[1243/1568] Installing gnome-online-acc 100% |  51.4 MiB/s | 736.2 KiB |  00m00s
+[1244/1568] Installing gnome-desktop4-0 100% |  28.0 MiB/s | 458.5 KiB |  00m00s
+[1245/1568] Installing libnma-gtk4-0:1. 100% |  34.6 MiB/s | 354.0 KiB |  00m00s
+[1246/1568] Installing webkit2gtk4.1-0: 100% |  96.3 MiB/s |  86.0 MiB |  00m01s
+[1247/1568] Installing gstreamer1-plugi 100% |  59.0 MiB/s |   7.4 MiB |  00m00s
+[1248/1568] Installing libportal-gtk4-0 100% |   5.6 MiB/s |  28.9 KiB |  00m00s
+[1249/1568] Installing webkitgtk6.0-0:2 100% | 137.6 MiB/s |  86.0 MiB |  00m01s
+[1250/1568] Installing evolution-data-s 100% |  87.4 MiB/s |   8.8 MiB |  00m00s
+[1251/1568] Installing evolution-data-s 100% |  56.3 MiB/s |   8.7 MiB |  00m00s
+[1252/1568] Installing gstreamer1-plugi 100% |  48.0 MiB/s |   9.6 MiB |  00m00s
+[1253/1568] Installing spice-server-0:0 100% |  70.9 MiB/s |   1.1 MiB |  00m00s
+[1254/1568] Installing qemu-ui-spice-co 100% |  14.7 MiB/s |  60.4 KiB |  00m00s
+[1255/1568] Installing gstreamer1-plugi 100% |  21.1 MiB/s |  64.9 KiB |  00m00s
+[1256/1568] Installing tecla-0:47.0-2.f 100% |   2.4 MiB/s | 145.7 KiB |  00m00s
+[1257/1568] Installing gtksourceview5-0 100% |  26.1 MiB/s |   4.6 MiB |  00m00s
+[1258/1568] Installing libgnome-games-s 100% |   4.2 MiB/s | 187.8 KiB |  00m00s
+[1259/1568] Installing spice-glib-0:0.4 100% |  49.0 MiB/s |   1.2 MiB |  00m00s
+[1260/1568] Installing spice-gtk3-0:0.4 100% |  34.5 MiB/s | 282.9 KiB |  00m00s
+[1261/1568] Installing qemu-char-spice- 100% |   6.8 MiB/s |  21.0 KiB |  00m00s
+[1262/1568] Installing gnome-bluetooth- 100% |  15.4 MiB/s |   1.0 MiB |  00m00s
+[1263/1568] Installing gstreamer1-plugi 100% |  54.4 MiB/s | 780.4 KiB |  00m00s
+[1264/1568] Installing gupnp-dlna-0:0.1 100% |   7.3 MiB/s | 367.5 KiB |  00m00s
+[1265/1568] Installing xdg-desktop-port 100% |  17.2 MiB/s |   1.9 MiB |  00m00s
+[1266/1568] Installing gstreamer1-plugi 100% |  13.8 MiB/s | 662.9 KiB |  00m00s
+[1267/1568] Installing pipewire-gstream 100% |  27.7 MiB/s | 170.0 KiB |  00m00s
+[1268/1568] Installing gst-editing-serv 100% |  25.6 MiB/s |   1.4 MiB |  00m00s
+[1269/1568] Installing xdg-desktop-port 100% |   8.8 MiB/s | 477.2 KiB |  00m00s
+[1270/1568] Installing xdg-desktop-port 100% |  13.8 MiB/s | 963.4 KiB |  00m00s
+[1271/1568] Installing dleyna-server-0: 100% |  17.4 MiB/s | 213.3 KiB |  00m00s
+[1272/1568] Installing qemu-ui-spice-ap 100% |   5.2 MiB/s |  16.0 KiB |  00m00s
+[1273/1568] Installing libspelling-0:0. 100% |   6.2 MiB/s | 252.2 KiB |  00m00s
+[1274/1568] Installing libreoffice-lang 100% |  28.2 MiB/s | 173.3 KiB |  00m00s
+[1275/1568] Installing libreoffice-gtk3 100% |  40.3 MiB/s |   1.9 MiB |  00m00s
+[1276/1568] Installing libreoffice-core 100% |  91.6 MiB/s | 285.9 MiB |  00m03s
+[1277/1568] Installing libreoffice-pyun 100% |  33.5 MiB/s |   2.1 MiB |  00m00s
+[1278/1568] Installing libreoffice-grap 100% |  59.8 MiB/s |   1.0 MiB |  00m00s
+[1279/1568] Installing libreoffice-oglt 100% |  37.6 MiB/s | 308.2 KiB |  00m00s
+[1280/1568] Installing qemu-audio-spice 100% |   5.3 MiB/s |  16.4 KiB |  00m00s
+[1281/1568] Installing qemu-device-disp 100% |  21.8 MiB/s |  89.3 KiB |  00m00s
+[1282/1568] Installing folks-1:0.15.9-3 100% |  40.0 MiB/s |   2.6 MiB |  00m00s
+[1283/1568] Installing epiphany-runtime 100% |  43.3 MiB/s |   2.4 MiB |  00m00s
+[1284/1568] Installing yelp-libs-2:42.2 100% |  27.0 MiB/s | 304.5 KiB |  00m00s
+[1285/1568] Installing yelp-2:42.2-9.fc 100% |  15.5 MiB/s |   2.3 MiB |  00m00s
+[1286/1568] Installing libgdata-0:0.18. 100% |  38.2 MiB/s |   1.9 MiB |  00m00s
+[1287/1568] Installing msgraph-0:0.3.3- 100% |  18.5 MiB/s | 151.5 KiB |  00m00s
+[1288/1568] Installing gvfs-goa-0:1.57. 100% |  10.9 MiB/s | 245.2 KiB |  00m00s
+[1289/1568] Installing gnome-online-acc 100% |  25.1 MiB/s |   1.5 MiB |  00m00s
+[1290/1568] Installing colord-gtk4-0:0. 100% |   8.9 MiB/s |  36.3 KiB |  00m00s
+[1291/1568] Installing gcr-0:4.4.0.1-1. 100% |   2.6 MiB/s | 136.6 KiB |  00m00s
+[1292/1568] Installing gtkmm4.0-0:4.18. 100% | 128.2 MiB/s |   5.4 MiB |  00m00s
+[1293/1568] Installing libshumate-0:1.4 100% |  15.5 MiB/s | 589.1 KiB |  00m00s
+[1294/1568] Installing vte291-gtk4-0:0. 100% |  58.0 MiB/s | 831.6 KiB |  00m00s
+[1295/1568] Installing webkit2gtk4.0-0: 100% | 142.2 MiB/s |  80.6 MiB |  00m01s
+[1296/1568] Installing webkit2-sharp-0: 100% |  50.0 MiB/s | 410.0 KiB |  00m00s
+[1297/1568] Installing python3-gstreame 100% |  26.1 MiB/s | 374.1 KiB |  00m00s
+[1298/1568] Installing libdmapsharing4- 100% |  44.9 MiB/s | 459.4 KiB |  00m00s
+[1299/1568] Installing grilo-plugins-0: 100% |  32.4 MiB/s |   2.4 MiB |  00m00s
+[1300/1568] Installing gstreamer1-plugi 100% |  31.2 MiB/s | 415.5 KiB |  00m00s
+[1301/1568] Installing totem-video-thum 100% |   1.9 MiB/s |  58.9 KiB |  00m00s
+[1302/1568] Installing qemu-audio-sdl-2 100% |   6.6 MiB/s |  20.4 KiB |  00m00s
+[1303/1568] Installing SDL2_image-0:2.8 100% |   6.9 MiB/s | 211.6 KiB |  00m00s
+[1304/1568] Installing qemu-ui-sdl-2:9. 100% |   8.9 MiB/s |  45.4 KiB |  00m00s
+[1305/1568] Installing tslib-0:1.23-1.f 100% |   7.4 MiB/s | 432.4 KiB |  00m00s
+[1306/1568] Installing qt6-qtbase-gui-0 100% | 122.4 MiB/s |  23.7 MiB |  00m00s
+[1307/1568] Installing qt6-qtsvg-0:6.9. 100% |  38.9 MiB/s | 876.2 KiB |  00m00s
+[1308/1568] Installing qt6-qtdeclarativ 100% |  65.1 MiB/s |  49.3 MiB |  00m01s
+[1309/1568] Installing qt6-qtshadertool 100% |  67.6 MiB/s |   6.2 MiB |  00m00s
+[1310/1568] Installing qt6-qt5compat-0: 100% |  53.3 MiB/s |   1.7 MiB |  00m00s
+[1311/1568] Installing mlt-qt5-0:7.32.0 100% |  91.0 MiB/s |   3.6 MiB |  00m00s
+[1312/1568] Installing mlt-0:7.32.0-1.f 100% |  16.1 MiB/s |   3.1 MiB |  00m00s
+[1313/1568] Installing mlt-qt6-0:7.32.0 100% | 101.5 MiB/s |   3.8 MiB |  00m00s
+[1314/1568] Installing synfig-0:1.5.3-2 100% |  65.0 MiB/s |  10.9 MiB |  00m00s
+[1315/1568] Installing clutter-gtk-0:1. 100% |  10.6 MiB/s | 119.7 KiB |  00m00s
+[1316/1568] Installing gnome-keyring-pa 100% |   7.9 MiB/s |  32.2 KiB |  00m00s
+[1317/1568] Installing qemu-ui-gtk-2:9. 100% |  15.4 MiB/s |  79.0 KiB |  00m00s
+[1318/1568] Installing qemu-system-x86- 100% | 121.1 KiB/s | 124.0   B |  00m00s
+[1319/1568] Installing qemu-kvm-2:9.2.4 100% | 121.1 KiB/s | 124.0   B |  00m00s
+[1320/1568] Installing libvirt-daemon-k 100% |  60.5 KiB/s | 124.0   B |  00m00s
+[1321/1568] Installing NetworkManager-s 100% |   5.7 MiB/s | 233.6 KiB |  00m00s
+[1322/1568] Installing xdg-user-dirs-gt 100% |   2.7 MiB/s | 219.0 KiB |  00m00s
+[1323/1568] Installing system-config-pr 100% |  44.2 MiB/s |   6.2 MiB |  00m00s
+[1324/1568] Installing abrt-gui-libs-0: 100% |   5.7 MiB/s |  35.3 KiB |  00m00s
+[1325/1568] Installing colord-gtk-0:0.3 100% |   2.0 MiB/s |  77.3 KiB |  00m00s
+[1326/1568] Installing osm-gps-map-0:1. 100% |  17.3 MiB/s | 124.2 KiB |  00m00s
+[1327/1568] Installing python3-matplotl 100% |   1.1 MiB/s |  69.6 KiB |  00m00s
+[1328/1568] Installing gnuplot-common-0 100% |  57.3 MiB/s |   1.8 MiB |  00m00s
+[1329/1568] Installing gnuplot-0:6.0.1- 100% |  37.6 MiB/s |   2.0 MiB |  00m00s
+[1330/1568] Installing inih-cpp-0:58-3. 100% |   5.6 MiB/s |  28.6 KiB |  00m00s
+[1331/1568] Installing exiv2-libs-0:0.2 100% |  97.6 MiB/s |   2.8 MiB |  00m00s
+[1332/1568] Installing libgexiv2-0:0.14 100% |  27.4 MiB/s | 281.0 KiB |  00m00s
+[1333/1568] Installing gimp-libs-2:3.0. 100% |  82.8 MiB/s |   4.4 MiB |  00m00s
+[1334/1568] Installing hugin-base-0:202 100% |  86.3 MiB/s |  21.9 MiB |  00m00s
+[1335/1568] Installing poppler-data-0:0 100% |  79.9 MiB/s |  12.4 MiB |  00m00s
+[1336/1568] Installing poppler-0:25.02. 100% |  92.9 MiB/s |   3.7 MiB |  00m00s
+[1337/1568] Installing poppler-glib-0:2 100% |  49.9 MiB/s | 613.3 KiB |  00m00s
+[1338/1568] Installing evince-libs-0:48 100% |  44.3 MiB/s |   1.2 MiB |  00m00s
+[1339/1568] Installing libreoffice-pdfi 100% |  43.6 MiB/s | 579.7 KiB |  00m00s
+[1340/1568] Installing gdal-libs-0:3.10 100% |  76.3 MiB/s |  30.0 MiB |  00m00s
+[1341/1568] Installing opencv-imgcodecs 100% |  25.2 MiB/s | 515.3 KiB |  00m00s
+[1342/1568] Installing opencv-videoio-0 100% |  33.2 MiB/s | 850.3 KiB |  00m00s
+[1343/1568] Installing OpenImageIO-1:2. 100% |  69.0 MiB/s |  10.2 MiB |  00m00s
+[1344/1568] Installing openshadinglangu 100% |  47.7 MiB/s |   3.9 MiB |  00m00s
+[1345/1568] Installing usd-libs-0:25.02 100% | 113.4 MiB/s |  44.0 MiB |  00m00s
+[1346/1568] Installing luxcorerender-co 100% | 145.2 MiB/s |  70.4 MiB |  00m00s
+[1347/1568] Installing luxcorerender-0: 100% |   4.2 MiB/s |  12.9 KiB |  00m00s
+[1348/1568] Installing gmic-0:3.5.2-7.f 100% | 119.1 MiB/s |  25.5 MiB |  00m00s
+[1349/1568] Installing gstreamer1-plugi 100% |  24.4 MiB/s | 250.3 KiB |  00m00s
+[1350/1568] Installing liblas-0:1.8.2-0 100% |  58.0 MiB/s | 949.8 KiB |  00m00s
+[1351/1568] Installing OpenSceneGraph-l 100% |  95.9 MiB/s |  25.4 MiB |  00m00s
+[1352/1568] Installing scribus-0:1.6.3- 100% |  88.8 MiB/s |  77.4 MiB |  00m01s
+[1353/1568] Installing libreoffice-writ 100% |  83.2 MiB/s |  12.1 MiB |  00m00s
+[1354/1568] Installing evince-previewer 100% |   2.1 MiB/s |  69.8 KiB |  00m00s
+[1355/1568] Installing evince-thumbnail 100% | 659.3 KiB/s |  21.8 KiB |  00m00s
+[1356/1568] Installing inkscape-libs-0: 100% | 109.2 MiB/s |  25.1 MiB |  00m00s
+[1357/1568] Installing inkscape-0:1.4.2 100% |  71.9 MiB/s | 146.9 MiB |  00m02s
+[1358/1568] Installing poppler-qt5-0:25 100% |  26.0 MiB/s | 693.0 KiB |  00m00s
+[1359/1568] Installing krita-0:5.2.11-1 100% | 107.0 MiB/s | 136.8 MiB |  00m01s
+[1360/1568] Installing krita-libs-0:5.2 100% | 121.0 MiB/s |  33.4 MiB |  00m00s
+[1361/1568] Installing poppler-cpp-0:25 100% |  21.3 MiB/s | 130.9 KiB |  00m00s
+[1362/1568] Installing poppler-utils-0: 100% |  15.1 MiB/s | 774.4 KiB |  00m00s
+[1363/1568] Installing python3-humanize 100% |   6.4 MiB/s | 241.0 KiB |  00m00s
+[1364/1568] Installing gnome-abrt-1:1.4 100% |   7.3 MiB/s | 558.5 KiB |  00m00s
+[1365/1568] Installing abrt-gui-0:2.17. 100% |   2.1 MiB/s | 101.6 KiB |  00m00s
+[1366/1568] Installing color-filesystem 100% |  20.5 KiB/s |   1.2 KiB |  00m00s
+>>> Running sysusers scriptlet: colord-0:1.4.7-6.fc42.x86_64                    
+>>> Finished sysusers scriptlet: colord-0:1.4.7-6.fc42.x86_64                   
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'colord' with GID 963.                                       
+>>> Creating user 'colord' (User for colord) with UID 963 and GID 963.          
+>>>                                                                             
+[1367/1568] Installing colord-0:1.4.7-6 100% |  12.2 MiB/s |   1.7 MiB |  00m00s
+[1368/1568] Installing gnome-settings-d 100% |  33.7 MiB/s |   6.2 MiB |  00m00s
+[1369/1568] Installing libcupsfilters-1 100% |  40.8 MiB/s |   1.6 MiB |  00m00s
+[1370/1568] Installing cups-1:2.4.12-3. 100% |  18.9 MiB/s |   8.3 MiB |  00m00s
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] user lp does not exist - using root                                   
+>>> [RPM] group sys does not exist - using root                                 
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> [RPM] group lp does not exist - using root                                  
+>>> Running %post scriptlet: cups-1:2.4.12-3.fc42.x86_64                        
+>>> Finished %post scriptlet: cups-1:2.4.12-3.fc42.x86_64                       
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/cups.path' 
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/cups.socket' 
+>>>                                                                             
+[1371/1568] Installing libppd-1:2.1.1-1 100% |  39.9 MiB/s | 734.9 KiB |  00m00s
+[1372/1568] Installing cups-filters-1:2 100% |  11.6 MiB/s | 963.6 KiB |  00m00s
+[1373/1568] Installing gnome-control-ce 100% |  68.3 MiB/s |  23.2 MiB |  00m00s
+[1374/1568] Installing mutter-0:48.4-1. 100% |  52.3 MiB/s |  12.9 MiB |  00m00s
+>>> Running sysusers scriptlet: gdm-1:48.0-3.fc42.x86_64                        
+>>> Finished sysusers scriptlet: gdm-1:48.0-3.fc42.x86_64                       
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'gdm' with GID 42.                                           
+>>> Creating user 'gdm' (GNOME Display Manager) with UID 42 and GID 42.         
+>>>                                                                             
+[1375/1568] Installing gdm-1:48.0-3.fc4 100% |  24.7 MiB/s |   5.0 MiB |  00m00s
+>>> Running %post scriptlet: gdm-1:48.0-3.fc42.x86_64                           
+>>> Finished %post scriptlet: gdm-1:48.0-3.fc42.x86_64                          
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/display-manager.service' 
+>>>                                                                             
+[1376/1568] Installing gnome-shell-0:48 100% |  40.3 MiB/s |  14.5 MiB |  00m00s
+[1377/1568] Installing gnome-session-wa 100% |   5.3 MiB/s |  16.4 KiB |  00m00s
+[1378/1568] Installing gnome-shell-exte 100% |  12.1 MiB/s | 617.3 KiB |  00m00s
+[1379/1568] Installing gnome-shell-exte 100% |   7.5 MiB/s |  23.2 KiB |  00m00s
+[1380/1568] Installing gnome-shell-exte 100% |   1.1 MiB/s |   2.2 KiB |  00m00s
+[1381/1568] Installing gnome-shell-exte 100% |   7.0 MiB/s |  21.6 KiB |  00m00s
+[1382/1568] Installing gnome-shell-exte 100% |  16.1 MiB/s |  82.3 KiB |  00m00s
+[1383/1568] Installing libiptcdata-0:1. 100% |   4.3 MiB/s | 174.9 KiB |  00m00s
+[1384/1568] Installing libcue-0:2.3.0-1 100% |  12.7 MiB/s |  91.3 KiB |  00m00s
+[1385/1568] Installing exempi-0:2.6.4-7 100% |  26.9 MiB/s |   1.4 MiB |  00m00s
+[1386/1568] Installing localsearch-0:3. 100% |  21.5 MiB/s |   3.9 MiB |  00m00s
+[1387/1568] Installing nautilus-0:48.3- 100% |  64.7 MiB/s |  13.7 MiB |  00m00s
+[1388/1568] Installing mozilla-filesyst 100% | 474.6 KiB/s |   1.9 KiB |  00m00s
+[1389/1568] Installing rit-rachana-font 100% |  80.4 MiB/s |   1.5 MiB |  00m00s
+[1390/1568] Installing stix-fonts-0:2.1 100% |  89.7 MiB/s |   3.2 MiB |  00m00s
+[1391/1568] Installing google-noto-colo 100% | 135.3 MiB/s |  10.1 MiB |  00m00s
+[1392/1568] Installing google-noto-seri 100% | 105.7 MiB/s |  54.8 MiB |  00m01s
+[1393/1568] Installing google-noto-sans 100% |  69.1 MiB/s |  31.2 MiB |  00m00s
+[1394/1568] Installing google-noto-sans 100% | 125.3 MiB/s |  30.4 MiB |  00m00s
+[1395/1568] Installing python3-inotify- 100% |   8.0 MiB/s | 296.6 KiB |  00m00s
+[1396/1568] Installing python3-canberra 100% |  13.6 MiB/s |  55.8 KiB |  00m00s
+[1397/1568] Installing rsms-inter-fonts 100% | 135.5 MiB/s |  14.4 MiB |  00m00s
+[1398/1568] Installing blender-1:4.5.0- 100% | 128.8 MiB/s | 238.2 MiB |  00m02s
+[1399/1568] Installing YafaRay-blender- 100% |  52.3 MiB/s |   1.9 MiB |  00m00s
+[1400/1568] Installing pitivi-0:2023.03 100% |  35.4 MiB/s |  11.7 MiB |  00m00s
+[1401/1568] Installing default-fonts-cj 100% | 239.6 KiB/s | 736.0   B |  00m00s
+[1402/1568] Installing default-fonts-cj 100% | 675.8 KiB/s |   3.4 KiB |  00m00s
+[1403/1568] Installing default-fonts-cj 100% | 357.4 KiB/s | 732.0   B |  00m00s
+[1404/1568] Installing default-fonts-co 100% | 318.4 KiB/s | 652.0   B |  00m00s
+[1405/1568] Installing default-fonts-co 100% | 316.4 KiB/s | 648.0   B |  00m00s
+[1406/1568] Installing default-fonts-ot 100% | 222.7 KiB/s | 684.0   B |  00m00s
+[1407/1568] Installing gnome-browser-co 100% |   2.7 MiB/s | 130.5 KiB |  00m00s
+[1408/1568] Installing gnome-classic-se 100% | 274.2 KiB/s |  17.8 KiB |  00m00s
+>>> Running sysusers scriptlet: gnome-initial-setup-0:48.1-1.fc42.x86_64        
+>>> Finished sysusers scriptlet: gnome-initial-setup-0:48.1-1.fc42.x86_64       
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'gnome-initial-setup' with GID 962.                          
+>>> Creating user 'gnome-initial-setup' (GNOME Initial Setup) with UID 962 and G
+>>>                                                                             
+[1409/1568] Installing gnome-initial-se 100% |  23.6 MiB/s |   1.8 MiB |  00m00s
+[1410/1568] Installing cups-browsed-1:2 100% |   4.8 MiB/s | 399.6 KiB |  00m00s
+[1411/1568] Installing bluez-cups-0:5.8 100% |   6.8 MiB/s |  48.8 KiB |  00m00s
+[1412/1568] Installing gutenprint-cups- 100% |   3.8 MiB/s |   1.1 MiB |  00m00s
+[1413/1568] Installing hplip-0:3.25.2-5 100% |  52.5 MiB/s |  29.5 MiB |  00m01s
+>>> [RPM] group lp does not exist - using root                                  
+[1414/1568] Installing colord-extra-pro 100% |  10.9 MiB/s |  78.3 KiB |  00m00s
+[1415/1568] Installing abrt-desktop-0:2 100% |  60.5 KiB/s | 124.0   B |  00m00s
+[1416/1568] Installing inkscape-psd-0:0 100% |   8.1 MiB/s |  49.9 KiB |  00m00s
+[1417/1568] Installing inkscape-svg2tik 100% | 121.3 KiB/s |   1.9 KiB |  00m00s
+[1418/1568] Installing evince-0:48.1-1. 100% |  15.2 MiB/s |  10.9 MiB |  00m01s
+[1419/1568] Installing libreoffice-emai 100% |   9.9 MiB/s |  30.3 KiB |  00m00s
+[1420/1568] Installing scribus-generato 100% |  44.6 MiB/s |   3.7 MiB |  00m00s
+[1421/1568] Installing gmic-gimp-0:3.5. 100% |  81.0 MiB/s |  22.2 MiB |  00m00s
+[1422/1568] Installing blender-luxcorer 100% |  51.7 MiB/s |  14.2 MiB |  00m00s
+[1423/1568] Installing libreoffice-calc 100% | 106.0 MiB/s |  26.5 MiB |  00m00s
+[1424/1568] Installing libreoffice-impr 100% |  19.1 MiB/s | 801.6 KiB |  00m00s
+[1425/1568] Installing sushi-0:46.0-3.f 100% |   5.6 MiB/s | 432.3 KiB |  00m00s
+[1426/1568] Installing evince-djvu-0:48 100% |   3.9 MiB/s |  63.7 KiB |  00m00s
+[1427/1568] Installing gimp-2:3.0.4-5.f 100% |  76.9 MiB/s | 104.7 MiB |  00m01s
+[1428/1568] Installing pdfarranger-0:1. 100% |  19.1 MiB/s |   1.4 MiB |  00m00s
+[1429/1568] Installing xournalpp-0:1.2. 100% |  45.2 MiB/s |   5.2 MiB |  00m00s
+[1430/1568] Installing hugin-0:2024.0.0 100% |  53.6 MiB/s |  15.4 MiB |  00m00s
+[1431/1568] Installing shotwell-0:0.32. 100% |  45.2 MiB/s |  14.4 MiB |  00m00s
+[1432/1568] Installing entangle-0:3.0-9 100% |  23.0 MiB/s |   3.0 MiB |  00m00s
+[1433/1568] Installing darktable-0:5.2. 100% |  51.8 MiB/s |  34.8 MiB |  00m01s
+[1434/1568] Installing darktable-tools- 100% |   8.5 MiB/s |  52.4 KiB |  00m00s
+[1435/1568] Installing system-config-pr 100% |   7.1 MiB/s |  50.8 KiB |  00m00s
+[1436/1568] Installing NetworkManager-s 100% |  13.1 MiB/s | 175.0 KiB |  00m00s
+[1437/1568] Installing gnome-boxes-0:48 100% |  15.8 MiB/s |   6.0 MiB |  00m00s
+[1438/1568] Installing quadrapassel-0:4 100% |   8.5 MiB/s |   1.2 MiB |  00m00s
+[1439/1568] Installing synfigstudio-0:1 100% |  63.8 MiB/s |  17.3 MiB |  00m00s
+[1440/1568] Installing totem-1:43.2-1.f 100% |  18.8 MiB/s |   6.4 MiB |  00m00s
+[1441/1568] Installing sparkleshare-0:3 100% |   7.0 MiB/s | 695.9 KiB |  00m00s
+[1442/1568] Installing ptyxis-0:48.4-2. 100% |  10.6 MiB/s |   1.8 MiB |  00m00s
+[1443/1568] Installing gnome-maps-0:48. 100% |  31.8 MiB/s |   5.7 MiB |  00m00s
+[1444/1568] Installing gnome-system-mon 100% |  19.3 MiB/s |   5.2 MiB |  00m00s
+[1445/1568] Installing gnome-software-0 100% |  54.2 MiB/s |  14.4 MiB |  00m00s
+[1446/1568] Installing gnome-contacts-0 100% |  21.6 MiB/s |   2.2 MiB |  00m00s
+[1447/1568] Installing gnome-text-edito 100% |  17.2 MiB/s |   2.4 MiB |  00m00s
+[1448/1568] Installing rygel-0:0.44.2-1 100% |  31.3 MiB/s |   4.5 MiB |  00m00s
+[1449/1568] Installing gstreamer1-plugi 100% |  21.9 MiB/s | 223.9 KiB |  00m00s
+[1450/1568] Installing snapshot-0:48.0. 100% |  44.3 MiB/s |   4.6 MiB |  00m00s
+[1451/1568] Installing gnome-bluetooth- 100% |   2.7 MiB/s | 101.9 KiB |  00m00s
+[1452/1568] Installing virt-manager-0:5 100% |  30.9 MiB/s |   3.6 MiB |  00m00s
+[1453/1568] Installing virt-viewer-0:11 100% |  15.0 MiB/s |   1.2 MiB |  00m00s
+[1454/1568] Installing gnome-mines-0:48 100% |   8.0 MiB/s |   1.4 MiB |  00m00s
+[1455/1568] Installing gnome-nibbles-0: 100% |  12.0 MiB/s |   2.1 MiB |  00m00s
+[1456/1568] Installing swell-foop-0:48. 100% |   9.5 MiB/s |   1.6 MiB |  00m00s
+[1457/1568] Installing gnome-calculator 100% |  19.1 MiB/s |   7.0 MiB |  00m00s
+[1458/1568] Installing vlc-plugin-gstre 100% |   8.7 MiB/s |  44.8 KiB |  00m00s
+[1459/1568] Installing gnome-calendar-0 100% |  25.3 MiB/s |   2.4 MiB |  00m00s
+[1460/1568] Installing NetworkManager-o 100% |  14.7 MiB/s | 165.1 KiB |  00m00s
+[1461/1568] Installing NetworkManager-o 100% |  35.2 MiB/s | 360.2 KiB |  00m00s
+[1462/1568] Installing NetworkManager-p 100% |  16.3 MiB/s | 150.0 KiB |  00m00s
+[1463/1568] Installing NetworkManager-v 100% |  14.4 MiB/s | 147.3 KiB |  00m00s
+[1464/1568] Installing gnome-clocks-0:4 100% |  10.8 MiB/s |   1.8 MiB |  00m00s
+[1465/1568] Installing gnome-characters 100% |  27.1 MiB/s |   2.8 MiB |  00m00s
+[1466/1568] Installing gnome-logs-0:45. 100% |  11.4 MiB/s |   1.5 MiB |  00m00s
+[1467/1568] Installing gnome-font-viewe 100% |  11.5 MiB/s |   1.2 MiB |  00m00s
+[1468/1568] Installing gnome-weather-0: 100% |   8.2 MiB/s | 798.8 KiB |  00m00s
+[1469/1568] Installing gnome-chess-0:48 100% |  18.0 MiB/s |   2.9 MiB |  00m00s
+[1470/1568] Installing gnome-robots-0:4 100% |  30.0 MiB/s |   7.5 MiB |  00m00s
+[1471/1568] Installing simple-scan-0:48 100% |  20.8 MiB/s |   5.7 MiB |  00m00s
+[1472/1568] Installing baobab-0:48.0-2. 100% |   9.3 MiB/s |   1.7 MiB |  00m00s
+[1473/1568] Installing loupe-0:48.1-1.f 100% |  41.5 MiB/s |   8.3 MiB |  00m00s
+[1474/1568] Installing gnome-mahjongg-0 100% |  23.3 MiB/s |   3.8 MiB |  00m00s
+[1475/1568] Installing gnome-sudoku-1:4 100% |   9.7 MiB/s |   1.7 MiB |  00m00s
+[1476/1568] Installing lightsoff-0:48.1 100% |   8.3 MiB/s |   1.2 MiB |  00m00s
+[1477/1568] Installing gstreamer1-plugi 100% |  23.3 MiB/s | 429.7 KiB |  00m00s
+[1478/1568] Installing gstreamer1-plugi 100% |  11.3 MiB/s |  69.6 KiB |  00m00s
+[1479/1568] Installing gstreamer1-plugi 100% |  48.1 MiB/s | 541.4 KiB |  00m00s
+[1480/1568] Installing vlc-plugins-extr 100% |  16.5 MiB/s |   1.9 MiB |  00m00s
+[1481/1568] Installing audacity-0:3.7.4 100% |  71.3 MiB/s |  41.3 MiB |  00m01s
+[1482/1568] Installing gnome-connection 100% |  10.7 MiB/s |   1.2 MiB |  00m00s
+[1483/1568] Installing open-vm-tools-de 100% |   5.6 MiB/s | 450.0 KiB |  00m00s
+[1484/1568] Installing setroubleshoot-0 100% |   4.6 MiB/s | 190.0 KiB |  00m00s
+[1485/1568] Installing gnome-klotski-0: 100% |  14.4 MiB/s |   1.8 MiB |  00m00s
+[1486/1568] Installing tali-0:40.9-7.fc 100% |  19.7 MiB/s |   2.8 MiB |  00m00s
+[1487/1568] Installing five-or-more-0:4 100% |  14.9 MiB/s |   2.8 MiB |  00m00s
+[1488/1568] Installing gnome-disk-utili 100% |  49.9 MiB/s |   6.7 MiB |  00m00s
+[1489/1568] Installing gcolor3-0:2.4.0- 100% |   6.3 MiB/s | 342.1 KiB |  00m00s
+[1490/1568] Installing gnome-color-mana 100% |  23.4 MiB/s |   3.1 MiB |  00m00s
+[1491/1568] Installing four-in-a-row-0: 100% |  10.7 MiB/s |   1.4 MiB |  00m00s
+[1492/1568] Installing gnome-tetravex-0 100% |  14.2 MiB/s |   2.0 MiB |  00m00s
+[1493/1568] Installing hitori-0:44.0-6. 100% |   6.2 MiB/s | 791.2 KiB |  00m00s
+[1494/1568] Installing iagno-0:3.38.1-1 100% |  49.5 MiB/s |  12.3 MiB |  00m00s
+[1495/1568] Installing gnome-taquin-0:3 100% |  38.9 MiB/s |   5.6 MiB |  00m00s
+[1496/1568] Installing fontforge-0:2023 100% |  64.2 MiB/s |  18.1 MiB |  00m00s
+[1497/1568] Installing vlc-plugin-ffmpe 100% |  22.1 MiB/s | 293.5 KiB |  00m00s
+[1498/1568] Installing libheif-freeworl 100% |  15.9 MiB/s | 146.1 KiB |  00m00s
+[1499/1568] Installing vlc-1:3.0.21-24. 100% |   6.0 MiB/s | 377.0 KiB |  00m00s
+>>> Running sysusers scriptlet: gnome-remote-desktop-0:48.1-1.fc42.x86_64       
+>>> Finished sysusers scriptlet: gnome-remote-desktop-0:48.1-1.fc42.x86_64      
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'gnome-remote-desktop' with GID 961.                         
+>>> Creating user 'gnome-remote-desktop' (GNOME Remote Desktop) with UID 961 and
+>>>                                                                             
+[1500/1568] Installing gnome-remote-des 100% |  11.9 MiB/s |   1.8 MiB |  00m00s
+[1501/1568] Installing gvfs-gphoto2-0:1 100% |   6.4 MiB/s | 163.8 KiB |  00m00s
+[1502/1568] Installing gnome-background 100% | 149.5 MiB/s |  36.0 MiB |  00m00s
+[1503/1568] Installing PackageKit-gtk3- 100% |   4.6 MiB/s |  23.4 KiB |  00m00s
+[1504/1568] Installing paps-0:0.8.0-13. 100% |   3.9 MiB/s | 150.0 KiB |  00m00s
+[1505/1568] Installing system-config-la 100% |   6.1 MiB/s | 440.4 KiB |  00m00s
+[1506/1568] Installing spice-vdagent-0: 100% |   3.2 MiB/s | 213.3 KiB |  00m00s
+[1507/1568] Installing default-fonts-ot 100% | 225.3 KiB/s | 692.0   B |  00m00s
+[1508/1568] Installing virt-install-0:5 100% |   1.0 MiB/s |  36.1 KiB |  00m00s
+[1509/1568] Installing PackageKit-comma 100% |   5.7 MiB/s |  34.8 KiB |  00m00s
+[1510/1568] Installing pipewire-utils-0 100% |  19.0 MiB/s |   1.4 MiB |  00m00s
+[1511/1568] Installing pipewire-codec-a 100% |   9.0 MiB/s |  46.1 KiB |  00m00s
+[1512/1568] Installing pipewire-alsa-0: 100% |  19.5 MiB/s | 159.5 KiB |  00m00s
+[1513/1568] Installing NetworkManager-w 100% |  22.5 MiB/s | 138.2 KiB |  00m00s
+[1514/1568] Installing gvfs-smb-0:1.57. 100% |   5.5 MiB/s | 101.9 KiB |  00m00s
+[1515/1568] Installing gvfs-archive-0:1 100% |   2.3 MiB/s |  40.9 KiB |  00m00s
+[1516/1568] Installing gvfs-mtp-0:1.57. 100% |   8.6 MiB/s | 167.7 KiB |  00m00s
+[1517/1568] Installing gvfs-afc-0:1.57. 100% |   7.2 MiB/s | 155.5 KiB |  00m00s
+[1518/1568] Installing gvfs-afp-0:1.57. 100% |   9.4 MiB/s | 193.2 KiB |  00m00s
+[1519/1568] Installing NetworkManager-p 100% |   9.0 MiB/s |  64.8 KiB |  00m00s
+[1520/1568] Installing gnome-user-share 100% |   8.7 MiB/s | 771.5 KiB |  00m00s
+[1521/1568] Installing libsane-hpaio-0: 100% |   9.4 MiB/s | 182.5 KiB |  00m00s
+[1522/1568] Installing alsa-utils-0:1.2 100% |  18.2 MiB/s |   2.5 MiB |  00m00s
+[1523/1568] Installing spice-webdavd-0: 100% | 866.9 KiB/s |  55.5 KiB |  00m00s
+[1524/1568] Installing fprintd-pam-0:1. 100% |   4.4 MiB/s |  31.6 KiB |  00m00s
+[1525/1568] Installing hyperv-daemons-0 100% |  40.4 KiB/s | 124.0   B |  00m00s
+[1526/1568] Installing sane-backends-dr 100% |  65.6 MiB/s |  11.7 MiB |  00m00s
+[1527/1568] Installing intel-media-driv 100% | 137.0 MiB/s |  37.4 MiB |  00m00s
+[1528/1568] Installing libva-intel-medi 100% | 118.3 MiB/s |   9.6 MiB |  00m00s
+[1529/1568] Installing vlc-plugins-free 100% |  34.4 MiB/s | 387.8 KiB |  00m00s
+[1530/1568] Installing default-fonts-co 100% | 330.1 KiB/s | 676.0   B |  00m00s
+[1531/1568] Installing default-fonts-co 100% | 334.0 KiB/s | 684.0   B |  00m00s
+[1532/1568] Installing default-fonts-ot 100% | 337.9 KiB/s | 692.0   B |  00m00s
+[1533/1568] Installing PackageKit-gstre 100% |   5.4 MiB/s |  27.4 KiB |  00m00s
+[1534/1568] Installing qemu-guest-agent 100% |  13.2 MiB/s | 976.3 KiB |  00m00s
+>>> Running %post scriptlet: qemu-guest-agent-2:9.2.4-1.fc42.x86_64             
+>>> Finished %post scriptlet: qemu-guest-agent-2:9.2.4-1.fc42.x86_64            
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/dev-virtio\x2dports-org.qemu.guest_agen
+>>> Unit /usr/lib/systemd/system/qemu-guest-agent.service is added as a dependen
+>>>                                                                             
+[1535/1568] Installing tinysparql-0:3.9 100% |  19.6 MiB/s |   2.5 MiB |  00m00s
+[1536/1568] Installing gnome-epub-thumb 100% |   1.8 MiB/s |  68.5 KiB |  00m00s
+[1537/1568] Installing optipng-0:7.9.1- 100% |   4.8 MiB/s | 185.8 KiB |  00m00s
+[1538/1568] Installing nss-mdns-0:0.15. 100% |   9.2 MiB/s | 160.7 KiB |  00m00s
+[1539/1568] Installing samba-client-2:4 100% |  22.0 MiB/s |   2.6 MiB |  00m00s
+[1540/1568] Installing libva-intel-driv 100% | 127.9 MiB/s |   7.9 MiB |  00m00s
+[1541/1568] Installing libertas-firmwar 100% |  76.4 MiB/s |   1.3 MiB |  00m00s
+[1542/1568] Installing iwlwifi-mvm-firm 100% | 105.0 MiB/s |  65.9 MiB |  00m01s
+[1543/1568] Installing iwlwifi-dvm-firm 100% | 101.2 MiB/s |   1.8 MiB |  00m00s
+[1544/1568] Installing iwlegacy-firmwar 100% |  30.2 MiB/s | 123.9 KiB |  00m00s
+[1545/1568] Installing intel-vsc-firmwa 100% | 133.1 MiB/s |   7.7 MiB |  00m00s
+[1546/1568] Installing alsa-sof-firmwar 100% |  51.0 MiB/s |   9.8 MiB |  00m00s
+>>> Running sysusers scriptlet: virtualbox-guest-additions-0:7.1.8-1.fc42.x86_64
+>>> Finished sysusers scriptlet: virtualbox-guest-additions-0:7.1.8-1.fc42.x86_6
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>> Creating group 'vboxsf' with GID 960.                                       
+>>> Creating user 'vboxadd' (n/a) with UID 959 and GID 1.                       
+>>>                                                                             
+[1547/1568] Installing virtualbox-guest 100% |  19.7 MiB/s |   3.4 MiB |  00m00s
+>>> Running %post scriptlet: virtualbox-guest-additions-0:7.1.8-1.fc42.x86_64   
+>>> Finished %post scriptlet: virtualbox-guest-additions-0:7.1.8-1.fc42.x86_64  
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/vboxservice.ser
+>>>                                                                             
+[1548/1568] Installing gnome-user-docs- 100% |  14.6 MiB/s |  61.5 MiB |  00m04s
+[1549/1568] Installing systemd-oomd-def 100% | 238.3 KiB/s | 976.0   B |  00m00s
+[1550/1568] Installing NetworkManager-a 100% |   7.9 MiB/s |  40.7 KiB |  00m00s
+[1551/1568] Installing julietaula-monts 100% |  57.9 MiB/s |   5.6 MiB |  00m00s
+[1552/1568] Installing mpage-0:2.5.7-22 100% |   2.0 MiB/s | 136.2 KiB |  00m00s
+[1553/1568] Installing b43-openfwwf-0:5 100% |   3.5 MiB/s |  32.4 KiB |  00m00s
+[1554/1568] Installing b43-fwcutter-0:0 100% |   1.1 MiB/s |  61.2 KiB |  00m00s
+[1555/1568] Installing adobe-source-cod 100% |  41.4 MiB/s |   1.6 MiB |  00m00s
+[1556/1568] Installing redhat-text-font 100% |  30.9 MiB/s | 791.5 KiB |  00m00s
+[1557/1568] Installing redhat-display-f 100% |  29.5 MiB/s | 968.0 KiB |  00m00s
+[1558/1568] Installing typetype-molot-f 100% |   2.5 MiB/s |  18.0 KiB |  00m00s
+[1559/1568] Installing overpass-fonts-0 100% |  66.6 MiB/s |   1.9 MiB |  00m00s
+[1560/1568] Installing open-sans-fonts- 100% |  90.7 MiB/s |   2.1 MiB |  00m00s
+[1561/1568] Installing lato-fonts-0:2.0 100% | 101.2 MiB/s |  11.3 MiB |  00m00s
+[1562/1568] Installing google-roboto-sl 100% |  68.5 MiB/s | 701.4 KiB |  00m00s
+[1563/1568] Installing google-roboto-fo 100% |  87.0 MiB/s |   4.2 MiB |  00m00s
+[1564/1568] Installing google-roboto-co 100% |  84.0 MiB/s |   2.8 MiB |  00m00s
+[1565/1568] Installing campivisivi-titi 100% |  49.3 MiB/s | 958.5 KiB |  00m00s
+[1566/1568] Installing astigmatic-grand 100% |   9.2 MiB/s |  56.8 KiB |  00m00s
+[1567/1568] Installing adobe-source-san 100% |  83.3 MiB/s |   3.8 MiB |  00m00s
+[1568/1568] Installing aajohan-comforta 100% |  30.8 KiB/s | 474.8 KiB |  00m15s
+>>> Running %posttrans scriptlet: libvirt-daemon-driver-storage-core-0:11.0.0-3.
+>>> Finished %posttrans scriptlet: libvirt-daemon-driver-storage-core-0:11.0.0-3
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtstoraged.socke
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtstoraged-ro.so
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtstoraged-admin
+>>>                                                                             
+>>> Running %posttrans scriptlet: libvirt-daemon-driver-network-0:11.0.0-3.fc42.
+>>> Finished %posttrans scriptlet: libvirt-daemon-driver-network-0:11.0.0-3.fc42
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtnetworkd.socke
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtnetworkd-ro.so
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtnetworkd-admin
+>>>                                                                             
+>>> Running %posttrans scriptlet: libvirt-daemon-lock-0:11.0.0-3.fc42.x86_64    
+>>> Finished %posttrans scriptlet: libvirt-daemon-lock-0:11.0.0-3.fc42.x86_64   
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtlockd.socket' 
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtlockd-admin.so
+>>>                                                                             
+>>> Running %posttrans scriptlet: libvirt-daemon-log-0:11.0.0-3.fc42.x86_64     
+>>> Finished %posttrans scriptlet: libvirt-daemon-log-0:11.0.0-3.fc42.x86_64    
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtlogd.socket' 
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtlogd-admin.soc
+>>>                                                                             
+>>> Running %posttrans scriptlet: libvirt-daemon-driver-interface-0:11.0.0-3.fc4
+>>> Finished %posttrans scriptlet: libvirt-daemon-driver-interface-0:11.0.0-3.fc
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtinterfaced.soc
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtinterfaced-ro.
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtinterfaced-adm
+>>>                                                                             
+>>> Running %posttrans scriptlet: libvirt-daemon-driver-nodedev-0:11.0.0-3.fc42.
+>>> Finished %posttrans scriptlet: libvirt-daemon-driver-nodedev-0:11.0.0-3.fc42
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtnodedevd.socke
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtnodedevd-ro.so
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtnodedevd-admin
+>>>                                                                             
+>>> Running %posttrans scriptlet: libvirt-daemon-driver-nwfilter-0:11.0.0-3.fc42
+>>> Finished %posttrans scriptlet: libvirt-daemon-driver-nwfilter-0:11.0.0-3.fc4
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtnwfilterd.sock
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtnwfilterd-ro.s
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtnwfilterd-admi
+>>>                                                                             
+>>> Running %posttrans scriptlet: libvirt-daemon-driver-secret-0:11.0.0-3.fc42.x
+>>> Finished %posttrans scriptlet: libvirt-daemon-driver-secret-0:11.0.0-3.fc42.
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtsecretd.socket
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtsecretd-ro.soc
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtsecretd-admin.
+>>>                                                                             
+>>> Running %posttrans scriptlet: libvirt-daemon-proxy-0:11.0.0-3.fc42.x86_64   
+>>> Finished %posttrans scriptlet: libvirt-daemon-proxy-0:11.0.0-3.fc42.x86_64  
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtproxyd.socket'
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtproxyd-ro.sock
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtproxyd-admin.s
+>>>                                                                             
+>>> Running %posttrans scriptlet: libvirt-daemon-driver-qemu-0:11.0.0-3.fc42.x86
+>>> Finished %posttrans scriptlet: libvirt-daemon-driver-qemu-0:11.0.0-3.fc42.x8
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtqemud.socket' 
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtqemud-ro.socke
+>>> Created symlink '/etc/systemd/system/sockets.target.wants/virtqemud-admin.so
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/virtqemud.servi
+>>>                                                                             
+>>> Running %posttrans scriptlet: wireplumber-0:0.5.10-1.fc42.x86_64            
+>>> Finished %posttrans scriptlet: wireplumber-0:0.5.10-1.fc42.x86_64           
+>>> Scriptlet output:                                                           
+>>> Created symlink '/etc/systemd/user/pipewire-session-manager.service' 
+>>> Created symlink '/etc/systemd/user/pipewire.service.wants/wireplumber.servic
+>>>                                                                             
+>>> Running %triggerin scriptlet: systemd-0:257.7-1.fc42.x86_64                 
+>>> Finished %triggerin scriptlet: systemd-0:257.7-1.fc42.x86_64                
+>>> Scriptlet output:                                                           
+>>> Failed to connect to audit log, ignoring: Invalid argument                  
+>>>                                                                             
+Complete!
+
