@@ -22,8 +22,7 @@ dnf5 -y install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release
 dnf5 -y install dnf5-plugins
 dnf5 config-manager setopt fedora-cisco-openh264.enabled=1
 
-#dnf5 -y group install --skip-unavailable admin-tools \
-dnf5 -y group install --skip-unavailable admin-tools \
+dnf5 -y group install --setopt=install_weak_deps=False admin-tools \
                       container-management \
                       design-suite \
                       fonts \
